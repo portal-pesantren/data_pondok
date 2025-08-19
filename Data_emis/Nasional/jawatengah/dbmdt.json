@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "id": 395141,
+      "statistic_num": "311233080211",
+      "name": "PONDOK PESANTREN AWWAL II",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "KORIPAN, DAWUNG, TEGALREJO RT 5 RW 5 Kel. DAWUNG Kec. TEGALREJO MAGELANG JAWA TENGAH 56192"
+    },
+    {
+      "id": 190555,
+      "statistic_num": "311233100040",
+      "name": "MUHAMMADIYAH PONDOK",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "Pondok Kwarasan RT 3 RW 7 Kec. JUWIRING KLATEN JAWA TENGAH 57472"
+    },
+    {
+      "id": 120383,
+      "statistic_num": "311233160097",
+      "name": "MDT Ula MADRASAH DINIYYAH ASSALAM PONDOK PESANTREN WALISONGO",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "JL. NGRAHO-KETUWAN KM. 4 DESA WADO KECAMATAN KEDUNGTUBAN KABUPATEN BLORA RT 3 RW 1 Kel. WADO Kec. KEDUNGTUBAN BLORA JAWA TENGAH 58381"
+    },
+    {
+      "id": 328358,
+      "statistic_num": "311233160228",
+      "name": "MADRASAH DINIYYAH ASSALAM PONDOK PESANTREN WALISONGO",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "WADO RT 3 RW 1 Kec. KEDUNGTUBAN BLORA JAWA TENGAH 58381"
+    },
+    {
+      "id": 191203,
+      "statistic_num": "311233280701",
+      "name": "MDT NU PONDOK JATI",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "JL.MAKAM PONDOKJATI RT 01 RW 07 KERTASARI KEC.SURADADI KAB.TEGAL RT 1 RW 7 Kel. KERTASARI Kec. SURADADI TEGAL JAWA TENGAH 52182"
+    },
+    {
+      "id": 126908,
+      "statistic_num": "311233316028",
+      "name": "MADRASAH DINIYYAH ASSALAM PONDOK PESANTREN WALISONGO",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "WADO RT 3 RW 1 Kec. KEDUNGTUBAN BLORA JAWA TENGAH 58381"
+    },
+    {
+      "id": 387308,
+      "statistic_num": "331123316028",
+      "name": "MADRASAH DINIYYAH ASSALAM PONDOK PESANTREN WALISONGO",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "JL. NGRAHO-KETUWAN KM. 4 DESA WADO KECAMATAN KEDUNGTUBAN KABUPATEN BLORA RT 3 RW 1 Kec. KEDUNGTUBAN BLORA JAWA TENGAH 58381"
+    }
+  ]
+}

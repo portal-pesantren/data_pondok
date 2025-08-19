@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "id": 197665,
+      "statistic_num": "221235290101",
+      "name": "PDF WUSTHA PONDOK PESANTREN SALAFIYAH ASSADAD",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JALAN KH. HASYIM ASYARI GG II / 63 AMBUNTEN TIMUR KEC. AMBUNTEN KAB.SUMENEP RT 6 RW 3 Kel. AMBUNTEN TIMUR Kec. AMBUNTEN SUMENEP JAWA TIMUR 69455"
+    },
+    {
+      "id": 240968,
+      "statistic_num": "231235190085",
+      "name": "PDF ULYA PONDOK PESANTREN AL-JAYADI",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN. KETANDAN RT.006/RW.001 RT 6 RW 1 Kel. KETANDAN Kec. DAGANGAN MADIUN JAWA TIMUR 63172"
+    }
+  ]
+}

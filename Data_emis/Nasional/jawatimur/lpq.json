@@ -1,0 +1,134 @@
+{
+  "results": [
+    {
+      "id": 235544,
+      "statistic_num": "411235010139",
+      "name": "TPQ PONDOK WATES",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JLN MAULANA MALIK IBRAHIM NO. 48 DESA WIDORO PACITAN Kec. PACITAN PACITAN JAWA TIMUR"
+    },
+    {
+      "id": 449305,
+      "statistic_num": "411235063350",
+      "name": "PONDOK GAYENG",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. Bringin No. 44 tulungrejo pare kediri RT 21 RW 10 Kec. GROGOL KEDIRI JAWA TIMUR 00000"
+    },
+    {
+      "id": 443752,
+      "statistic_num": "411235084351",
+      "name": "Nurul Ulum Pondokjaya",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Pondokjaya RT 4 RW 6 Kec. LUMAJANG LUMAJANG JAWA TIMUR 00000"
+    },
+    {
+      "id": 375245,
+      "statistic_num": "411235151624",
+      "name": "TPQ MASJID PONDOK MUTIARA",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "PONDOK MUTIARA JL. MUTIARA SELATAN BOULEVARD RT 26 RW 12 Kel. BANJARBENDO Kec. SIDOARJO SIDOARJO JAWA TIMUR 61225"
+    },
+    {
+      "id": 267188,
+      "statistic_num": "411235172201",
+      "name": "TPQ PONDOK ANGKRING DARUL MUCHSHIN",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. MASJID NGUMPUL RT 8 RW 4 JOMBANG JAWA TIMUR 61485"
+    },
+    {
+      "id": 424990,
+      "statistic_num": "411235172577",
+      "name": "TPQ PONDOK PESANTREN AL IMRONIYAH",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JALAN PONDOK PESANTREN AL IMRONIYAH RT/RW 003/001 DUSUN TEMON DS. TEMUWULAN KEC. PERAK RT 3 RW 1 Kel. TEMUWULAN Kec. PERAK JOMBANG JAWA TIMUR 61461"
+    },
+    {
+      "id": 129434,
+      "statistic_num": "411235190588",
+      "name": "TPQ PONDOK QURAN",
+      "jenjang": "TQA",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DS DIMONG Kec. MADIUN MADIUN JAWA TIMUR"
+    },
+    {
+      "id": 410552,
+      "statistic_num": "411235211830",
+      "name": "PONDOK",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "PONDOK Kec. KASREMAN NGAWI JAWA TIMUR"
+    },
+    {
+      "id": 406001,
+      "statistic_num": "411235221592",
+      "name": "PONDOK TPA BARU",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN BRENDO DS. SUMBERBENDO Kec. BUBULAN BOJONEGORO JAWA TIMUR"
+    },
+    {
+      "id": 230831,
+      "statistic_num": "411235240783",
+      "name": "PONDOK PESANTREN ALMUHAJIR MUHAMMADIYAH",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN. TREWEK DS. KANDANGREJO RT 2 RW 3 Kec. KEDUNGPRING LAMONGAN JAWA TIMUR 62272"
+    },
+    {
+      "id": 268846,
+      "statistic_num": "411235240788",
+      "name": "PONDOK PESANTREN IHYAUDIN",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "GEMPOL BANJAREJO RT 2 RW 7 Kel. BANJAREJO Kec. KEDUNGPRING LAMONGAN JAWA TIMUR 62272"
+    },
+    {
+      "id": 233363,
+      "statistic_num": "411235241297",
+      "name": "TPQ PONDOK MODERN",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JLN. PONDOK RT 5 RW 5 Kel. PACIRAN Kec. PACIRAN LAMONGAN JAWA TIMUR 62264"
+    },
+    {
+      "id": 134715,
+      "statistic_num": "412351704100",
+      "name": "PONDOK PESANTREN AL-AQOBAH",
+      "jenjang": "TKQ",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. GERILYA 52 Kec. DIWEK JOMBANG JAWA TIMUR"
+    }
+  ]
+}

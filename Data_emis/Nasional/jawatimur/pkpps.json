@@ -1,0 +1,134 @@
+{
+  "results": [
+    {
+      "id": 308595,
+      "statistic_num": "510035070090",
+      "name": "Pondok Modern Al-Rifa'ie 2",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. RAYA KETAWANG NO.02 RT 9 RW 7 Kec. GONDANGLEGI MALANG JAWA TIMUR 65174"
+    },
+    {
+      "id": 305584,
+      "statistic_num": "510035230024",
+      "name": "PONDOK PESANTREN PPS. RAUDLATUT THALIBIN",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JLN. K. DJONED NO 100 JATISARI RT 14 RW 2 Kec. SENORI TUBAN JAWA TIMUR 62365"
+    },
+    {
+      "id": 397128,
+      "statistic_num": "510035280088",
+      "name": "PONDOK PESANTREN AL FALAH",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN GUNGGUH RT 7 RW 1 Kel. SEDDUR Kec. PAKONG PAMEKASAN JAWA TIMUR 69352"
+    },
+    {
+      "id": 311578,
+      "statistic_num": "510035780071",
+      "name": "PONDOK PESANTREN RAUDLATUL MUKHLISHIN",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JATISRONO TIMUR 6/2 RT 13 RW 14 Kel. UJUNG Kec. SEMAMPIR KOTA SURABAYA JAWA TIMUR 60155"
+    },
+    {
+      "id": 364699,
+      "statistic_num": "510335020051",
+      "name": "PONDOK PESANTREN TAHFIDZUL QUR AN HASAN MUNADI",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. WIROTO RT 1 RW 1 Kel. KARANGAN Kec. BADEGAN PONOROGO JAWA TIMUR 63455"
+    },
+    {
+      "id": 365428,
+      "statistic_num": "510335070057",
+      "name": "PONDOK PESANTREN PPS. ROUDLOTUL ULUM",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KH. ABDURRAHMAN RT 27 RW 3 Kel. GAJAHREJO Kec. GEDANGAN MALANG JAWA TIMUR 65178"
+    },
+    {
+      "id": 275367,
+      "statistic_num": "510335100009",
+      "name": "PONDOK PESANTREN DARUL HIKMAH",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "GEMBOLO PURWODADI GAMBIRAN BANYUWANGI RT 4 RW 2 Kec. GAMBIRAN BANYUWANGI JAWA TIMUR 68486"
+    },
+    {
+      "id": 91619,
+      "statistic_num": "510335130011",
+      "name": "PPS. MAMBAUL ULUM ULA PONDOKWULUH",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DESA PONDOKWULUH RT 10 RW 4 Kel. PONDOK WULUH Kec. LECES PROBOLINGGO JAWA TIMUR 67273"
+    },
+    {
+      "id": 316056,
+      "statistic_num": "510335180034",
+      "name": "PONDOK PESANTREN NURUL JAMAL",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "PUTUK KAMPUNGBARU RT 3 RW 2 Kel. KAMPUNGBARU Kec. TANJUNGANOM NGANJUK JAWA TIMUR 64482"
+    },
+    {
+      "id": 138543,
+      "statistic_num": "510335770017",
+      "name": "PONDOK PESANTREN BAKTI IBU BOARDING SCHOOL",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. RINGROAD BARAT KM 2 NO. 16 RT 17 RW 5 KOTA MADIUN JAWA TIMUR 63125"
+    },
+    {
+      "id": 326752,
+      "statistic_num": "510335780015",
+      "name": "PONDOK PESANTREN NURUL KHOIR",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "WONOREJO GG. MASJID NO. 2 RUNGKUT SURABAYA RT 1 RW 1 Kec. WONOCOLO KOTA SURABAYA JAWA TIMUR 60296"
+    },
+    {
+      "id": 217943,
+      "statistic_num": "512335010001",
+      "name": "PPS PERGURUAN ISLAM PONDOK TREMAS PACITAN",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. PATREM NO.21 TREMAS RT 1 RW 1 Kel. TREMAS Kec. ARJOSARI PACITAN JAWA TIMUR 63581"
+    },
+    {
+      "id": 113726,
+      "statistic_num": "512350704032",
+      "name": "PONDOK PESANTREN MAMBAUL ULUM",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN TUNJUNGSARI , DESA BANTUR RT 26 RW 6 Kec. PAGAK MALANG JAWA TIMUR 65179"
+    }
+  ]
+}

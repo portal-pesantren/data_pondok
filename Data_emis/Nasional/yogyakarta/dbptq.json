@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "id": 435364,
+      "statistic_num": "406234020002",
+      "name": "PONDOK PESANTREN TAHFIDZUL QUR'AN AL FATIH",
+      "jenjang": "PTQ",
+      "status": "active",
+      "province_id": 34,
+      "province_name": "DAERAH ISTIMEWA YOGYAKARTA",
+      "address": "Jl Rajawali, Gang Ontoseno No.57, Babadan Baru RT 13 Kel. BANGUNTAPAN Kec. BANGUNTAPAN BANTUL DAERAH ISTIMEWA YOGYAKARTA 55198"
+    },
+    {
+      "id": 437748,
+      "statistic_num": "406234020004",
+      "name": "PPTQ Pondok IT",
+      "jenjang": "PTQ",
+      "status": "active",
+      "province_id": 34,
+      "province_name": "DAERAH ISTIMEWA YOGYAKARTA",
+      "address": "Desa Tirtohargo dsn Kalangan, Rt/Rw 01/00, Gegunung, Tirtohargo, Kec. Kretek, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55772 RT 1 Kec. KRETEK BANTUL DAERAH ISTIMEWA YOGYAKARTA 00000"
+    }
+  ]
+}

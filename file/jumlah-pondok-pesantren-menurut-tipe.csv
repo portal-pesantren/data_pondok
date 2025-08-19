@@ -1,0 +1,107 @@
+kode_wilayah,provinsi,kitab,kitab_dan_lainnya,jumlah,tahun_ajaran
+11,Aceh,778,508,1286,2020/2021
+12,"Sumatera Utara",47,205,252,2020/2021
+13,"Sumatera Barat",45,195,240,2020/2021
+14,Riau,49,252,301,2020/2021
+15,Jambi,56,234,290,2020/2021
+16,"Sumatera Selatan",87,291,378,2020/2021
+17,Bengkulu,4,50,54,2020/2021
+18,Lampung,261,643,904,2020/2021
+19,"Kep. Bangka Belitung",9,48,57,2020/2021
+21,"Kepulauan Riau",30,68,98,2020/2021
+31,"DKI Jakarta",15,98,113,2020/2021
+32,"Jawa Barat",5438,3872,9310,2020/2021
+33,"Jawa Tengah",1807,2120,3927,2020/2021
+34,"DI Yogyakarta",119,218,337,2020/2021
+35,"Jawa Timur",1007,4114,5121,2020/2021
+36,Banten,3294,2050,5344,2020/2021
+51,Bali,25,67,92,2020/2021
+52,"Nusa Tenggara Barat",40,690,730,2020/2021
+53,"Nusa Tenggara Timur",6,29,35,2020/2021
+61,"Kalimantan Barat",31,234,265,2020/2021
+62,"Kalimantan Tengah",18,73,91,2020/2021
+63,"Kalimantan Selatan",42,222,264,2020/2021
+64,"Kalimantan Timur",30,146,176,2020/2021
+65,"Kalimantan Utara",2,21,23,2020/2021
+71,"Sulawesi Utara",0,22,22,2020/2021
+72,"Sulawesi Tengah",20,89,109,2020/2021
+73,"Sulawesi Selatan",42,300,342,2020/2021
+74,"Sulawesi Tenggara",7,102,109,2020/2021
+75,Gorontalo,2,29,31,2020/2021
+76,"Sulawesi Barat",10,76,86,2020/2021
+81,Maluku,9,15,24,2020/2021
+82,"Maluku Utara",3,25,28,2020/2021
+91,Papua,0,37,37,2020/2021
+92,"Papua Barat",0,18,18,2020/2021
+11,Aceh,710,916,1626,2021/2022
+12,"Sumatera Utara",98,247,345,2021/2022
+13,"Sumatera Barat",33,230,263,2021/2022
+14,Riau,85,318,403,2021/2022
+15,Jambi,19,347,366,2021/2022
+16,"Sumatera Selatan",145,365,510,2021/2022
+17,Bengkulu,12,72,84,2021/2022
+18,Lampung,365,782,1147,2021/2022
+19,"Kep. Bangka Belitung",13,66,79,2021/2022
+21,"Kepulauan Riau",13,101,114,2021/2022
+31,"DKI Jakarta",22,113,135,2021/2022
+32,"Jawa Barat",6693,5004,11697,2021/2022
+33,"Jawa Tengah",1805,3037,4842,2021/2022
+34,"DI Yogyakarta",119,273,392,2021/2022
+35,"Jawa Timur",1742,4696,6438,2021/2022
+36,Banten,4000,2290,6290,2021/2022
+51,Bali,26,79,105,2021/2022
+52,"Nusa Tenggara Barat",135,728,863,2021/2022
+53,"Nusa Tenggara Timur",3,38,41,2021/2022
+61,"Kalimantan Barat",20,287,307,2021/2022
+62,"Kalimantan Tengah",21,88,109,2021/2022
+63,"Kalimantan Selatan",55,234,289,2021/2022
+64,"Kalimantan Timur",53,161,214,2021/2022
+65,"Kalimantan Utara",0,34,34,2021/2022
+71,"Sulawesi Utara",1,27,28,2021/2022
+72,"Sulawesi Tengah",32,98,130,2021/2022
+73,"Sulawesi Selatan",57,332,389,2021/2022
+74,"Sulawesi Tenggara",12,105,117,2021/2022
+75,Gorontalo,3,35,38,2021/2022
+76,"Sulawesi Barat",13,88,101,2021/2022
+81,Maluku,4,24,28,2021/2022
+82,"Maluku Utara",5,30,35,2021/2022
+91,Papua,0,47,47,2021/2022
+92,"Papua Barat",2,18,20,2021/2022
+11,Aceh,1297,417,1714,2023
+12,"Sumatera Utara",184,189,373,2023
+13,"Sumatera Barat",148,125,273,2023
+14,Riau,249,200,449,2023
+15,Jambi,230,186,416,2023
+16,"Sumatera Selatan",261,282,543,2023
+17,Bengkulu,49,41,90,2023
+18,Lampung,621,575,1196,2023
+19,"Kepulauan Bangka Belitung",58,24,82,2023
+21,"Kepulauan Riau",81,37,118,2023
+31,"DKI Jakarta",59,90,149,2023
+32,"Jawa Barat",8312,3809,12121,2023
+33,"Jawa Tengah",3029,2055,5084,2023
+34,"Daerah Istimewa Yogyakarta",261,138,399,2023
+35,"Jawa Timur",3055,3690,6745,2023
+36,Banten,4246,2186,6432,2023
+51,Bali,61,43,104,2023
+52,"Nusa Tenggara Barat",267,619,886,2023
+53,"Nusa Tenggara Timur",26,15,41,2023
+61,"Kalimantan Barat",195,120,315,2023
+62,"Kalimantan Tengah",67,40,107,2023
+63,"Kalimantan Selatan",136,164,300,2023
+64,"Kalimantan Timur",88,134,222,2023
+65,"Kalimantan Utara",26,11,37,2023
+71,"Sulawesi Utara",14,17,31,2023
+72,"Sulawesi Tengah",71,63,134,2023
+73,"Sulawesi Selatan",173,221,394,2023
+74,"Sulawesi Tenggara",88,40,128,2023
+75,Gorontalo,21,19,40,2023
+76,"Sulawesi Barat",40,64,104,2023
+81,Maluku,17,12,29,2023
+82,"Maluku Utara",22,16,38,2023
+91,"Papua Barat",29,21,50,2023
+92,"Papua Barat Daya",16,7,23,2023
+93,"Papua Selatan",0,0,0,0
+94,Papua,0,0,0,0
+95,"Papua Pegunungan",0,0,0,0
+96,"Papua Tengah",0,0,0,0

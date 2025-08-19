@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "id": 374179,
+      "statistic_num": "311235080182",
+      "name": "MDT NURUL ULUM PONDOKJAYA",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN PONDOKJAYA RT 4 RW 6 Kel. SUKOSARI Kec. JATIROTO LUMAJANG JAWA TIMUR 67355"
+    },
+    {
+      "id": 437427,
+      "statistic_num": "311235261172",
+      "name": "Pondok Pendowo Limo",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Bandung Barat Desa Keleyan RT 1 RW 2 BANGKALAN JAWA TIMUR 69161"
+    },
+    {
+      "id": 446559,
+      "statistic_num": "311235261330",
+      "name": "MDT Ula Yayasan Pondok Pesantren Az-Zainiyyah II",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Lentarah Moarah Klampis Bangkalan RT 2 RW 1 Kel. MOARAH Kec. KLAMPIS BANGKALAN JAWA TIMUR 69153"
+    },
+    {
+      "id": 451652,
+      "statistic_num": "312235241557",
+      "name": "MDT Ula PONDOK PESANTREN NAHDLATUL WATHAN",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JALAN MANTUB- SAMBENG, NO 02, RT/RW 004/002 RT 2 RW 4 LAMONGAN JAWA TIMUR 62284"
+    },
+    {
+      "id": 132793,
+      "statistic_num": "321235170083",
+      "name": "MDT WUSTHO PONDOK TINGGI DARUL ULUM",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DS. PETERONGAN KEC. PETERONGAN KAB. JOMBANG RT 27 RW 4 Kel. PETERONGAN Kec. PETERONGAN JOMBANG JAWA TIMUR 61481"
+    }
+  ]
+}

@@ -1,0 +1,3494 @@
+{
+  "results": [
+    {
+      "id": 261462,
+      "statistic_num": "500035050141",
+      "name": "PONDOK PESANTREN TAHFIDHIL QUR'AN MAMBA'UL HIKMAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. MELATI RT. 02 RW,  05 JINGGLONG Kec. SUTOJAYAN BLITAR JAWA TIMUR"
+    },
+    {
+      "id": 326147,
+      "statistic_num": "500035090644",
+      "name": "PONDOK PESANTREN MODERN MBS AL MUKHTAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KOTTA BLATER KM.3 WATUKEBO ANDONGSARI RT 1 RW 10 Kel. ANDONGSARI Kec. AMBULU JEMBER JAWA TIMUR 68172"
+    },
+    {
+      "id": 252578,
+      "statistic_num": "500035090645",
+      "name": "PONDOK PESANTREN MUHAMMADIYAH NURUL HUSNA JEMBER",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JALAN JAMBU NO 39 RT 1 RW 11 Kec. PATRANG JEMBER JAWA TIMUR"
+    },
+    {
+      "id": 253082,
+      "statistic_num": "500035160142",
+      "name": "PONDOK PESANTREN NURUL HIDAYAH BEDAGAS",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. RADEN PATAH GG. 03 DSN. BEDAGAS RT. 003 RW.002 DS. TUNGGALPAGER KEC. PUNGGING, KAB. MOJOKERTO, KODE POS 61384 RT 3 RW 2 Kel. TUNGGALPAGER Kec. PUNGGING MOJOKERTO JAWA TIMUR 61384"
+    },
+    {
+      "id": 144492,
+      "statistic_num": "500035180177",
+      "name": "PONDOK PESANTREN MUHAMMADIYAH SEPANG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Sepang, Balongrejo, Berbek Kel. BALONGREJO Kec. BERBEK NGANJUK JAWA TIMUR 64473"
+    },
+    {
+      "id": 180284,
+      "statistic_num": "500035240177",
+      "name": "PONDOK PESANTREN MIFTAHUL ULUM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KH. MOH. ANWAR NO. 01 DS. SOLOKURO KEC. SOLOKURO Kec. SOLOKURO LAMONGAN JAWA TIMUR"
+    },
+    {
+      "id": 348264,
+      "statistic_num": "500335070108",
+      "name": "PONDOK PESANTREN ASH SHIDDIQI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. MASJID BAITURRAHMAN NO 999 RT 45 RW 6 Kec. BANTUR MALANG JAWA TIMUR"
+    },
+    {
+      "id": 133328,
+      "statistic_num": "500335070111",
+      "name": "PONDOK PESANTREN MODERN DAARUL FIKRI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. MARGOJOYO VII/6 RT 1 RW 2 Kel. MULYOAGUNG Kec. DAU MALANG JAWA TIMUR 65151"
+    },
+    {
+      "id": 97250,
+      "statistic_num": "500335070119",
+      "name": "PONDOK PESANTREN NURUL HAROMAIN 8",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. SUPITURANG RT 02 RW 11 DESA BOCEK RT 2 RW 11 MALANG JAWA TIMUR 65152"
+    },
+    {
+      "id": 212381,
+      "statistic_num": "500335070125",
+      "name": "PONDOK PESANTREN MAMBAUL ULUM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KH. HASYIM ASYARI KETITANG RT 4 RW 2 Kel. PAJARAN Kec. PONCOKUSUMO MALANG JAWA TIMUR 65157"
+    },
+    {
+      "id": 122762,
+      "statistic_num": "500335090615",
+      "name": "PONDOK PESANTREN AL - ISHLAH PUTRI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. MATARAM NO. 7 RT. 18 RW 02 JENGGAWAH JEMBER JAWA TIMUR KODE POS : 68171 Kec. JENGGAWAH JEMBER JAWA TIMUR"
+    },
+    {
+      "id": 204067,
+      "statistic_num": "500335090627",
+      "name": "PONDOK PESANTREN SUNAN AMPEL",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KARTINI. NO. 3 KEBONAN GUMUKMAS Kel. GUMUKMAS Kec. GUMUKMAS JEMBER JAWA TIMUR 68165"
+    },
+    {
+      "id": 97818,
+      "statistic_num": "500335090628",
+      "name": "PONDOK PESANTREN AR-ROUDLOH MASITAH JAYA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL.KH.SHOLEH AFANDI NO.9RT.003/RW.005. DESA ROWOTENGAH RT 3 RW 5 JEMBER JAWA TIMUR"
+    },
+    {
+      "id": 132890,
+      "statistic_num": "500335090630",
+      "name": "PONDOK PESANTREN NURUL HUDA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DESA SUMBERWRINGIN SUKOWONO JEMBER RT 1 RW 6 Kel. SUMBERWRINGIN Kec. SUKOWONO JEMBER JAWA TIMUR 68194"
+    },
+    {
+      "id": 238772,
+      "statistic_num": "500335130102",
+      "name": "PONDOK PESANTREN KHOLAFIYAH HASANIYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL.  R. SIDHARTA NO. 45, DESA GADING WETAN RT 5 RW 3 Kel. GADINGWETAN Kec. GADING PROBOLINGGO JAWA TIMUR 67292"
+    },
+    {
+      "id": 191072,
+      "statistic_num": "500335190091",
+      "name": "PONDOK TAHFIDZ IBNU  BATUTAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DKH. KLUWUNG RT 17 RW 05 DS. CABEAN KEC. SAWAHAN KAB. MADIUN JAWA TIMUR RT 17 RW 5 Kel. CABEAN Kec. SAWAHAN MADIUN JAWA TIMUR 63162"
+    },
+    {
+      "id": 250161,
+      "statistic_num": "500335250098",
+      "name": "PONDOK PESANTREN REFAH ISLAMI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JALAN RAYA SUKOREJO RT 01 RW 01 RT 1 RW 1 Kel. SUKOREJO Kec. SIDAYU GRESIK JAWA TIMUR 61153"
+    },
+    {
+      "id": 240707,
+      "statistic_num": "500335250111",
+      "name": "PONDOK PESANTREN AL-FURQON 2",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. GRANIT KUMALA 5.4 NO. 11 - 13 KBD RT 4 RW 15 Kel. PETIKEN Kec. DRIYOREJO GRESIK JAWA TIMUR 61177"
+    },
+    {
+      "id": 147342,
+      "statistic_num": "500335260136",
+      "name": "PONDOK PESATREN SALAFIYAH ASH-SHAHIHIYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KH. AF'AL PERTIGA ROSEP KEC. BLEGA Kec. BLEGA BANGKALAN JAWA TIMUR"
+    },
+    {
+      "id": 321723,
+      "statistic_num": "500335280257",
+      "name": "PONDOK PESANTREN AL-QADIRY",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "SENTOL PADEMAWU PAMEKASAN MADURA RT 3 RW 3 Kec. PADEMAWU PAMEKASAN JAWA TIMUR"
+    },
+    {
+      "id": 148698,
+      "statistic_num": "500335280265",
+      "name": "PONDOK PESANTREN RUHUL QURAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. NYALABU PERMAI NO.1 PAMEKASAN Kec. PAMEKASAN PAMEKASAN JAWA TIMUR"
+    },
+    {
+      "id": 305055,
+      "statistic_num": "500335290223",
+      "name": "PONDOK PESANTREN PUTRI 1 AL-AMIEN PRENDUAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. RAYA PAMEKASAN-SUMENEP NO 2A RT 1 RW 2 Kel. PRAGAAN LAOK Kec. PRAGAAN SUMENEP JAWA TIMUR 69465"
+    },
+    {
+      "id": 330619,
+      "statistic_num": "500335290235",
+      "name": "PONDOK PESANTREN NURUL MUCHLISHIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. NURUL HUDA NO. 48,PAKONDANG RUBARU RT 5 RW 1 Kel. PAKONDANG Kec. RUBARU SUMENEP JAWA TIMUR 69456"
+    },
+    {
+      "id": 87076,
+      "statistic_num": "500335780052",
+      "name": "PONDOK PESANTREN AL-QUR'AN ASY-SYAHADAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. TAMBAK WEDI LEBAR  BLOK H NO 5 RT 2 RW 1 Kel. TAMBAK WEDI Kec. KENJERAN KOTA SURABAYA JAWA TIMUR 60126"
+    },
+    {
+      "id": 178356,
+      "statistic_num": "500335780061",
+      "name": "PONDOK PESANTREN EL RAHMAH FAINA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "PAGESANGAN 4 NO. 35 RT 3 RW 3 Kel. PAGESANGAN Kec. JAMBANGAN KOTA SURABAYA JAWA TIMUR 60233"
+    },
+    {
+      "id": 370702,
+      "statistic_num": "502335050144",
+      "name": "PONDOK PESANTREN NURUL HASAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Raya Blitar Tulungagung RT 1 RW 4 Kel. PLOSOARANG Kec. SANANKULON BLITAR JAWA TIMUR 66151"
+    },
+    {
+      "id": 248902,
+      "statistic_num": "502335100142",
+      "name": "Pondok Pesantren Modern Al-Azhar Muncar",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl.Ompaksongo RT 3 RW 4 Kel. TEMBOKREJO Kec. MUNCAR BANYUWANGI JAWA TIMUR 68472"
+    },
+    {
+      "id": 146756,
+      "statistic_num": "502335170121",
+      "name": "PONDOK PESANTREN AL-HIKMAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN. TANGGUNGAN SANTREN RT 3 RW 10 Kel. BANDUNG Kec. DIWEK JOMBANG JAWA TIMUR 61471"
+    },
+    {
+      "id": 370935,
+      "statistic_num": "502335240216",
+      "name": "PONDOK PESANTREN BAITUSSALAM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN.SUREN DS.BLULUK KEC.BLULUK KAB.LAMONGAN RT 1 RW 4 Kec. BLULUK LAMONGAN JAWA TIMUR 62274"
+    },
+    {
+      "id": 278390,
+      "statistic_num": "502335250106",
+      "name": "PONDOK PESANTREN MAMBAUL ULUM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "WEDOROANOM RT.06 RW.02 DRIYOREJO GRESIK RT 6 RW 2 Kel. ANOM Kec. DRIYOREJO GRESIK JAWA TIMUR 61177"
+    },
+    {
+      "id": 137018,
+      "statistic_num": "502335250120",
+      "name": "PONDOK PESANTREN AR RAHMAH AL ISLAMY",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DS. GOLOKAN RT/04 RW/02 KEC SIDAYU KAB GRESIK RT 4 RW 2 Kel. GOLOKAN Kec. SIDAYU GRESIK JAWA TIMUR 61153"
+    },
+    {
+      "id": 197985,
+      "statistic_num": "502335250122",
+      "name": "PONDOK PESANTREN HIKMATUL UMMAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KA. SYAFEK NO. 396 DESA WEDORANOM RT 9 RW 4 Kel. ANOM Kec. DRIYOREJO GRESIK JAWA TIMUR 61177"
+    },
+    {
+      "id": 448679,
+      "statistic_num": "502335290214",
+      "name": "PONDOK PESANTREN AL-AMIEN PRENDUAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Desa Pragaan Laok kec. Pragaan Kab. Sumenep Madura SUMENEP JAWA TIMUR"
+    },
+    {
+      "id": 283473,
+      "statistic_num": "502335290270",
+      "name": "PONDOK PESANTREN RAHMATUL ULUM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. RAYA SASAMPAN NO. 2 SABUNTAN RT 2 RW 2 Kel. SABUNTEN Kec. SAPEKEN SUMENEP JAWA TIMUR 69493"
+    },
+    {
+      "id": 230208,
+      "statistic_num": "502335290273",
+      "name": "Pondok Pesantren Al - As`adiyah",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN BONDAT RT 1 RW 1 Kel. SAUR SAEBUS Kec. SAPEKEN SUMENEP JAWA TIMUR 69493"
+    },
+    {
+      "id": 331586,
+      "statistic_num": "502335720016",
+      "name": "PONDOK PESANTREN TAHFIDZUL QUR'AN AL-ISTIQOMAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Kenari, Nomor.101, RT02/RW04 RT 2 RW 4 Kel. PLOSOKEREP Kec. SANANWETAN KOTA BLITAR JAWA TIMUR 66134"
+    },
+    {
+      "id": 410975,
+      "statistic_num": "502335730061",
+      "name": "PONDOK PESANTREN MANAJER THOLABIE",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KH MALIK DALAM RT 01 RW 07 BARAN BURING RT 1 RW 7 Kel. BURING Kec. KEDUNGKANDANG KOTA MALANG JAWA TIMUR 65136"
+    },
+    {
+      "id": 329061,
+      "statistic_num": "502335780028",
+      "name": "PONDOK PESANTREN YATIM HIMMATUN AYAT",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. DUKUH KUPANG XX/40 SURABAYA RT 4 RW 1 Kec. DUKUH PAKIS KOTA SURABAYA JAWA TIMUR 60225"
+    },
+    {
+      "id": 236591,
+      "statistic_num": "502335780056",
+      "name": "PONDOK PESANTREN MADZAHIBUL ARBA'AH AL-HASBY",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUKUH BULAK BANTENG SEKOLAHAN GANG IX.A NO.36 RT 4 RW 6 Kel. BULAK BANTENG Kec. KENJERAN KOTA SURABAYA JAWA TIMUR 60127"
+    },
+    {
+      "id": 128068,
+      "statistic_num": "510035010041",
+      "name": "PONDOK PESANTREN BUSTANU `USYSYAQIL QUR`AN (BUQ) KARANGREJO",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Trobakal RT.002 RW.005 Kec. ARJOSARI PACITAN JAWA TIMUR"
+    },
+    {
+      "id": 99958,
+      "statistic_num": "510035010043",
+      "name": "PONDOK PESANTREN TAHFIZHUL QUR’AN AR ROYYAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Gunung Cilik, Desa Purwoasri RT 2 RW 10 Kec. KEBONAGUNG PACITAN JAWA TIMUR 63561"
+    },
+    {
+      "id": 238326,
+      "statistic_num": "510035020022",
+      "name": "PONDOK MODERN ARRISALAH PROGRAM INTERNASIONAL",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN. BAKALAN DS. GUNDIK, KEC. SLAHUNG RT 2 RW 1 Kec. SLAHUNG PONOROGO JAWA TIMUR 63463"
+    },
+    {
+      "id": 296122,
+      "statistic_num": "510035020110",
+      "name": "PONDOK PESANTREN AL MADINA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Halmahera RT/RW 02/02 Desa Semanding RT 2 RW 2 Kec. KAUMAN PONOROGO JAWA TIMUR"
+    },
+    {
+      "id": 250222,
+      "statistic_num": "510035020112",
+      "name": "PONDOK TAHFIDZ AL-QUR'AN KARANGMOJO",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jalan Agung Dukuh Blender RT. 01/RW. 02 RT 1 RW 2 Kel. KARANGMOJO Kec. BALONG PONOROGO JAWA TIMUR 63461"
+    },
+    {
+      "id": 285318,
+      "statistic_num": "510035020113",
+      "name": "PONDOK PESANTERN PUTRI K.H. MASDUQI THOYYIB",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Yos Sudarso No. 8-C Brotonegaran Ponorogo RT 1 RW 8 Kel. BROTONEGARAN Kec. PONOROGO PONOROGO JAWA TIMUR 63419"
+    },
+    {
+      "id": 410050,
+      "statistic_num": "510035020114",
+      "name": "PONDOK PESANTREN AL-BUKHORI MANGUNAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. KH.Bukhori No. 01 Mangunan Tulung Sampung RT 2 RW 4 Kec. SAMPUNG PONOROGO JAWA TIMUR"
+    },
+    {
+      "id": 391497,
+      "statistic_num": "510035030041",
+      "name": "PONDOK NGELO",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DESA SUKORAME Kec. GANDUSARI TRENGGALEK JAWA TIMUR 66372"
+    },
+    {
+      "id": 178406,
+      "statistic_num": "510035030063",
+      "name": "PONDOK PESANTREN MODERN HASAN MUNAHIR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DESA JATI KECAMATAN KARANGAN KAB TRENGGALEK RT 17 RW 5 Kel. JATI Kec. KARANGAN TRENGGALEK JAWA TIMUR 66361"
+    },
+    {
+      "id": 190857,
+      "statistic_num": "510035040004",
+      "name": "Pondok Salafiyah Pesantren Sabilil Muttaqien",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KAPTEN KASIHIN 39 TULUNGAGUNG Kec. KEDUNGWARU TULUNGAGUNG JAWA TIMUR 66229"
+    },
+    {
+      "id": 139395,
+      "statistic_num": "510035040049",
+      "name": "PONDOK PESANTREN PUTRA MENARA AL FATTAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. KHR. Abdl Fattah RT 4 RW 3 Kel. MANGUNSARI Kec. KEDUNGWARU TULUNGAGUNG JAWA TIMUR 66228"
+    },
+    {
+      "id": 154303,
+      "statistic_num": "510035040060",
+      "name": "PONDOK MODERN NURUL HIDAYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jalan Sawunggaling RT.002/RW.005 Kec. REJOTANGAN TULUNGAGUNG JAWA TIMUR"
+    },
+    {
+      "id": 433520,
+      "statistic_num": "510035040065",
+      "name": "Pondok Pesantren Hidayatul Mubtadiin Sunan Giri",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Brantas No. 56 Tugurante-Ngunut RT 3 RW 2 Kel. NGUNUT Kec. NGUNUT TULUNGAGUNG JAWA TIMUR 66292"
+    },
+    {
+      "id": 372183,
+      "statistic_num": "510035050095",
+      "name": "PONDOK TIMUR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "KEMLOKO Kec. NGLEGOK BLITAR JAWA TIMUR 66181"
+    },
+    {
+      "id": 301057,
+      "statistic_num": "510035050152",
+      "name": "PONDOK PESANTREN QUEEN NASYRUL ULUM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jln. Pesantren Dsn. Modangan Ds. Modangan RT 1 RW 3 Kec. NGLEGOK BLITAR JAWA TIMUR"
+    },
+    {
+      "id": 269908,
+      "statistic_num": "510035050154",
+      "name": "PONDOK PESANTREN TAHFIDZUL QUR'AN AL-KHUSNA",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JLN.PONPES AL-KHUSNA NO.01 SELOREJO RT 1 RW 5 Kel. SIDOREJO Kec. PONGGOK BLITAR JAWA TIMUR 66153"
+    },
+    {
+      "id": 282300,
+      "statistic_num": "510035050155",
+      "name": "PONDOK PESANTREN MAMBAUL ULUM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Ds. Margomulyo RT.01 RW.03 Kec. Panggungrejo RT 1 RW 3 Kel. MARGOMULYO Kec. PANGGUNGREJO BLITAR JAWA TIMUR 66174"
+    },
+    {
+      "id": 154906,
+      "statistic_num": "510035060147",
+      "name": "PONDOK BLAWE",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN. BLAWE KULON DESA BLAWE RT 4 RW 1 Kel. BLAWE Kec. PURWOASRI KEDIRI JAWA TIMUR 64154"
+    },
+    {
+      "id": 227834,
+      "statistic_num": "510035060355",
+      "name": "PONDOK TAHFIDZ MODERN AL-IMAM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dsn. Kwarasan Kidul, RT 08 RW 02 RT 8 RW 2 Kel. TIRU KIDUL Kec. GURAH KEDIRI JAWA TIMUR 64181"
+    },
+    {
+      "id": 374460,
+      "statistic_num": "510035060379",
+      "name": "PONDOK PESANTREN AL MUBAROK",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dsn Cangkring RT 01/ RW 06 RT 1 RW 6 Kel. BANJARANYAR Kec. KRAS KEDIRI JAWA TIMUR 64172"
+    },
+    {
+      "id": 185663,
+      "statistic_num": "510035060385",
+      "name": "PONDOK PESANTREN AL-ISHLAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Beringin RT 04 RW 06 Kec. GURAH KEDIRI JAWA TIMUR"
+    },
+    {
+      "id": 211637,
+      "statistic_num": "510035060655",
+      "name": "PONDOK PESANTREN DARUL MUSLIMIN MUHAMMADIYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Manstrip Kamp. Pandean RT 13 RW 04 Kec. PARE KEDIRI JAWA TIMUR 64211"
+    },
+    {
+      "id": 384740,
+      "statistic_num": "510035070092",
+      "name": "PONDOK PESANTREN STUDI AL-QUR'AN (PPSQ) PUTRA DAN PUTRI JMT",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. MASJID NO 26 RT.02 RW.03 Kel. PAGENTAN Kec. SINGOSARI MALANG JAWA TIMUR 65153"
+    },
+    {
+      "id": 183694,
+      "statistic_num": "510035070110",
+      "name": "PONDOK PESANTREN MA'WATTAIBIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KH. HASBULLOH 25/08 BANJAREJO Kel. BANJAREJO Kec. PAGELARAN MALANG JAWA TIMUR 65174"
+    },
+    {
+      "id": 402278,
+      "statistic_num": "510035070115",
+      "name": "Pondok Pesantren Tlogorejo Daarussalam",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KH. HASYIM ASYARI DUSUN DRUJU RT 33 RW 9 Kel. TLOGOREJO Kec. PAGAK MALANG JAWA TIMUR 65168"
+    },
+    {
+      "id": 406619,
+      "statistic_num": "510035070124",
+      "name": "PENDIDIKAN PONDOK PESANTREN ISLAM",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "inactive",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. MASJID 49 JERU Kec. TUMPANG MALANG JAWA TIMUR 65156"
+    },
+    {
+      "id": 289492,
+      "statistic_num": "510035070132",
+      "name": "PONDOK PESANTREN ANWARUL ISLAM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl Raya Sanggrahan Rt 6 Rw 2 Mangunrejo RT 6 RW 2 Kel. MANGUNREJO Kec. KEPANJEN MALANG JAWA TIMUR 65163"
+    },
+    {
+      "id": 115401,
+      "statistic_num": "510035070136",
+      "name": "PONDOK PESANTREN YATIM DHUAFA AL-IKHLAS",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Biru RT 4 RW 1 Kec. SINGOSARI MALANG JAWA TIMUR"
+    },
+    {
+      "id": 345532,
+      "statistic_num": "510035070141",
+      "name": "PONDOK PESANTREN PUTRA PUTRI AL-HIDAYAH 2",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Masjid Agung Al-Hidayah, Dusun Karangan MALANG JAWA TIMUR"
+    },
+    {
+      "id": 331113,
+      "statistic_num": "510035070155",
+      "name": "PONDOK PESANTREN SALAF AL-QUR'AN ASY-SYADZILI 5",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Krajan, Rt 05, Rw 02 RT 5 RW 2 Kec. PAKIS MALANG JAWA TIMUR"
+    },
+    {
+      "id": 115928,
+      "statistic_num": "510035070156",
+      "name": "PONDOK PESANTREN DARUL IDRIS",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jln. Kelud Rt 14 Rw 02 MALANG JAWA TIMUR"
+    },
+    {
+      "id": 103344,
+      "statistic_num": "510035070163",
+      "name": "PONDOK PESANTREN BAROKATUL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl Abiyoso RT 20 RW 2 Kel. SUMBERPUCUNG Kec. SUMBERPUCUNG MALANG JAWA TIMUR 65165"
+    },
+    {
+      "id": 359133,
+      "statistic_num": "510035070187",
+      "name": "PONDOK PESANTREN TARBIYATUL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Ahmad Yani 157 Kec. KEPANJEN MALANG JAWA TIMUR"
+    },
+    {
+      "id": 150046,
+      "statistic_num": "510035070192",
+      "name": "PONDOK PESANTREN RIYADLUL QUR'AN AL-IHSANI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Sunan Ampel No. 52 C Ds. Ngasem Kec. Ngajum RT 4 RW 4 Kel. NGASEM Kec. NGAJUM MALANG JAWA TIMUR 65164"
+    },
+    {
+      "id": 273042,
+      "statistic_num": "510035070196",
+      "name": "PONDOK PESANTREN MIFTAHUL HUDA 3",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jalan Raya Mojosari 03 Kepanjen Malang Kec. KEPANJEN MALANG JAWA TIMUR"
+    },
+    {
+      "id": 163506,
+      "statistic_num": "510035070203",
+      "name": "PONDOK  PESANTREN SOERJO ALAM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Sembon Durenan Ngajum RT 1 RW 9 Kel. NGAJUM Kec. NGAJUM MALANG JAWA TIMUR 65164"
+    },
+    {
+      "id": 383800,
+      "statistic_num": "510035070209",
+      "name": "PONDOK PESANTREN PUTRA PUTRI AL ITTIHAD TULUSAYU",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dsn. Prapatan RT 36 Rw 04 RT 36 RW 4 Kec. TUMPANG MALANG JAWA TIMUR 65156"
+    },
+    {
+      "id": 164124,
+      "statistic_num": "510035070217",
+      "name": "PONDOK PESANTREN TAHFIDZUL QUR'AN ASY-SYADZILI 4",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL KH Hasyim Asyari RT 8 RW 3 RT 8 RW 3 Kel. PUTUKREJO Kec. GONDANGLEGI MALANG JAWA TIMUR 65174"
+    },
+    {
+      "id": 163536,
+      "statistic_num": "510035070219",
+      "name": "PONDOK PESANTREN YASALAMI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "sumbersuko RT 33 RW RT 33 RW 7 Kec. TAJINAN MALANG JAWA TIMUR 65172"
+    },
+    {
+      "id": 164741,
+      "statistic_num": "510035070229",
+      "name": "PONDOK PESANTREN AL ISLAMU AL AINUL BAAHIROH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Semeru 18A, Dilem, Kepanjen RT 5 RW 4 Kec. KEPANJEN MALANG JAWA TIMUR 65163"
+    },
+    {
+      "id": 341303,
+      "statistic_num": "510035070231",
+      "name": "Pondok Modern Al-Rifa'ie",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. RAYA KETAWANG NO. 01 DESA KETAWANG RT 5 RW 1 Kel. KETAWANG Kec. GONDANGLEGI MALANG JAWA TIMUR 65174"
+    },
+    {
+      "id": 353859,
+      "statistic_num": "510035070237",
+      "name": "PONDOK PESANTREN TAHFIDZIL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl rambutan no 06 RT 6 RW 4 Kel. SIDOREJO Kec. PAGELARAN MALANG JAWA TIMUR 65174"
+    },
+    {
+      "id": 104272,
+      "statistic_num": "510035070243",
+      "name": "PONDOK PESANTREN PPAI NURUL HIKMAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Kauman RT 20 RW 03 RT 20 RW 3 Kec. PAKISAJI MALANG JAWA TIMUR 65162"
+    },
+    {
+      "id": 166230,
+      "statistic_num": "510035070266",
+      "name": "PONDOK AL FALAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Sumber Manis 04 Ganjaran Kec. GONDANGLEGI MALANG JAWA TIMUR 65174"
+    },
+    {
+      "id": 408243,
+      "statistic_num": "510035070929",
+      "name": "Pondok Pesantren Salafiyah Shirothul Fuqoha'",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. Basuki Rahmat No. 104 RT 001 RW 002 RT 1 RW 2 Kel. SEPANJANG Kec. GONDANGLEGI MALANG JAWA TIMUR 65174"
+    },
+    {
+      "id": 388832,
+      "statistic_num": "510035080163",
+      "name": "PONDOK PESANTREN PUTRA YAHTADI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dawuhan Rt. 01 Rw. 07 Mlawang Klakah Lumajang RT 1 RW 7 Kel. MLAWANG Kec. KLAKAH LUMAJANG JAWA TIMUR 67356"
+    },
+    {
+      "id": 322808,
+      "statistic_num": "510035080164",
+      "name": "PONDOK PESANTREN TAHFIDZ AL-MUJAHADAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Wetan Sepuran RT 15 RW 6 Kel. WONOREJO Kec. KEDUNGJAJANG LUMAJANG JAWA TIMUR 67358"
+    },
+    {
+      "id": 182242,
+      "statistic_num": "510035080166",
+      "name": "PONDOK PESANTREN HIDAYATUL HASAN SULAIMANIYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl Doktren No. 2 Rt 007 Rw 002 RT 7 RW 2 Kel. BLUKON Kec. LUMAJANG LUMAJANG JAWA TIMUR 67316"
+    },
+    {
+      "id": 197303,
+      "statistic_num": "510035080176",
+      "name": "PONDOK PESANTREN HIDAYATUL IHSAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Krajan 2 RT 17 RW 5 Kel. DAWUHAN WETAN Kec. ROWOKANGKUNG LUMAJANG JAWA TIMUR 67359"
+    },
+    {
+      "id": 258173,
+      "statistic_num": "510035080179",
+      "name": "PONDOK PESANTREN AINUN NAIM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl Argopuro  Gg Masjid No 24 RT 002/RW 020 RT 2 RW 20 Kel. CITRODIWANGSAN Kec. LUMAJANG LUMAJANG JAWA TIMUR 67312"
+    },
+    {
+      "id": 169296,
+      "statistic_num": "510035080181",
+      "name": "PONDOK PESANTREN AL-AZIZI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Wonorejo RT 01 RW 09 Desa Kandangtepus RT 1 RW 9 Kel. KANDANGTEPUS Kec. SENDURO LUMAJANG JAWA TIMUR 67361"
+    },
+    {
+      "id": 323883,
+      "statistic_num": "510035090622",
+      "name": "PONDOK PESANTREN DARUL HIKAM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "PERUM PESONA SURYA MILENIA. C7. NO. 6. MANGLI KALIWATES JEMBER RT 4 RW 10 Kec. KALIWATES JEMBER JAWA TIMUR"
+    },
+    {
+      "id": 208040,
+      "statistic_num": "510035090638",
+      "name": "PONDOK PESANTREN TAHFIDZ AL-QUR'AN AL-FADHILAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "PONJEN KIDUL - KENCONG - JEMBER RT 5 RW 21 Kel. KENCONG Kec. KENCONG JEMBER JAWA TIMUR 68167"
+    },
+    {
+      "id": 216030,
+      "statistic_num": "510035090653",
+      "name": "PONDOK PESANTREN ASSALAM",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN KRAJAN RAMPAKSARI RT 1 RW 6 Kel. TUGUSARI Kec. BANGSALSARI JEMBER JAWA TIMUR 68154"
+    },
+    {
+      "id": 355884,
+      "statistic_num": "510035090654",
+      "name": "PONDOK PESANTREN NURUTTHOHIR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. PB SUDIRMAN II/15 Kec. PATRANG JEMBER JAWA TIMUR"
+    },
+    {
+      "id": 305380,
+      "statistic_num": "510035090658",
+      "name": "PONDOK PESANTREN MIFTAHUL IKHLAS",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN KRAJAN RT.013 RW.003 RT 13 RW 3 JEMBER JAWA TIMUR 68156"
+    },
+    {
+      "id": 320805,
+      "statistic_num": "510035090659",
+      "name": "PONDOK PESANTREN QUR'AN DARUL ISTIQOMAH AL HAYA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. SULTAN AGUNG NO. 01 PURWOASRI GUMUKMAS RT 3 RW 2 Kel. PURWOASRI Kec. GUMUKMAS JEMBER JAWA TIMUR 68165"
+    },
+    {
+      "id": 229979,
+      "statistic_num": "510035090661",
+      "name": "PONDOK PESANTREN AL-KHOIRIYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "TEMPURAN, CURAH KALONG, BANGSALSARI, JEMBER RT 1 RW 2 Kel. CURAHKALONG Kec. BANGSALSARI JEMBER JAWA TIMUR 68154"
+    },
+    {
+      "id": 387947,
+      "statistic_num": "510035090669",
+      "name": "PONDOK PESANTREN DARUL MUKHLISHIN ZAINI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KH DEWANTARA NO.21 DUSUN TENGAH RT 3 RW 19 Kel. KALISAT Kec. KALISAT JEMBER JAWA TIMUR 68193"
+    },
+    {
+      "id": 230010,
+      "statistic_num": "510035090670",
+      "name": "PONDOK PESANTREN MIFTAHUL ULUM LIL BANAT",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Krajan I Kec. KALISAT JEMBER JAWA TIMUR"
+    },
+    {
+      "id": 343640,
+      "statistic_num": "510035090673",
+      "name": "PONDOK PESANTREN NURUL ULUM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN TEGALAN RT1 RW4 SUMBERKEJAYAN MAYANG Kec. MAYANG JEMBER JAWA TIMUR"
+    },
+    {
+      "id": 242896,
+      "statistic_num": "510035090681",
+      "name": "PONDOK PESANTREN HIDAYATUL MUZAKKI AL QODIRI",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Krajan RT01 RW 02,Manggisan, Tanggul, Jember RT 1 RW 2 Kec. TANGGUL JEMBER JAWA TIMUR"
+    },
+    {
+      "id": 289415,
+      "statistic_num": "510035090685",
+      "name": "PONDOK PESANTREN MAHASISWA ENTREPRENEUR NURIS 2",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl Jumat No. 68, Mangli Kaliwates Jember RT 3 RW 6 Kel. MANGLI Kec. KALIWATES JEMBER JAWA TIMUR 68136"
+    },
+    {
+      "id": 344797,
+      "statistic_num": "510035090686",
+      "name": "PONDOK PESANTREN MIFTAHUS SA'ADAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun durjo RT 2 RW 5 Kel. KARANGPRING Kec. SUKORAMBI JEMBER JAWA TIMUR 68151"
+    },
+    {
+      "id": 195237,
+      "statistic_num": "510035090700",
+      "name": "PONDOK PESANTREN HASBUNALLAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "PTPN XII Gunung Gambir JEMBER JAWA TIMUR 68518"
+    },
+    {
+      "id": 185716,
+      "statistic_num": "510035090703",
+      "name": "PONDOK PESANTREN TAHFIDHUL QUR'AN NURUSSALAM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Majapahit Gg V Wonoasri Tempurejo Jember Kel. WONOASRI Kec. TEMPUREJO JEMBER JAWA TIMUR 68173"
+    },
+    {
+      "id": 239087,
+      "statistic_num": "510035090707",
+      "name": "PONDOK PESANTREN AL ISTIDADUL AKHIROH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusub Baban Tengah Desa Mulyorejo Kec. Silo RT 3 RW 2 Kel. MULYOREJO Kec. SILO JEMBER JAWA TIMUR 68184"
+    },
+    {
+      "id": 295955,
+      "statistic_num": "510035090717",
+      "name": "PONDOK PESANTREN NURUL MUKMIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl PTPN XII Gunung Gambir Dusun Jatikoong RT 1 RW 14 Kel. JATIROTO Kec. SUMBERBARU JEMBER JAWA TIMUR 68156"
+    },
+    {
+      "id": 186730,
+      "statistic_num": "510035100063",
+      "name": "PONDOK PESANTREN MODERN TERPADU KING ABDUL AZIZ",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "SUMBERBENING RT 03 RW 03 KESILIR SILIRAGUNG RT 3 RW 3 Kel. KESILIR Kec. SILIRAGUNG BANYUWANGI JAWA TIMUR 68488"
+    },
+    {
+      "id": 306168,
+      "statistic_num": "510035100133",
+      "name": "PONDOK PESANTREN MAMBAUL HIKAM JALEN",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. SAMIRAN 101 DSN. JALEN II RT 3 RW 8 Kel. SETAIL Kec. GENTENG BANYUWANGI JAWA TIMUR 68465"
+    },
+    {
+      "id": 280440,
+      "statistic_num": "510035100188",
+      "name": "PONDOK PESANTREN NURUL IMAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN KRAJAN RT 1 RW 1 Kel. PADANG Kec. SINGOJURUH BANYUWANGI JAWA TIMUR 68464"
+    },
+    {
+      "id": 284617,
+      "statistic_num": "510035100189",
+      "name": "PONDOK PESANTREN ISLAM SALAFIYAH AINUL HUDA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl.Iskandar Muda No.08 Rt/Rw 01/01 Tegalwudi RT 1 RW 1 Kel. BEDEWANG Kec. SONGGON BANYUWANGI JAWA TIMUR 68463"
+    },
+    {
+      "id": 131944,
+      "statistic_num": "510035100196",
+      "name": "PONDOK PESANTREN AL-QIBTIYYAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Tugung RT 3 RW 1 Kel. SEMPU Kec. SEMPU BANYUWANGI JAWA TIMUR 68468"
+    },
+    {
+      "id": 318019,
+      "statistic_num": "510035100198",
+      "name": "PONDOK PESANTREN AR ROYAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Kampung Baru RT 001 RW 003 RT 1 RW 3 Kel. JAJAG Kec. GAMBIRAN BANYUWANGI JAWA TIMUR 68486"
+    },
+    {
+      "id": 434644,
+      "statistic_num": "510035100200",
+      "name": "Lembaga Pondok Pesantren Agung Sunan Kalijogo",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Mbah Wali Abu Hasan Basri BANYUWANGI JAWA TIMUR 68484"
+    },
+    {
+      "id": 342756,
+      "statistic_num": "510035110247",
+      "name": "PONDOK PESANTREN NURUL JADID",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "MENGOK,RT.021/RW.06 Kec. PUJER BONDOWOSO JAWA TIMUR 68271"
+    },
+    {
+      "id": 140544,
+      "statistic_num": "510035120189",
+      "name": "PONDOK PESANTREN SUMBER ULUM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Alastengah KP. Gebang Selatan RT.02 RW.02 RT 2 RW 2 Kec. JATIBANTENG SITUBONDO JAWA TIMUR"
+    },
+    {
+      "id": 209602,
+      "statistic_num": "510035120190",
+      "name": "PONDOK PESANTREN DARUL IMAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN PESISIR BARAT RT.002 RW.002 RT 2 RW 2 Kel. KLATAKAN Kec. KENDIT SITUBONDO JAWA TIMUR 68352"
+    },
+    {
+      "id": 279450,
+      "statistic_num": "510035120191",
+      "name": "PONDOK PESANTREN AL FALAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "BLETOK Kec. BUNGATAN SITUBONDO JAWA TIMUR"
+    },
+    {
+      "id": 188434,
+      "statistic_num": "510035120192",
+      "name": "PONDOK PESANTREN AL AZHAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Kampung Karangkenek RT 1 RW 1 Kel. PATOKAN Kec. SITUBONDO SITUBONDO JAWA TIMUR 68312"
+    },
+    {
+      "id": 286063,
+      "statistic_num": "510035120193",
+      "name": "PONDOK PESANTREN AL-MIFTAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Kp. Karang Sukun RT.02 RW.03 Desa Suboh Kec. SUBOH SITUBONDO JAWA TIMUR"
+    },
+    {
+      "id": 338500,
+      "statistic_num": "510035120199",
+      "name": "PONDOK PESANTREN NURUL HIKMAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Adipodai Kp. Lesanan Lor RT.003 / RW.001 Kec. BESUKI SITUBONDO JAWA TIMUR"
+    },
+    {
+      "id": 227238,
+      "statistic_num": "510035120201",
+      "name": "PONDOK PESANTREN RIYADHUL JANNAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Kp. Krajan RT/RW.01/02. Mojosari - Asembagus Kec. ASEMBAGUS SITUBONDO JAWA TIMUR 67282"
+    },
+    {
+      "id": 297801,
+      "statistic_num": "510035120203",
+      "name": "PONDOK PESANTREN AL HASYIMI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "jl.Lubawang dusun seletreng Selatan Kel. KALIANGET Kec. BANYUGLUGUR SITUBONDO JAWA TIMUR 68359"
+    },
+    {
+      "id": 268332,
+      "statistic_num": "510035130126",
+      "name": "PONDOK PESANTREN DARUL HASAN",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. WIJAYA KUSUMA NO.72 BANGSAL RT 7 RW 2 Kel. PESAWAHAN Kec. TIRIS PROBOLINGGO JAWA TIMUR 67287"
+    },
+    {
+      "id": 139517,
+      "statistic_num": "510035130131",
+      "name": "PONDOK PESANTREN SIROJUL ULUM",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl Kyai Gedde Dusun Blobo RT 36 RW 5 Kel. BANJARSARI Kec. SUMBERASIH PROBOLINGGO JAWA TIMUR 67251"
+    },
+    {
+      "id": 269504,
+      "statistic_num": "510035130132",
+      "name": "PONDOK PESNTREN AR ROFI'IYYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jln. Letjend MT Haryono Semampir Kraksaaan Probolinggo RT 8 RW 4 Kel. SEMAMPIR Kec. KRAKSAAN PROBOLINGGO JAWA TIMUR 67282"
+    },
+    {
+      "id": 286208,
+      "statistic_num": "510035130149",
+      "name": "PONDOK PESANTREN AZIIZAIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Ds.Krajan 2 RT 5 RW 2 Kel. JATIURIP Kec. KREJENGAN PROBOLINGGO JAWA TIMUR 67284"
+    },
+    {
+      "id": 414577,
+      "statistic_num": "510035130164",
+      "name": "PONDOK PESANTREN SUBULUS SALAM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Condong Dusun Krajan Desa Pajarakan Kuon RT 9 RW 3 PROBOLINGGO JAWA TIMUR"
+    },
+    {
+      "id": 120218,
+      "statistic_num": "510035130167",
+      "name": "PONDOK PESANTREN AL-FIRDAUS RACEK",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN KRAJAN RT 19 RW 5 Kel. RACEK Kec. TIRIS PROBOLINGGO JAWA TIMUR 67287"
+    },
+    {
+      "id": 127978,
+      "statistic_num": "510035130174",
+      "name": "PONDOK PESANTREN NURUL ISLAM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jalan masjid Al Barokah No 91 RT 13 RW 06 Kec. SUMBERASIH PROBOLINGGO JAWA TIMUR"
+    },
+    {
+      "id": 433992,
+      "statistic_num": "510035130177",
+      "name": "Pondok Pesantren Modern Nurul Adzimiyah",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Masjid Dsn. Krajan RT/RW 002/001 Kec. BANTARAN PROBOLINGGO JAWA TIMUR"
+    },
+    {
+      "id": 310393,
+      "statistic_num": "510035130178",
+      "name": "PONDOK PESANTREN NURUS SHOBAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dsn krajan Rt/Rw 018/008 RT 18 RW 8 Kel. SUMBERANYAR Kec. PAITON PROBOLINGGO JAWA TIMUR 67291"
+    },
+    {
+      "id": 371270,
+      "statistic_num": "510035130180",
+      "name": "PONDOK PESANTREN  NURUL MUN'IM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Asem Kerep RT.022 RW.008 RT 22 RW 8 Kel. POHSANGITLERES Kec. SUMBERASIH PROBOLINGGO JAWA TIMUR 67251"
+    },
+    {
+      "id": 390224,
+      "statistic_num": "510035130185",
+      "name": "PONDOK PESANTREN SUMBERSARI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Banjar Selatan RT.023 RW.004 RT 23 RW 4 Kel. BANJARSARI Kec. SUMBERASIH PROBOLINGGO JAWA TIMUR 67251"
+    },
+    {
+      "id": 345459,
+      "statistic_num": "510035130198",
+      "name": "PONDOK PESANTREN ZAINUL HASAN 2",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Pes. ZAHA 2 Tambelang RT 9 RW 2 Kel. TAMBELANG Kec. KRUCIL PROBOLINGGO JAWA TIMUR 67288"
+    },
+    {
+      "id": 299177,
+      "statistic_num": "510035130203",
+      "name": "PONDOK  PESANTREN HIDAYATUT THOLIBIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JLN.H DULLAH RT 34 RW 3 Kel. WONOREJO Kec. MARON PROBOLINGGO JAWA TIMUR 67276"
+    },
+    {
+      "id": 101302,
+      "statistic_num": "510035130207",
+      "name": "PONDOK PESANTREN MIFTAHUL ULUM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jalan Pondok Pesantren Miftahul Ulum RT 4 RW 1 Kel. SEGARAN Kec. TIRIS PROBOLINGGO JAWA TIMUR 67287"
+    },
+    {
+      "id": 371429,
+      "statistic_num": "510035130211",
+      "name": "PONDOK PESANTREN BAHRUL ULUM BESUK PROBOLINGGO",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Besuk Kidul No. 274 RT 9 RW 3 Kel. BESUKKIDUL Kec. BESUK PROBOLINGGO JAWA TIMUR 67283"
+    },
+    {
+      "id": 212026,
+      "statistic_num": "510035130218",
+      "name": "PONDOK  PESANTREN BAROKATUL HASAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Racek Timur Desa Racek RT 12 RW 3 Kec. TIRIS PROBOLINGGO JAWA TIMUR 67287"
+    },
+    {
+      "id": 400575,
+      "statistic_num": "510035130226",
+      "name": "PONDOK PESANTREN AL-KAUTSAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Pattimura No. 01 Rt. 001 Rw. 006 RT 1 RW 6 Kel. SEMAMPIR Kec. KRAKSAAN PROBOLINGGO JAWA TIMUR 67282"
+    },
+    {
+      "id": 266933,
+      "statistic_num": "510035130236",
+      "name": "PONDOK PESANTREN SEMI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Lapangan Tembak Sumberanyar Paiton RT 32 RW 9 Kel. SUMBERANYAR Kec. PAITON PROBOLINGGO JAWA TIMUR 67291"
+    },
+    {
+      "id": 99029,
+      "statistic_num": "510035130283",
+      "name": "PONDOK PESANTREN BAROKATUL HASAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Balai Desa Tegalwatu Rt/Rw 03/02 RT 3 RW 2 Kel. TEGALWATU Kec. TIRIS PROBOLINGGO JAWA TIMUR 67287"
+    },
+    {
+      "id": 427447,
+      "statistic_num": "510035140229",
+      "name": "Pondok Pesantren Ar Rahma",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl Gunung Perahu Carat Gempol Pasuruan RT 3 RW 2 Kel. CARAT Kec. GEMPOL PASURUAN JAWA TIMUR 67155"
+    },
+    {
+      "id": 214514,
+      "statistic_num": "510035140240",
+      "name": "PONDOK PESANTREN DARUL IHYA' LIULUMIDDIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Musing no 59 Bendomungal Bangil Pasuruan Kel. BENDOMUNGAL Kec. BANGIL PASURUAN JAWA TIMUR 67153"
+    },
+    {
+      "id": 268048,
+      "statistic_num": "510035140243",
+      "name": "PONDOK PESANTREN MIFTAHUL ULUM SYAIKHINA ISMA'IL AL-ZAIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dsn Sekarjoho RT 01 RW 08 Ds Sekarjoho RT 1 RW 8 Kel. SEKARJOHO Kec. PRIGEN PASURUAN JAWA TIMUR 67157"
+    },
+    {
+      "id": 422360,
+      "statistic_num": "510035140244",
+      "name": "PONDOK PESANTREN DARUL AITAM AL-HIDAYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Desa Dhompo Kec. Kraton Kab. Pasuruan RT 1 RW 1 Kec. KRATON PASURUAN JAWA TIMUR 67151"
+    },
+    {
+      "id": 105387,
+      "statistic_num": "510035140245",
+      "name": "PONDOK PESANTREN AL-ANWAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Krajan RT 5/ RW 4 watuprapat nguling Pasuruan RT 5 RW 1 Kel. WATUPRAPAT Kec. NGULING PASURUAN JAWA TIMUR 67185"
+    },
+    {
+      "id": 419492,
+      "statistic_num": "510035150148",
+      "name": "PONDOK PESANTREN MARDHOTILLAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl.KH Abdul GhofarDsn.Sumber Ds. Terik 06/02 RT 6 RW 2 Kec. KRIAN SIDOARJO JAWA TIMUR"
+    },
+    {
+      "id": 439477,
+      "statistic_num": "510035150177",
+      "name": "Pondok Pesantren Nurul Huda",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": " SIDOARJO JAWA TIMUR"
+    },
+    {
+      "id": 411483,
+      "statistic_num": "510035150178",
+      "name": "PONDOK PESANTREN ASSAIDAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Kesemen Desa Cangkringsari RT.25/RW.06 Kec. SUKODONO SIDOARJO JAWA TIMUR"
+    },
+    {
+      "id": 97388,
+      "statistic_num": "510035160011",
+      "name": "Pondok Al Istiqomah II",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "MERAK BENDUNGANJATI RT 3 RW 1 Kel. BENDUNGANJATI Kec. PACET MOJOKERTO JAWA TIMUR 61374"
+    },
+    {
+      "id": 100059,
+      "statistic_num": "510035160026",
+      "name": "Pondok Modern Bustanul Quran",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JALAN RAYA MOJOSARI - GEMPOL NO. 827  DSN. NGETREP DS. SEDATI RT 3 RW 4 Kec. NGORO MOJOKERTO JAWA TIMUR 61385"
+    },
+    {
+      "id": 257223,
+      "statistic_num": "510035160061",
+      "name": "PONDOK PESANTREN MODERN AS-SALAM KAUMAN",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN KAUMAN RT. 02 RW. 01 DESA BANGSAL RT 2 RW 1 Kel. BANGSAL Kec. BANGSAL MOJOKERTO JAWA TIMUR 61381"
+    },
+    {
+      "id": 102450,
+      "statistic_num": "510035160104",
+      "name": "PONDOK PESANTREN AL-MULTAZAM",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. RAYA KEPUHANYAR NO. 24 KEPUHANYAR RT 3 RW 2 Kel. KEPUHANYAR Kec. MOJOANYAR MOJOKERTO JAWA TIMUR 61364"
+    },
+    {
+      "id": 395812,
+      "statistic_num": "510035160143",
+      "name": "PONDOK PESANTREN TAHFIDZUL QUR'AN BANI ANWAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN SIDOLEH DESA MOJOPILANG KECAMATAN KEMLAGI KABUPATEN MOJOKERTO RT 2 RW 1 Kel. MOJOPILANG Kec. KEMLAGI MOJOKERTO JAWA TIMUR 61353"
+    },
+    {
+      "id": 249763,
+      "statistic_num": "510035160155",
+      "name": "PONDOK PESANTREN AL QUR'AN AL HASYIMI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Desa Sidomulyo, Bangsal, Mojokerto Kec. BANGSAL MOJOKERTO JAWA TIMUR"
+    },
+    {
+      "id": 176439,
+      "statistic_num": "510035160159",
+      "name": "PONDOK PESANTREN ULUMUL QUR'AN INCERAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Manggis Rt.01 Rw.07 Kec. MOJOSARI MOJOKERTO JAWA TIMUR"
+    },
+    {
+      "id": 149125,
+      "statistic_num": "510035160164",
+      "name": "PONDOK PESANTREN TEKNOLOGI INFORMASI AL HIDAYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Rejeni Desa Wonodadi Kec. KUTOREJO MOJOKERTO JAWA TIMUR"
+    },
+    {
+      "id": 208318,
+      "statistic_num": "510035160168",
+      "name": "PONDOK PESANTREN UMMIL MU'MININ",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl raya Mojosari Pacet KM 09 RT 2 RW 1 Kel. SIMBARINGIN Kec. KUTOREJO MOJOKERTO JAWA TIMUR 61383"
+    },
+    {
+      "id": 296604,
+      "statistic_num": "510035160178",
+      "name": "PONDOK PESANTREN AL-MULTAZAM 2",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Pertanian No. 01 RT 006 / RW 001 Kec. SOOKO MOJOKERTO JAWA TIMUR 61361"
+    },
+    {
+      "id": 177047,
+      "statistic_num": "510035160179",
+      "name": "PONDOK PESANTREN ROUDLOTUL QURRO' WAL MUNSYIDIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "SALEN, RT. 03, RW. 03, BANGSAL, MOJOKERTO RT 3 RW 3 Kec. BANGSAL MOJOKERTO JAWA TIMUR 61381"
+    },
+    {
+      "id": 213496,
+      "statistic_num": "510035160180",
+      "name": "PONDOK PESANTREN MANBA'UL ANWAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Jati Desa Jatidukuh Kecamatan Gondang Kec. GONDANG MOJOKERTO JAWA TIMUR 61372"
+    },
+    {
+      "id": 425059,
+      "statistic_num": "510035160183",
+      "name": "PONDOK PESANTREN DARUL HIKMAH KEDUNGMALING",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. KH. Ismail Ibrahim 008/005 Kedungmaling Kel. KEDUNGMALING Kec. SOOKO MOJOKERTO JAWA TIMUR 61361"
+    },
+    {
+      "id": 210353,
+      "statistic_num": "510035170098",
+      "name": "YAYASAN PONDOK PESANTREN TARBIYATUL QUR'AN AL MUJTAHID",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "SIDOWARAS SUMBERMULYO JOGOROTO RT 4 RW 9 Kel. SUMBERMULYO Kec. JOGOROTO JOMBANG JAWA TIMUR 61485"
+    },
+    {
+      "id": 306177,
+      "statistic_num": "510035170113",
+      "name": "PONDOK PESANTREN HUDAYA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. PONDOK HUDAYA NO. 51 DUSUN. SUKOPURO RT 3 RW 1 Kel. KWARON Kec. DIWEK JOMBANG JAWA TIMUR 61471"
+    },
+    {
+      "id": 424555,
+      "statistic_num": "510035170137",
+      "name": "PONDOK PESANTREN WALI AMINAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KH. AHMADI NO. 01 DUSUN NGASEM RT 2 RW 1 Kel. JOMBOK Kec. NGORO JOMBANG JAWA TIMUR 61473"
+    },
+    {
+      "id": 237918,
+      "statistic_num": "510035170140",
+      "name": "PONDOK PESANTREN FALAHUL MUHIBBIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN. GENDONG RT 2 RW 7 Kec. DIWEK JOMBANG JAWA TIMUR"
+    },
+    {
+      "id": 98574,
+      "statistic_num": "510035170141",
+      "name": "PONDOK PESANTREN HAMDALAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN JOMBOK RT 008 RW 002 Kec. KESAMBEN JOMBANG JAWA TIMUR"
+    },
+    {
+      "id": 106074,
+      "statistic_num": "510035170143",
+      "name": "PONDOK PESANTREN BHAKTI BAPAK EMAK",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN SERNING RT 026 / RW 010 Kec. BARENG JOMBANG JAWA TIMUR"
+    },
+    {
+      "id": 273526,
+      "statistic_num": "510035180040",
+      "name": "Pondok Modern Sumber Daya at-Taqwa (POMOSDA)",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KH Wahid Hasyim No. 304 RT 2 RW 3 Kel. TANJUNGANOM Kec. TANJUNGANOM NGANJUK JAWA TIMUR 64482"
+    },
+    {
+      "id": 193992,
+      "statistic_num": "510035180179",
+      "name": "PONDOK PESANTREN HAMALATUL QUR'AN AL-IJABAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Blitaran, RT.002 RW.002, Desa Blitaran RT 2 RW 2 Kel. BLITARAN Kec. SUKOMORO NGANJUK JAWA TIMUR 64481"
+    },
+    {
+      "id": 314249,
+      "statistic_num": "510035180180",
+      "name": "MA'HAD  RIYADLUS SHOLIHIN PONDOK PESANTREN MOJOSARI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dsn. Mojosari - Desa Ngepeh - Kecamatan Loceret RT 2 RW 5 Kel. NGEPEH Kec. LOCERET NGANJUK JAWA TIMUR 64471"
+    },
+    {
+      "id": 361082,
+      "statistic_num": "510035180184",
+      "name": "PONDOK PESANTREN HIDAYATUT THOLIBIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DS. GEJAGAN KEC. LOCERET KAB. NGANJUK RT 1 RW 2 Kel. GEJAGAN Kec. LOCERET NGANJUK JAWA TIMUR 64471"
+    },
+    {
+      "id": 433985,
+      "statistic_num": "510035180193",
+      "name": "Pondok Pesantren An-Nawawi 1",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jalan Sugih Waras Kec. WILANGAN NGANJUK JAWA TIMUR"
+    },
+    {
+      "id": 238008,
+      "statistic_num": "510035180200",
+      "name": "PONDOK PESANTREN SABILUL HUDA NGASEM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. MAYJEN SUTOYO NO.178 JATIREJO NGANJUK RT 5 RW 5 Kel. JATIREJO Kec. NGANJUK NGANJUK JAWA TIMUR 64416"
+    },
+    {
+      "id": 161145,
+      "statistic_num": "510035180203",
+      "name": "PONDOK PESANTREN AL-KAUTSAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN GROMPOL RT 23 RW 7 Kel. TANJUNGTANI Kec. PRAMBON NGANJUK JAWA TIMUR 64484"
+    },
+    {
+      "id": 305004,
+      "statistic_num": "510035190094",
+      "name": "PONDOK PESANTREN MIFTAHUL HUDA DOHO",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "RT. 29 RW 04 Dsn. Cempo Ds. Doho Kec. Dolopo RT 29 RW 4 Kel. DOHO Kec. DOLOPO MADIUN JAWA TIMUR 63174"
+    },
+    {
+      "id": 223084,
+      "statistic_num": "510035190095",
+      "name": "PONDOK PESANTREN TAHFIDZUL QUR'AN INSAN MADANI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Griya Segaran Permai RT 9 RW 1 Kel. PURWOREJO Kec. GEGER MADIUN JAWA TIMUR 63171"
+    },
+    {
+      "id": 203111,
+      "statistic_num": "510035200062",
+      "name": "PONDOK PESANTREN DARUL ULUM TAKERAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dsn. Mangu RT 6, RW 2, Takeran- Magetan RT 6 RW 2 Kel. TAKERAN Kec. TAKERAN MAGETAN JAWA TIMUR 63383"
+    },
+    {
+      "id": 324971,
+      "statistic_num": "510035210166",
+      "name": "PONDOK PESANTREN MBS MAS MANSYUR NGAWI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JLN RAYA WALIKUKUN NGRAMBE RT 1 RW 3 Kel. KEDUNGGUDEL Kec. WIDODAREN NGAWI JAWA TIMUR 63256"
+    },
+    {
+      "id": 260637,
+      "statistic_num": "510035210184",
+      "name": "PONDOK PESANTREN PUTRI BUSTANUL ULUM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN. GENGGONG RT.01 RW.04 RT 1 RW 4 Kec. JOGOROGO NGAWI JAWA TIMUR 63262"
+    },
+    {
+      "id": 184409,
+      "statistic_num": "510035220286",
+      "name": "PONDOK PESANTREN NURUL ISLAM CENGKIR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. RAYA CENGKIR NO. 204 RT 9 RW 3 BOJONEGORO JAWA TIMUR 62194"
+    },
+    {
+      "id": 277187,
+      "statistic_num": "510035220289",
+      "name": "PONDOK PESANTREN AL MARZUQY",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "dusun padas RT 11 RW 3 Kel. TRATE Kec. SUGIHWARAS BOJONEGORO JAWA TIMUR 62183"
+    },
+    {
+      "id": 289587,
+      "statistic_num": "510035220294",
+      "name": "PONDOK PESANTREN MUS MISBAHUL FALAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Desa Baureno RT/RW. 017/006 RT 17 RW 6 Kel. BAURENO Kec. BAURENO BOJONEGORO JAWA TIMUR 62192"
+    },
+    {
+      "id": 393971,
+      "statistic_num": "510035220300",
+      "name": "PONDOK PESANTREN AR ROSYID",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Desa Sambongrejo RT 4 RW 1 Kel. SAMBONGREJO Kec. SUMBEREJO BOJONEGORO JAWA TIMUR 62191"
+    },
+    {
+      "id": 332522,
+      "statistic_num": "510035220313",
+      "name": "PONDOK PESANTREN YASPIRA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Raya Ngambon - Tambakrejo RT 3 RW 1 Kel. NGAMBON Kec. NGAMBON BOJONEGORO JAWA TIMUR 62167"
+    },
+    {
+      "id": 428002,
+      "statistic_num": "510035220326",
+      "name": "PONDOK PESANTREN AL - BAROKAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. MASJID Desa Brenggolo Kecamatan Kalitudu RT 2 RW 1 Kec. KALITIDU BOJONEGORO JAWA TIMUR 62152"
+    },
+    {
+      "id": 106446,
+      "statistic_num": "510035220329",
+      "name": "PONDOK PESANTREN AL MUTAMMAKIN JADIDAH SATU",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dk. Tlapak  Rt. 24 Rw. 02 Sitijai Sukosewu RT 24 RW 2 Kel. SITIAJI Kec. SUKOSEWU BOJONEGORO JAWA TIMUR 62183"
+    },
+    {
+      "id": 423889,
+      "statistic_num": "510035220331",
+      "name": "PONDOK PESANTREN AL KYAI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dk. Tlapak Rt. 23 Rw. 02 RT 23 RW 2 Kel. SITIAJI Kec. SUKOSEWU BOJONEGORO JAWA TIMUR 62183"
+    },
+    {
+      "id": 418513,
+      "statistic_num": "510035220340",
+      "name": "PONDOK PESANTREN NURUL HAROMAIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl.Pinggiran Barat RT 16 RW 3 Kel. NGABLAK Kec. DANDER BOJONEGORO JAWA TIMUR 62171"
+    },
+    {
+      "id": 187588,
+      "statistic_num": "510035220342",
+      "name": "PONDOK PESANTREN AL UTSMANY",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Desa Talok Rt.06 Rw 03 Kecamatan Kalitidu Kec. KALITIDU BOJONEGORO JAWA TIMUR 62152"
+    },
+    {
+      "id": 409019,
+      "statistic_num": "510035220345",
+      "name": "PONDOK PESANTREN DARUL QUR'AN PUTRA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dsn. Bakalan RT. 15 RW. 04 RT 15 RW 4 Kel. KLEPEK Kec. SUKOSEWU BOJONEGORO JAWA TIMUR 62183"
+    },
+    {
+      "id": 361933,
+      "statistic_num": "510035230107",
+      "name": "PONDOK PESANTREN SUNAN DRAJAT 7",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN.GEMULUNG RT.01 RW.01 DS.GESIKHARJO KEC.PALANG KAB.TUBAN RT 1 RW 1 Kel. GESIKHARJO Kec. PALANG TUBAN JAWA TIMUR 62391"
+    },
+    {
+      "id": 184307,
+      "statistic_num": "510035230117",
+      "name": "PONDOK PESANTREN DARUSSALAM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN DALWO RT 1 RW 14 Kel. PRAMBONTERGAYANG Kec. SOKO TUBAN JAWA TIMUR 62372"
+    },
+    {
+      "id": 418650,
+      "statistic_num": "510035230119",
+      "name": "PONDOK PESANTREN DARUL QUR'AN TUBAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL.RAYA TUBAN KM 01 NO 54 SEMANDING TUBAN RT 10 RW 3 Kec. SEMANDING TUBAN JAWA TIMUR 62381"
+    },
+    {
+      "id": 185372,
+      "statistic_num": "510035230142",
+      "name": "PONDOK PESANTREN AL HASANI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dsn. Logawe RT/RW 003/005 Ds. Sawahan RT 3 RW 5 Kel. SAWAHAN Kec. RENGEL TUBAN JAWA TIMUR 62371"
+    },
+    {
+      "id": 162663,
+      "statistic_num": "510035230144",
+      "name": "PONDOK PESANTREN ROUDLOTUL ULUM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Raya Senori Bangilan RT 2 RW 1 Kel. MEDALEM Kec. SENORI TUBAN JAWA TIMUR 62365"
+    },
+    {
+      "id": 335701,
+      "statistic_num": "510035240235",
+      "name": "PONDOK PESANTREN AL-MUBTADI'IN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. A. YANI GERDU BANARAN BABAT LAMONGAN RT 1 RW 7 Kel. BANARAN Kec. BABAT LAMONGAN JAWA TIMUR 62271"
+    },
+    {
+      "id": 176535,
+      "statistic_num": "510035240236",
+      "name": "PONDOK PESANTREN NURUS SIROJ",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL.KH HASYIM ASYARI NO 07 RT 7 RW 4 Kel. BANARAN Kec. BABAT LAMONGAN JAWA TIMUR 62271"
+    },
+    {
+      "id": 333760,
+      "statistic_num": "510035240238",
+      "name": "PONDOK PESANTREN DARUN NUHAT",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN PETIYIN RT 3 RW 6 Kel. TAKERHARJO Kec. SOLOKURO LAMONGAN JAWA TIMUR 62265"
+    },
+    {
+      "id": 130292,
+      "statistic_num": "510035240240",
+      "name": "PONDOK PESANTREN TUNAS SANTRI",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. MERDEKA RT. 012 RW. 002 RT 12 RW 2 Kel. SUGIHAN Kec. SOLOKURO LAMONGAN JAWA TIMUR 62265"
+    },
+    {
+      "id": 376257,
+      "statistic_num": "510035240244",
+      "name": "PONDOK PESANTREN BIN DAWOOD",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Glugu RT 04 RW 04 Kec. DEKET LAMONGAN JAWA TIMUR"
+    },
+    {
+      "id": 195399,
+      "statistic_num": "510035240248",
+      "name": "PONDOK PESANTREN TAHSHILUL MURODI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN. DONDOMAN RT 02 RW 01 RT 2 RW 1 Kel. BOJOASRI Kec. KALITENGAH LAMONGAN JAWA TIMUR 62255"
+    },
+    {
+      "id": 107695,
+      "statistic_num": "510035240251",
+      "name": "PONDOK PESANTREN MAHASISWA UNIVERSITAS ISLAM LAMONGAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Veteran No. 53 A RT 01 / RW 03 Kec. LAMONGAN LAMONGAN JAWA TIMUR 62211"
+    },
+    {
+      "id": 291790,
+      "statistic_num": "510035240254",
+      "name": "PONDOK MODERN AL AZHAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Embong Sepur Kompleks Yayasan Al Azhar RT 6 RW 6 Kel. SEDAYULAWAS Kec. BRONDONG LAMONGAN JAWA TIMUR 62263"
+    },
+    {
+      "id": 326686,
+      "statistic_num": "510035240259",
+      "name": "PONDOK PESANTREN MODERN EL-MADANI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Dandangan RT 04 RW 01 Desa.Dlanggu RT 4 RW 1 Kec. DEKET LAMONGAN JAWA TIMUR 62291"
+    },
+    {
+      "id": 151830,
+      "statistic_num": "510035240268",
+      "name": "PONDOK PESANTREN ASY SYUKUR CUMPLENG",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jalan Masjid Jami At-Taqwa Cumpleng RT 2 RW 10 Kel. BRENGKOK Kec. BRONDONG LAMONGAN JAWA TIMUR 62263"
+    },
+    {
+      "id": 327612,
+      "statistic_num": "510035250115",
+      "name": "PONDOK PESANTREN DALUL ARBA'",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. MULUNG KECAMATAN DRIYOREJO KABUPATEN GRESIK JAWA TIMUR RT 11 RW 6 Kec. DRIYOREJO GRESIK JAWA TIMUR"
+    },
+    {
+      "id": 253721,
+      "statistic_num": "510035250126",
+      "name": "Pondok Pesantren Mambaul Hisan",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Alamat : Jl. KH. Munawar nomor 15 RT 1 RW 1 Kec. SIDAYU GRESIK JAWA TIMUR 61153"
+    },
+    {
+      "id": 106904,
+      "statistic_num": "510035250128",
+      "name": "PONDOK PESANTREN TAHFIDZ AL QUR'AN AN NUR YAMIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. DR WAHIDIN SD GANG 8,NO 1, RT 01, RW 02 Kec. KEBOMAS GRESIK JAWA TIMUR"
+    },
+    {
+      "id": 419359,
+      "statistic_num": "510035250130",
+      "name": "PONDOK PESANTREN MODERN SUNANUL MUHTADIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "SIDORUKUN KERTOSOSNO SIDAYU RT 12 RW 5 Kel. KERTOSONO Kec. SIDAYU GRESIK JAWA TIMUR 61153"
+    },
+    {
+      "id": 233971,
+      "statistic_num": "510035250135",
+      "name": "PONDOK PESANTREN AL-AMIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. RAYA MOJOWUKU 1A, KEDAMEAN, GRESIK RT 18 RW 6 Kel. MOJOWUKU Kec. KEDAMEAN GRESIK JAWA TIMUR 61175"
+    },
+    {
+      "id": 302957,
+      "statistic_num": "510035250137",
+      "name": "PONDOK PESANTREN DARUTTAQWA PUTRI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KH SYAFII SUCI MANYAR GRESIK RT 1 RW 2 Kel. SUCI Kec. MANYAR GRESIK JAWA TIMUR 61151"
+    },
+    {
+      "id": 315822,
+      "statistic_num": "510035250141",
+      "name": "PONDOK TAHFIDH NURUL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "SEKAR KETANEN RT. 001 RW. 006 CANGAAN RT 1 RW 6 Kel. CANGAAN Kec. UJUNGPANGKAH GRESIK JAWA TIMUR 61154"
+    },
+    {
+      "id": 156036,
+      "statistic_num": "510035250142",
+      "name": "PONDOK PESANTREN AL AZHAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Sumur Kembang RT.04 RW.02 RT 4 RW 2 Kel. BANYUTENGAH Kec. PANCENG GRESIK JAWA TIMUR 61156"
+    },
+    {
+      "id": 190552,
+      "statistic_num": "510035250145",
+      "name": "PONDOK PESANTREN MUHAMMADIYAH BOARDING SCHOOL AL BIRRU",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. Raya Kedungpring No.21 RT 4 RW 1 Kec. BALONGPANGGANG GRESIK JAWA TIMUR"
+    },
+    {
+      "id": 111203,
+      "statistic_num": "510035250146",
+      "name": "PONDOK PESANTREN TAHFIDZUL QUR'AN DARUTTAQWA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Rt 001 Rw 004 Desa suci Kec Manyar Kab Gresik RT 1 RW 4 Kel. SUCI Kec. MANYAR GRESIK JAWA TIMUR 61151"
+    },
+    {
+      "id": 146159,
+      "statistic_num": "510035250151",
+      "name": "PONDOK PESANTREN BAITUL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Anggur RT. 01 RW. 01 RT 1 RW 1 Kel. SUKOREJO Kec. SIDAYU GRESIK JAWA TIMUR 61153"
+    },
+    {
+      "id": 264314,
+      "statistic_num": "510035250167",
+      "name": "PONDOK PESANTREN SYIFAUL QULUB",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "KLOTOK RT 4 RW 1 Kel. KLOTOK Kec. BALONGPANGGANG GRESIK JAWA TIMUR 61173"
+    },
+    {
+      "id": 366908,
+      "statistic_num": "510035250172",
+      "name": "PONDOK PESANTREN AL HUDA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN. PESISIR DESA KEPUHTELUK KECAMATAN TAMBAK RT 1 RW 2 Kel. KEPUHTELUK Kec. TAMBAK GRESIK JAWA TIMUR 61182"
+    },
+    {
+      "id": 241364,
+      "statistic_num": "510035250177",
+      "name": "PONDOK PESANTREN AL-QONA'AH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Rantau Gg. Masjid No 1 GKB RT 5 RW 9 Kel. SUKOMULYO Kec. MANYAR GRESIK JAWA TIMUR 61151"
+    },
+    {
+      "id": 206501,
+      "statistic_num": "510035250178",
+      "name": "PERKUMPULAN PONDOK PESANTREN NAHJUL BALAGH GRESIK",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Dr. Soetomo, Ngaren, Desa Sungonlegowo RT 3 RW 6 Kel. SUNGONLEGOWO Kec. BUNGAH GRESIK JAWA TIMUR 61152"
+    },
+    {
+      "id": 235285,
+      "statistic_num": "510035260100",
+      "name": "PONDOK PESANTREN SALAFIYAH SA'IDIYAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JALAN AERMATA DESA BUDURAN KECAMATAN AROSBAYA Kel. BUDURAN Kec. AROSBAYA BANGKALAN JAWA TIMUR 69151"
+    },
+    {
+      "id": 386447,
+      "statistic_num": "510035260144",
+      "name": "PONDOK PESANTREN AT-TA'AWUN SABILUSH SHOLIHIN PEDENG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JALAN RAYA PEDENG DUSUN KEJAWAN DESA SOCAH RT 3 RW 6 Kel. SOCAH Kec. SOCAH BANGKALAN JAWA TIMUR 69161"
+    },
+    {
+      "id": 310132,
+      "statistic_num": "510035260145",
+      "name": "PONDOK PESANTREN DARUSSALAM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JALAN PP. DARUSSALAM NO. 88-89 RT 2 RW 2 Kec. BURNEH BANGKALAN JAWA TIMUR"
+    },
+    {
+      "id": 149385,
+      "statistic_num": "510035260148",
+      "name": "PONDOK PESANTREN ASMAUL HUSNA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dsn. MONCEK Desa Tengket Arosbaya Kel. TENGKET Kec. AROSBAYA BANGKALAN JAWA TIMUR 69151"
+    },
+    {
+      "id": 231645,
+      "statistic_num": "510035260149",
+      "name": "PONDOK PESANTREN AL-BADAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Raya Pasar Baru Kampak Kel. KAMPAK Kec. GEGER BANGKALAN JAWA TIMUR 69152"
+    },
+    {
+      "id": 111752,
+      "statistic_num": "510035260150",
+      "name": "PONDOK PESANTREN NUR YASIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl masjid Mubarok, Kec. MODUNG BANGKALAN JAWA TIMUR"
+    },
+    {
+      "id": 149976,
+      "statistic_num": "510035260152",
+      "name": "PONDOK PESANTREN AL JALY",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Baeler Lombang Dajah Kec. BLEGA BANGKALAN JAWA TIMUR"
+    },
+    {
+      "id": 138032,
+      "statistic_num": "510035260153",
+      "name": "PONDOK PESANTREN MIFTAHUT THOLIBIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl KH Nawawi 1-3 001/005 Pesanggrahan Kwanyar Bangkalan RT 1 RW 5 Kel. PESANGGRAHAN Kec. KWANYAR BANGKALAN JAWA TIMUR 69163"
+    },
+    {
+      "id": 405054,
+      "statistic_num": "510035260160",
+      "name": "PONDOK PESANTREN NURUL HIDAYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Ngasoran Kec. TANAH MERAH BANGKALAN JAWA TIMUR"
+    },
+    {
+      "id": 329833,
+      "statistic_num": "510035260163",
+      "name": "PONDOK PESANTREN ASSAIDIYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dsn.timur jalan ds.durjan kec.kokop Kec. KOKOP BANGKALAN JAWA TIMUR 69155"
+    },
+    {
+      "id": 404487,
+      "statistic_num": "510035260164",
+      "name": "PONDOK PESANTREN MAMBAUL KHOIROT",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Rojing RT 4 RW 1 Kel. BULUKAGUNG Kec. KLAMPIS BANGKALAN JAWA TIMUR 69153"
+    },
+    {
+      "id": 91255,
+      "statistic_num": "510035260168",
+      "name": "PONDOK PESANTREN SALAFIYAH AD DAMANHURI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Kompol Kec. Geger kab. Bangkalan Kel. KOMPOL Kec. GEGER BANGKALAN JAWA TIMUR 69152"
+    },
+    {
+      "id": 194792,
+      "statistic_num": "510035260171",
+      "name": "PONDOK PESANTREN SIRRUL CHOLIL",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Ngarasa Kec. GEGER BANGKALAN JAWA TIMUR 69152"
+    },
+    {
+      "id": 207124,
+      "statistic_num": "510035260178",
+      "name": "PONDOK PESANTREN  MUROTTILIL QURAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl Raya Karpote Dsn Nyabengen Kec. BLEGA BANGKALAN JAWA TIMUR 69174"
+    },
+    {
+      "id": 218229,
+      "statistic_num": "510035260188",
+      "name": "PONDOK PESANTREN AL-IHSANI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. KM. Ihsan Tasir Desa Sendang dajah RT 1 RW 1 Kel. SENDANG DAJAH Kec. LABANG BANGKALAN JAWA TIMUR 69163"
+    },
+    {
+      "id": 180163,
+      "statistic_num": "510035260262",
+      "name": "PONDOK PESANTREN SYAIKHONA KHOLIL 2",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KH. MOH KHOLIL NO.34 DEMANGAN SELATAN BANGKALAN Kec. BANGKALAN BANGKALAN JAWA TIMUR 69115"
+    },
+    {
+      "id": 171097,
+      "statistic_num": "510035270057",
+      "name": "PONDOK MODERN DARUSSYAHID",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. MERAPI II/10 KEC. SAMPANG RT 2 RW 2 Kel. RONGTENGAH Kec. SAMPANG SAMPANG JAWA TIMUR 69216"
+    },
+    {
+      "id": 258513,
+      "statistic_num": "510035270314",
+      "name": "PONDOK SOSIAL DAN PENDIDIKAN ISLAM ASY SYUROI",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN KRAMPON Kec. TORJUN SAMPANG JAWA TIMUR 69271"
+    },
+    {
+      "id": 403028,
+      "statistic_num": "510035270393",
+      "name": "PONDOK PESANTREN BADRUL MUNIR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DESA: PRAJJAN\nKEC. CAMPLONG\nKAB. SAMPANG Kec. CAMPLONG SAMPANG JAWA TIMUR"
+    },
+    {
+      "id": 113353,
+      "statistic_num": "510035280266",
+      "name": "PONDOK PESANTREN TODUNGIH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN. TODUNGIH DS. PANGBATOK KEC. PROPPO Kec. PROPPO PAMEKASAN JAWA TIMUR"
+    },
+    {
+      "id": 223854,
+      "statistic_num": "510035280280",
+      "name": "PONDOK PESANTREN DARUL QUR'AN AL FAQIH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. RONGGOSUKOWATI NO 45 B RT 1 RW 2 Kel. KOLPAJUNG Kec. PAMEKASAN PAMEKASAN JAWA TIMUR 69314"
+    },
+    {
+      "id": 189863,
+      "statistic_num": "510035280290",
+      "name": "PONDOK PESANTREN AL-MA'RUF",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN NAGASARI DESA PALENGAAN LAOK Kel. PALENGAAN LAOK Kec. PALENGGAAN PAMEKASAN JAWA TIMUR 69362"
+    },
+    {
+      "id": 87527,
+      "statistic_num": "510035280300",
+      "name": "PONDOK PESANTREN AS SHOLIHAH SUMBER PENANG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Angsokah Barat Desa Palengaan Daya Kel. PALENGAAN DAJAH Kec. PALENGGAAN PAMEKASAN JAWA TIMUR 69362"
+    },
+    {
+      "id": 187964,
+      "statistic_num": "510035280313",
+      "name": "PONDOK PESANTREN NURUL ULUM DARUT TANZIL",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dsn. Taretah Dajah RT 1 RW 1 PAMEKASAN JAWA TIMUR"
+    },
+    {
+      "id": 97809,
+      "statistic_num": "510035280315",
+      "name": "PONDOK PESANTREN NURUL KAROMAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Desa Buddagan Kec. Pademawu Kab. Pamekasan Kec. PADEMAWU PAMEKASAN JAWA TIMUR"
+    },
+    {
+      "id": 413876,
+      "statistic_num": "510035280321",
+      "name": "PONDOK PESANTREN AL-AZHAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Tengah Desa Toket Kecamatan Proppo Kel. TOKET Kec. PROPPO PAMEKASAN JAWA TIMUR 69363"
+    },
+    {
+      "id": 417844,
+      "statistic_num": "510035280323",
+      "name": "PONDOK PESANTREN MIFTAHUL ULUM GUNUNG SARI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Klerker Desa Banyubulu Kec. PROPPO PAMEKASAN JAWA TIMUR 69363"
+    },
+    {
+      "id": 209220,
+      "statistic_num": "510035280325",
+      "name": "PONDOK PESANTREN AT TAUHID",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dsn. Palalang Waru Barat, Kec. Waru, Kec. WARU PAMEKASAN JAWA TIMUR 69353"
+    },
+    {
+      "id": 410476,
+      "statistic_num": "510035280330",
+      "name": "PONDOK PESANTREN ABU DAIMAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Sumber Papan II Desa Larangan Badung Kel. LARANGAN BADUNG Kec. PALENGGAAN PAMEKASAN JAWA TIMUR 69362"
+    },
+    {
+      "id": 157730,
+      "statistic_num": "510035280405",
+      "name": "PONDOK PESANTREN ABU SYAMSUDDIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN BATU AMPAR Kel. PANGBATOK Kec. PROPPO PAMEKASAN JAWA TIMUR 69363"
+    },
+    {
+      "id": 184284,
+      "statistic_num": "510035280441",
+      "name": "PONDOK PESANTREN AL-MAWARDI",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "PASANGGAR PEGANTENA PAMEKASAN Kel. PASANGGAR Kec. PEGANTENAN PAMEKASAN JAWA TIMUR 69361"
+    },
+    {
+      "id": 298007,
+      "statistic_num": "510035280455",
+      "name": "PONDOK PESANTREN DARUL IMAN PATAPAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Aeng Nyunok PAMEKASAN JAWA TIMUR 69362"
+    },
+    {
+      "id": 291676,
+      "statistic_num": "510035280459",
+      "name": "PONDOK PESANTREN BUSTANUL ULUM SUMBER ANOM",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Angsanah Kel. ANGSANAH Kec. PALENGGAAN PAMEKASAN JAWA TIMUR 69362"
+    },
+    {
+      "id": 146596,
+      "statistic_num": "510035280462",
+      "name": "PONDOK PESANTREN NURUL JANNAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Konten Banyupelle Palengaan Pamekasan PAMEKASAN JAWA TIMUR 69362"
+    },
+    {
+      "id": 398653,
+      "statistic_num": "510035280471",
+      "name": "PONDOK PESANTREN BAITUL ULUM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Dusun Kemnag II Palengaan Daja Palengaan Kel. PALENGAAN DAJAH Kec. PALENGGAAN PAMEKASAN JAWA TIMUR 69362"
+    },
+    {
+      "id": 275940,
+      "statistic_num": "510035290275",
+      "name": "PONDOK PESANTREN BUSTANUL ULUM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "SONOK RT 2 RW 8 Kec. NONGGUNONG SUMENEP JAWA TIMUR 69484"
+    },
+    {
+      "id": 349945,
+      "statistic_num": "510035290276",
+      "name": "PONDOK PESANTREN AL-BARKAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KH. HUSEN NO. 01 DUSUN BONDAK Kel. PAGERUNGAN KECIL Kec. SAPEKEN SUMENEP JAWA TIMUR 69493"
+    },
+    {
+      "id": 324954,
+      "statistic_num": "510035290278",
+      "name": "PONDOK PESANTREN AL - ITTIHAD",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL.RAYA TELAGA INDAH RT 6 RW 2 Kel. LEMBUNG TIMUR Kec. LENTENG SUMENEP JAWA TIMUR 69461"
+    },
+    {
+      "id": 288465,
+      "statistic_num": "510035290282",
+      "name": "PONDOK PESANTREN AL-FALAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jalan Yayasan Al-Falah No 01 Dusun Jambu Monyet Kel. Lenteng Barat Kec. Lenteng Kab. Sumenep Prov. Jawa Timur 69461 RT 3 RW 4 Kel. LENTENG BARAT Kec. LENTENG SUMENEP JAWA TIMUR 69461"
+    },
+    {
+      "id": 253508,
+      "statistic_num": "510035290323",
+      "name": "PONDOK PESANTREN MATHLABUL ULUM",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. RAYA LENTENG JAMBU RT 6 RW 2 Kel. JAMBU Kec. LENTENG SUMENEP JAWA TIMUR 69461"
+    },
+    {
+      "id": 343795,
+      "statistic_num": "510035710047",
+      "name": "PONDOK PESANTREN DARUSSA'ADAH LIRBOYO",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JLN KH ABDUL KARIM NO.01 RT.004 RW.001 RT 4 RW 1 Kel. LIRBOYO Kec. MOJOROTO KOTA KEDIRI JAWA TIMUR 64117"
+    },
+    {
+      "id": 146601,
+      "statistic_num": "510035710048",
+      "name": "PONDOK PESANTREN ULUL ALBAB",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl.Sersan Suharmaji VII No 8B RT.02 RW.04 Kelurahan Manisrenggo Kec. Kota RT 3 RW 4 Kel. MANISRENGGO Kec. KOTA KOTA KEDIRI JAWA TIMUR 64128"
+    },
+    {
+      "id": 170342,
+      "statistic_num": "510035710049",
+      "name": "PONDOK PESANTREN AR-ROUDLOH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jalan Kapten Tendean, No.184 Rt.07 Rw.01 RT 7 RW 1 Kel. NGRONGGO Kec. KOTA KOTA KEDIRI JAWA TIMUR 64127"
+    },
+    {
+      "id": 211123,
+      "statistic_num": "510035720015",
+      "name": "PONDOK PESANTREN  MADRASAH AS-SUNNAH AN-NABAWIYYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KAPUAS 20 DAWUHAN KAUMAN KOTA BLITAR RT 2 RW 9 Kel. KAUMAN Kec. KEPANJENKIDUL KOTA BLITAR JAWA TIMUR 66117"
+    },
+    {
+      "id": 412820,
+      "statistic_num": "510035720017",
+      "name": "PONDOK PESANTREN TA'LIMIYAH WA TAHFIZH AL QUR'AN DZIKRUL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. Kalibrantas No. 79 D Dawuhan RT 3 RW 7 Kel. KAUMAN Kec. KEPANJENKIDUL KOTA BLITAR JAWA TIMUR 66117"
+    },
+    {
+      "id": 262557,
+      "statistic_num": "510035720019",
+      "name": "PONDOK PESANTREN MODERN HIDAYATULLAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Kalimantan no 68 Kel. SANANWETAN Kec. SANANWETAN KOTA BLITAR JAWA TIMUR 66137"
+    },
+    {
+      "id": 128556,
+      "statistic_num": "510035730017",
+      "name": "PONDOK PESANTREN MIFTAHUL HUDA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. GADING PESANTREN NO. 38 RT 3 RW 1 Kec. KLOJEN KOTA MALANG JAWA TIMUR 65115"
+    },
+    {
+      "id": 289941,
+      "statistic_num": "510035730050",
+      "name": "PONDOK PESANTREN ASSIDIQQI ASY SYUHADAA",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "TELUK GRAJAKAN GG.17 NO. 47D RT 1 RW 14 Kel. PANDANWANGI Kec. BLIMBING KOTA MALANG JAWA TIMUR 65124"
+    },
+    {
+      "id": 316094,
+      "statistic_num": "510035730054",
+      "name": "PONDOK PESANTREN ANWARUL HUDA",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. RAYA CANDI 3 NO.454 RT 11 RW 3 Kec. SUKUN KOTA MALANG JAWA TIMUR"
+    },
+    {
+      "id": 356038,
+      "statistic_num": "510035730077",
+      "name": "PPONDOK PESANTREN MAHASISWA BAITUL JANNAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JLN. BEND. NAWANGAN NO. 13 RT: 11 RW:02 Kec. SUKUN KOTA MALANG JAWA TIMUR"
+    },
+    {
+      "id": 296260,
+      "statistic_num": "510035730081",
+      "name": "PONDOK PESANTREN KHAIRA UMMAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. TLOGO AGUNG NO. 45H TLOGOMAS RT 2 RW 2 Kel. TLOGOMAS Kec. LOWOKWARU KOTA MALANG JAWA TIMUR 65144"
+    },
+    {
+      "id": 361541,
+      "statistic_num": "510035730102",
+      "name": "PONDOK PESANTREN IMAM AD-DAMANHURI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Perum Puri Nirwana Kav. 31 RT 11 RW 2 Kel. DINOYO Kec. LOWOKWARU KOTA MALANG JAWA TIMUR 65144"
+    },
+    {
+      "id": 96461,
+      "statistic_num": "510035740016",
+      "name": "PONDOK PESANTREN NURUL YAQIN",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. SUNAN AMPEL RT. 002 RW. 006 RT 2 RW 6 Kel. JREBENG LOR Kec. KEDOPOK KOTA PROBOLINGGO JAWA TIMUR 67238"
+    },
+    {
+      "id": 128022,
+      "statistic_num": "510035740021",
+      "name": "PONDOK PESANTREN ROUDLATUL FALAH AGHAF",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. MELON RT 1 RW 3 Kel. KADEMANGAN Kec. KADEMANGAN KOTA PROBOLINGGO JAWA TIMUR 67225"
+    },
+    {
+      "id": 210199,
+      "statistic_num": "510035760211",
+      "name": "PONDOK PESANTREN IBNU KATSIR",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. RADEN WIJAYA PANGGREMAN GG. 1 NO. 17 RT 1 RW 1 Kel. KRANGGAN Kec. KRANGGAN KOTA MOJOKERTO JAWA TIMUR 61321"
+    },
+    {
+      "id": 291101,
+      "statistic_num": "510035770009",
+      "name": "PONDOK PESANTREN AL MARDLIYYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. H. Moch. Noer RT. 01/01 RT 1 RW 1 Kel. DEMANGAN Kec. TAMAN KOTA MADIUN JAWA TIMUR 63136"
+    },
+    {
+      "id": 207979,
+      "statistic_num": "510035780049",
+      "name": "PONDOK PESANTREN TAHFIDHUL QURAN SHOHIHUDDIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. SIDOSERMO IV GANG XI NO. 37 Kec. WONOCOLO KOTA SURABAYA JAWA TIMUR"
+    },
+    {
+      "id": 234476,
+      "statistic_num": "510035780054",
+      "name": "PONDOK PESANTREN AL-JAWI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. JEMUR WONOSARI GG. MASJID NO. 31 RT 6 RW 3 Kec. WONOCOLO KOTA SURABAYA JAWA TIMUR"
+    },
+    {
+      "id": 273107,
+      "statistic_num": "510035780057",
+      "name": "PONDOK PESANTREN TAFSIR HADIS SHOHIHUDDIN 2",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. MASJID GANG BUNTU NO. 1-D PRAPEN RT 1 RW 6 Kec. TENGGILIS MEJOYO KOTA SURABAYA JAWA TIMUR 60299"
+    },
+    {
+      "id": 273723,
+      "statistic_num": "510035780063",
+      "name": "PONDOK PESANTREN UMMUL QUROO",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. SEMOLOWARU NO. 110 SURABAYA Kec. SUKOLILO KOTA SURABAYA JAWA TIMUR"
+    },
+    {
+      "id": 349573,
+      "statistic_num": "510035780085",
+      "name": "PONDOK PESANTREN SYIFAUL QULUB",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "REJOSARI RT.08 RW.03 BENOWO Kec. PAKAL KOTA SURABAYA JAWA TIMUR"
+    },
+    {
+      "id": 433633,
+      "statistic_num": "510035780088",
+      "name": "Pondok Pesantren Al Huda",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KHM Mansyur NO. 204-206 Kec. SEMAMPIR KOTA SURABAYA JAWA TIMUR"
+    },
+    {
+      "id": 160728,
+      "statistic_num": "510035780092",
+      "name": "PONDOK PESANTREN AL HUFFADZ",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DK. BABAT RT.3 RW.1 RT 3 RW 1 KOTA SURABAYA JAWA TIMUR 60197"
+    },
+    {
+      "id": 366944,
+      "statistic_num": "510035780093",
+      "name": "PONDOK PESANTREN TAHFIDZ SYAUQUL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "KAMPUNG MALANG WETAN 1 NO. 5 RT 6 RW 5 Kec. TEGALSARI KOTA SURABAYA JAWA TIMUR 60262"
+    },
+    {
+      "id": 327587,
+      "statistic_num": "510035780094",
+      "name": "PONDOK PESANTREN MAHASISWA KHOIRUL HUDA 3",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. SEMAMPIR SELATAN 2A NO.114, SURABAYA RT 5 RW 7 Kel. MEDOKAN SEMAMPIR Kec. SUKOLILO KOTA SURABAYA JAWA TIMUR 60119"
+    },
+    {
+      "id": 291355,
+      "statistic_num": "510035780095",
+      "name": "PONDOK PESANTREN PELAJAR MAHASISWA BAITUL MAKMUR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL JETIS KULON 7 NO 5 SURABAYA RT 8 RW 4 Kel. WONOKROMO Kec. WONOKROMO KOTA SURABAYA JAWA TIMUR 60243"
+    },
+    {
+      "id": 400321,
+      "statistic_num": "510035780100",
+      "name": "PONDOK PESANTREN MANBA'UL FALAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Rungkut Menanggal Gang III No. 7A RT 3 RW 1 Kel. RUNGKUT MENANGGAL Kec. GUNUNG ANYAR KOTA SURABAYA JAWA TIMUR 60293"
+    },
+    {
+      "id": 159931,
+      "statistic_num": "510035780101",
+      "name": "PONDOK PESANTREN DARUSSHOLIHIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Kauman Benowo RT 3 RW 1 Kel. BENOWO Kec. PAKAL KOTA SURABAYA JAWA TIMUR 60195"
+    },
+    {
+      "id": 395787,
+      "statistic_num": "510035780102",
+      "name": "PONDOK PESANTREN NURUL HUDA SURABAYA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Sencaki No. 64 RT 4 RW 4 Kel. SIMOLAWANG Kec. SIMOKERTO KOTA SURABAYA JAWA TIMUR 60144"
+    },
+    {
+      "id": 331940,
+      "statistic_num": "510035780109",
+      "name": "PONDOK PESANTREN TAHFIDZ AL- QUR'AN MUHAMMADIYAH GERSIKAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL.GERSIKAN NO.59 KELURAHAN PLOSO TAMBAKSARI RT 9 RW 5 Kec. TAMBAKSARI KOTA SURABAYA JAWA TIMUR 60133"
+    },
+    {
+      "id": 359928,
+      "statistic_num": "510035780113",
+      "name": "PONDOK PESANTREN ALIF LAAM MIIM SURABAYA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Kebonsari Baru Selatan No. 1 RT 3 RW 3 Kec. JAMBANGAN KOTA SURABAYA JAWA TIMUR 60233"
+    },
+    {
+      "id": 335755,
+      "statistic_num": "510035790041",
+      "name": "PONDOK PESANTREN KANZUN NAJAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. CENDANA NO.29 RT.01 RW.06 RT 1 RW 6 Kel. DADAPREJO Kec. JUNREJO KOTA BATU JAWA TIMUR 65323"
+    },
+    {
+      "id": 441915,
+      "statistic_num": "510235780130",
+      "name": "Pondok Pesantren Annahdliyah",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Kalianak Timur Gg. Lebar No. 7 RT 4 RW 7 Kel. MOROKREMBANGAN Kec. KREMBANGAN KOTA SURABAYA JAWA TIMUR 60178"
+    },
+    {
+      "id": 177878,
+      "statistic_num": "510335030061",
+      "name": "PONDOK PESANTREN AL-BURHAN WATULIMO",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DESA MARGOMULYO RT 17 / RW 06 RT 17 RW 6 Kel. MARGOMULYO Kec. WATULIMO TRENGGALEK JAWA TIMUR 66382"
+    },
+    {
+      "id": 122080,
+      "statistic_num": "510335040042",
+      "name": "PONDOK PESANTREN TAHFIDZUL QUR'AN NURUL IMAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN DOPRAYAN KRAJAN DESA KARANGREJO KEC. KARANGREJO KAB. TULUNGAGUNG RT 2 RW 3 Kel. KARANGREJO Kec. KARANGREJO TULUNGAGUNG JAWA TIMUR 66253"
+    },
+    {
+      "id": 112092,
+      "statistic_num": "510335070050",
+      "name": "PENDIDIKAN PONDOK PESANTREN ISLAM JERU",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. MASJID NO.49 RT 2 RW 1 Kel. JERU Kec. TUMPANG MALANG JAWA TIMUR 65156"
+    },
+    {
+      "id": 240422,
+      "statistic_num": "510335070099",
+      "name": "Pondok Pesantren Salafiyah A-Syarichin",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. BARAT PASAR RT 21 RW 09 TAJINAN RT 21 RW 9 Kel. TAJINAN Kec. TAJINAN MALANG JAWA TIMUR 65172"
+    },
+    {
+      "id": 391527,
+      "statistic_num": "510335070109",
+      "name": "PONDOK PESANTREN HIKMATUL HASANAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. SUMBER ILMU(JUBAN) RT/RW. 38/04 GANJARAN RT 38 RW 4 Kec. GONDANGLEGI MALANG JAWA TIMUR"
+    },
+    {
+      "id": 153702,
+      "statistic_num": "510335080152",
+      "name": "PONDOK PESANTREN SKILL NURUL HAYAT",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl.Gunung Tambuh, Dsn. Kedung Pakis, Ds. Pasirian RT 5 RW 1 Kel. PASIRIAN Kec. PASIRIAN LUMAJANG JAWA TIMUR 67372"
+    },
+    {
+      "id": 243284,
+      "statistic_num": "510335090613",
+      "name": "PONDOK PESANTREN AL-HASAN II",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JALAN TEROPONG BINTANG 01-02 RT: 01 RW: 02 DUSUN KANTONG DESA KEMIRI KECAMATAN PANTI 68153 Kec. PANTI JEMBER JAWA TIMUR 68153"
+    },
+    {
+      "id": 284265,
+      "statistic_num": "510335090620",
+      "name": "PONDOK PESANTREN AL MUBARAK",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL.IMAM BONJOL NO 11 GLAGAHWERO KALISAT Kec. KALISAT JEMBER JAWA TIMUR 68193"
+    },
+    {
+      "id": 281167,
+      "statistic_num": "510335090621",
+      "name": "PONDOK PESANTREN DARUL MUQOMAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. SULTAN AGUNG NO. 2-4 PURWOASRI GUMUKMAS JEMBER JAWA TIMUR"
+    },
+    {
+      "id": 252551,
+      "statistic_num": "510335090634",
+      "name": "PONDOK PESANTREN TAHFIDZ QUR'AN (PPTQ) AL-AZHAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN KARANG BIREH RT 001 RW 009 RT 1 RW 9 Kel. SUMBERLESUNG Kec. LEDOKOMBO JEMBER JAWA TIMUR 68196"
+    },
+    {
+      "id": 128704,
+      "statistic_num": "510335090642",
+      "name": "PONDOK PESANTREN TAHFIDZ QUR'AN (PPTQ) NURUL ULUM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN JUROJU DESA SUMBER SALAK KEC. LEDOKOMBO Kec. LEDOKOMBO JEMBER JAWA TIMUR"
+    },
+    {
+      "id": 418442,
+      "statistic_num": "510335100143",
+      "name": "PONDOK PESANTREN SALAFIYAH SUNAN GIRI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN KRAJAN I DESA BANGSRING KEC. WONGSOREJO RT 3 RW 3 Kel. BANGSRING Kec. WONGSOREJO BANYUWANGI JAWA TIMUR 68453"
+    },
+    {
+      "id": 117662,
+      "statistic_num": "510335100160",
+      "name": "Pondok Pesantren Modern Al-Kautsar",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. PANDAN NO. 340 DESA SUMBERSARI KEC. SRONO RT 1 RW 1 Kel. SUMBERSARI Kec. SRONO BANYUWANGI JAWA TIMUR 68471"
+    },
+    {
+      "id": 240587,
+      "statistic_num": "510335110162",
+      "name": "PONDOK PESANTREN SUNAN KALIJOGO",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. RAYA TAMANAN GRUJUGAN LOR RT. 02 RW. 01 Kec. JAMBESARI DARUS SHOLAH BONDOWOSO JAWA TIMUR"
+    },
+    {
+      "id": 254124,
+      "statistic_num": "510335130087",
+      "name": "PONDOK PESANTREN NURUR RAHMAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KH. ZAINUL MUIN SAMBIRAMPAK LOR RT 8 RW 4 Kel. SAMBIRAMPAK LOR Kec. KOTAANYAR PROBOLINGGO JAWA TIMUR 67293"
+    },
+    {
+      "id": 149048,
+      "statistic_num": "510335170124",
+      "name": "PONDOK TAHFIDZ YANABIUL QURAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. BRIGJEN KRETARTO NO. 07 SAMBONGDUKUH RT 1 RW 7 Kel. SAMBONGDUKUH Kec. JOMBANG JOMBANG JAWA TIMUR 61419"
+    },
+    {
+      "id": 261091,
+      "statistic_num": "510335180127",
+      "name": "Pondok Pesantren Tahfidzul Qur'an \"Babussalam\"",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JABON RT 2 RW 3 Kel. DRENGES Kec. KERTOSONO NGANJUK JAWA TIMUR 64315"
+    },
+    {
+      "id": 117274,
+      "statistic_num": "510335180176",
+      "name": "PONDOK PESANTREN GONDANGLOR AN-NAHDLAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "ponpes an nahdlah jln, bambang yuono rt/rw : 01/04 ds. gondang kulon kec. gondang kab. nganjuk RT 1 RW 7 Kel. GONDANGKULON Kec. GONDANG NGANJUK JAWA TIMUR 64451"
+    },
+    {
+      "id": 127014,
+      "statistic_num": "510335230116",
+      "name": "PONDOK PESANTREN AL HIKMAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN. KLANGONRT/RW 003/003 RT 3 RW 3 Kel. WOTSOGO Kec. JATIROGO TUBAN JAWA TIMUR 62362"
+    },
+    {
+      "id": 366477,
+      "statistic_num": "510335240221",
+      "name": "PONDOK PESANTREN AL- MUNAWWAROH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. MASJID BESAR BABAT RT 2 RW 5 Kec. BABAT LAMONGAN JAWA TIMUR 62271"
+    },
+    {
+      "id": 219482,
+      "statistic_num": "510335240227",
+      "name": "PONDOK PESANTREN AL BASHOR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "TAMBAR RT 3 RW 2 Kel. SIDOKUMPUL Kec. SAMBENG LAMONGAN JAWA TIMUR 62284"
+    },
+    {
+      "id": 111985,
+      "statistic_num": "510335250097",
+      "name": "PONDOK PESANTREN WALISONGO",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "PETUNG PANCENG GRESIK RT 15 RW 5 Kel. PETUNG Kec. PANCENG GRESIK JAWA TIMUR 61156"
+    },
+    {
+      "id": 97167,
+      "statistic_num": "510335250101",
+      "name": "PONDOK PESANTREN SALAFIYAH 2 GRESIK",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN NGABLAKREJO GANG MANGGA 1 GEMPOLKURUNG MENGANTI GRESIK Kec. MENGANTI GRESIK JAWA TIMUR 61174"
+    },
+    {
+      "id": 213411,
+      "statistic_num": "510335250114",
+      "name": "PONDOK ADDINI AL-BURDAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN PERAPATUNGGAL RT 1 RW 8 Kel. DEKATAGUNG Kec. SANGKAPURA GRESIK JAWA TIMUR 61181"
+    },
+    {
+      "id": 123397,
+      "statistic_num": "510335250117",
+      "name": "PONDOK PESANTREN AL-FURQON",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KH. ABDURROHIM NO. 1 RT 12 RW 004 RT 12 RW 4 Kel. ANOM Kec. DRIYOREJO GRESIK JAWA TIMUR 61177"
+    },
+    {
+      "id": 111295,
+      "statistic_num": "510335260138",
+      "name": "PONDOK PESANTREN SALAFIAH SYAFIIYAH AL MADINA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. JOKOTOLE 003/004, SOMOR KONENG, KWANYAR Kec. KWANYAR BANGKALAN JAWA TIMUR"
+    },
+    {
+      "id": 123342,
+      "statistic_num": "510335270377",
+      "name": "PONDOK PESANTREN PROGRESIF AL-MIFTAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN. BANROKEM DS. SAWAH TENGAH KEC. ROBATAL Kec. ROBATAL SAMPANG JAWA TIMUR"
+    },
+    {
+      "id": 229509,
+      "statistic_num": "510335280233",
+      "name": "PONDOK PESANTREN SYEKH ABDURRAHMAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN RABAH DESA SUMEDANGAN KEC.PADEMAWU RT 3 RW 5 Kec. PADEMAWU PAMEKASAN JAWA TIMUR 69323"
+    },
+    {
+      "id": 162531,
+      "statistic_num": "510335290242",
+      "name": "PONDOK PESANTREN AL-HIDAYAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN JAMPARENG DAJA DESA CAMPAKA KECAMATAN PASONGSONGAN RT 1 RW 2 Kel. CAMPAKA Kec. PASONGSONGAN SUMENEP JAWA TIMUR 69457"
+    },
+    {
+      "id": 130100,
+      "statistic_num": "510335290252",
+      "name": "PONDOK PESANTREN NASYRUL ULUM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. TAMBIYU DESA AENGDAKE KECAMATAN BLUTO RT 14 RW 14 Kec. BLUTO SUMENEP JAWA TIMUR 69466"
+    },
+    {
+      "id": 254822,
+      "statistic_num": "510335730053",
+      "name": "PONDOK PESANTREN SUNAN MURIA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KH. HASYIM V/16 RT. 07 RW . 03 RT 7 RW 3 Kec. KEDUNGKANDANG KOTA MALANG JAWA TIMUR 65137"
+    },
+    {
+      "id": 362273,
+      "statistic_num": "510335760013",
+      "name": "PONDOK PESANTREN AL-MULTAZAM TIGA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. CINDE BARU VIII RT 3 RW 1 KOTA MOJOKERTO JAWA TIMUR 61326"
+    },
+    {
+      "id": 394332,
+      "statistic_num": "510335780031",
+      "name": "PONDOK PESANTREN AS-SHOLIHIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Keputih Gang 3 No 52 Sukolilo Surabaya RT 1 RW 1 Kel. KEPUTIH Kec. SUKOLILO KOTA SURABAYA JAWA TIMUR 60111"
+    },
+    {
+      "id": 318653,
+      "statistic_num": "510335780038",
+      "name": "YAYASAN PONDOK PESANTREN DARUT TAUHID SEMAMPIR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "TENGGUMUNG WETAN  MASJID/17 RT/RW : 07/16 Kec. SEMAMPIR KOTA SURABAYA JAWA TIMUR"
+    },
+    {
+      "id": 212052,
+      "statistic_num": "510335780039",
+      "name": "Pondok Pesantren Tambak Bening Suroboyo Indonesia",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. TAMBAK BENING 2 NO. 18 KELURAHAN TAMBAKREJO KECAMATAN SIMOKERTO RT 2 RW 7 Kel. TAMBAKREJO Kec. SIMOKERTO KOTA SURABAYA JAWA TIMUR 60142"
+    },
+    {
+      "id": 304611,
+      "statistic_num": "510335780073",
+      "name": "PONDOK PESANTREN ASSALAFI AL FITHRAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KEDINDING LOR NO 99 KEC. KENJERAN KOTA SURABAYA RT 2 RW 9 Kel. TANAH KALI KEDINDING Kec. KENJERAN KOTA SURABAYA JAWA TIMUR 60129"
+    },
+    {
+      "id": 376825,
+      "statistic_num": "511235250215",
+      "name": "PONDOK PESANTREN AL AZHAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN KECIPIK RT/RW* 002/001 KODE POS* 61174 Kec. MENGANTI GRESIK JAWA TIMUR"
+    },
+    {
+      "id": 298873,
+      "statistic_num": "512035020001",
+      "name": "KULLIYATUL-L-MU`ALLIMIN AL-ISLAMIYYAH PONDOK MODERN DARUSSALAM GONTOR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Gontor RT 1 RW 1 Kel. GONTOR Kec. MLARAK PONOROGO JAWA TIMUR 63472"
+    },
+    {
+      "id": 138725,
+      "statistic_num": "512035090625",
+      "name": "PONDOK PESANTREN INSAN KAMIL DARUNGAN AS SALAFI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN. DARUNGAN SELATAN 03/09 DS. JUBUNG KEC. SUKORAMBI KAB. JEMBER 68151 RT 3 RW 9 Kel. JUBUNG Kec. SUKORAMBI JEMBER JAWA TIMUR 68151"
+    },
+    {
+      "id": 423703,
+      "statistic_num": "512035240230",
+      "name": "PONDOK PESANTREN AL-HIDAYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. DUSUN NGULAAN RT:12 RW 02 Kec. SOLOKURO LAMONGAN JAWA TIMUR"
+    },
+    {
+      "id": 154725,
+      "statistic_num": "512035250104",
+      "name": "PONDOK PESANTREN NURUL IHSAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DUSUN MULYOSARI, RT. 04 RW. 03 RT 4 RW 3 Kel. BANYUURIP Kec. UJUNGPANGKAH GRESIK JAWA TIMUR 61154"
+    },
+    {
+      "id": 305988,
+      "statistic_num": "512335090650",
+      "name": "YAYASAN SOSIAL DAN PENDIDIKAN  PONDOK PESANTREN NQ NURUL HIDAYAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL.SUMBERJAMBE NO.100 DESA SUMBERDANTI RT 2 RW 8 Kel. SUMBERDANTI Kec. SUKOWONO JEMBER JAWA TIMUR 68194"
+    },
+    {
+      "id": 273693,
+      "statistic_num": "512335160149",
+      "name": "PONDOK PESANTREN TAHFIDZUL QUR'AN AR-ROHIM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "MADYOPURO KALIPURO PUNGGING RT 1 RW 1 Kel. KALIPURO Kec. PUNGGING MOJOKERTO JAWA TIMUR 61384"
+    },
+    {
+      "id": 178632,
+      "statistic_num": "512335160151",
+      "name": "PONDOK PESANTREN AL GHOITS",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "KETEGAN GONDANG GONDANG MOJOKERTO Kec. GONDANG MOJOKERTO JAWA TIMUR"
+    },
+    {
+      "id": 132327,
+      "statistic_num": "512335230113",
+      "name": "Pondok Pesantren Al Islah",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DSN PALANG SELATAN RT. 002 RW 004 DESA PALANG Kec. PALANG TUBAN JAWA TIMUR"
+    },
+    {
+      "id": 298157,
+      "statistic_num": "512335240225",
+      "name": "PONDOK PESANTREN AL-MANSHURIYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. BLULUK-SONGOWARENG, KEC. BLULUK-LAMONGAN RT 4 RW 2 Kec. BLULUK LAMONGAN JAWA TIMUR 62274"
+    },
+    {
+      "id": 420346,
+      "statistic_num": "512335240233",
+      "name": "PONDOK PESANTREN MIFTAHUL HUDA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL KH ZAYADI GG ANGGREK RT 04 RW 01 LAMONGAN JAWA TIMUR"
+    },
+    {
+      "id": 267122,
+      "statistic_num": "512335250112",
+      "name": "PONDOK PESANTREN AL MIFTAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jln.Randuagung RT 3 RW 2 Kec. BUNGAH GRESIK JAWA TIMUR 61152"
+    },
+    {
+      "id": 343481,
+      "statistic_num": "512335250119",
+      "name": "PONDOK PESANTREN NURUL HIDAYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. KEBON SARI PERENG KULON BUNGAH GRESIK RT 26 RW 28 Kel. MELIRANG Kec. BUNGAH GRESIK JAWA TIMUR 61152"
+    },
+    {
+      "id": 150751,
+      "statistic_num": "512335250124",
+      "name": "PONDOK PESANTREN INTERNASIONAL AL-ILLIYIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "DS. SUMBERWARU KEC. WRINGINANOM KAB. GRESIK RT 2 RW 3 Kel. SUMBERWARU Kec. WRINGINANOM GRESIK JAWA TIMUR 61176"
+    },
+    {
+      "id": 256232,
+      "statistic_num": "512335260141",
+      "name": "PONDOK PESANTREN AL-FALAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. PESANTREN 04 BAELER LOMBANG DAJAH BLEGA Kec. BLEGA BANGKALAN JAWA TIMUR"
+    },
+    {
+      "id": 112900,
+      "statistic_num": "512335780032",
+      "name": "YAYASAN PONDOK PESANTREN AS SULAIMANI",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "PACAR KEMBANG 3 / 82 F SURABAYA RT 1 RW 7 Kel. PACARKEMBANG Kec. TAMBAKSARI KOTA SURABAYA JAWA TIMUR 60132"
+    },
+    {
+      "id": 433889,
+      "statistic_num": "512335780048",
+      "name": "Pondok Pesantren Al-Amin",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jln Kyai Satari GG Langgar No.7 RT.002 RW.001 Kec. SUKOMANUNGGAL KOTA SURABAYA JAWA TIMUR"
+    },
+    {
+      "id": 157177,
+      "statistic_num": "512335780079",
+      "name": "Pondok Pesantren Sunan Kalijogo",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Simo Kalangan 172-A RT 7 RW 7 Kel. SIMOMULYO Kec. SUKOMANUNGGAL KOTA SURABAYA JAWA TIMUR 60281"
+    }
+  ]
+}

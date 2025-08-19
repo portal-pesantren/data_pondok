@@ -1,0 +1,134 @@
+{
+  "results": [
+    {
+      "id": 446067,
+      "statistic_num": "222233050001",
+      "name": "SPM WUSTHA TARBIYATUL MU'ALLIMIN AL ISLAMIYAH PONDOK TAHFIDZ AL IHSAN WAT TAQWA",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "JL JOKO SANGKRIP KM. 02 RT 1 RW 1 Kel. CANDIMULYO Kec. KEBUMEN KEBUMEN JAWA TENGAH 54317"
+    },
+    {
+      "id": 427247,
+      "statistic_num": "222233070004",
+      "name": "SPM WUSTHA PONDOK PESANTREN SALAF TAWANGSARI",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "Jalan raya banyumas km 09 RT 1 RW 1 Kel. KRASAK Kec. SELOMERTO WONOSOBO JAWA TENGAH 56361"
+    },
+    {
+      "id": 429119,
+      "statistic_num": "222233080002",
+      "name": "SPM WUSTHA KMI BALAI PENDIDIKAN PONDOK PESANTREN PABELAN",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "Pondok Pabelan RT 3 RW 8 Kel. PABELAN Kec. MUNGKID MAGELANG JAWA TENGAH 56512"
+    },
+    {
+      "id": 446034,
+      "statistic_num": "222233100001",
+      "name": "SPM WUSTHA PONDOK MODERN AL MUSYADDAD",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "Sidoharjo RT 4 RW 9 Kel. SIDOHARJO Kec. POLANHARJO KLATEN JAWA TENGAH 57474"
+    },
+    {
+      "id": 446140,
+      "statistic_num": "222233120001",
+      "name": "SPM WUSTHA PONDOK PESANTREN MODERN AR RAIHAN",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "Ketonggo RT 1 RW 2 Kel. KERJO LOR Kec. NGADIROJO WONOGIRI JAWA TENGAH 57681"
+    },
+    {
+      "id": 446074,
+      "statistic_num": "222233130001",
+      "name": "SPM Wustha PONDOK PESANTREN MTA",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "TUNGGULSARI RT 2 RW 7 Kel. POJOK Kec. MOJOGEDANG KARANGANYAR JAWA TENGAH 57752"
+    },
+    {
+      "id": 446109,
+      "statistic_num": "222233190001",
+      "name": "SPM WUSTHA KULLIYYATUL MU'ALLIMIN AL-ISLAMIYYAH (KMI) PONDOK TAHFIDZ MODERN AL-AQSHO KUDUS",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "Jln. Sudimoro-Pedak Klumpit Kel. KLUMPIT Kec. GEBOG KUDUS JAWA TENGAH 59333"
+    },
+    {
+      "id": 446066,
+      "statistic_num": "232233050002",
+      "name": "SPM ULYA TARBIYATUL MU'ALLIMIN AL ISLAMIYAH PONDOK TAHFIDZ AL IHSAN WAT TAQWA",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "JL JOKO SANGKRIP KM. 02 RT 1 RW 1 Kel. CANDIMULYO Kec. KEBUMEN KEBUMEN JAWA TENGAH 54317"
+    },
+    {
+      "id": 427209,
+      "statistic_num": "232233080001",
+      "name": "SPM ULYA KMI BALAI PENDIDIKAN PONDOK PESANTREN PABELAN",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "Pondok Pabelan Kel. PABELAN Kec. MUNGKID MAGELANG JAWA TENGAH 56512"
+    },
+    {
+      "id": 446098,
+      "statistic_num": "232233100002",
+      "name": "SPM ULYA PONDOK MODERN AL MUSYADDAD",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "TLOBONG RT 4 RW 9 Kel. SIDOHARJO Kec. POLANHARJO KLATEN JAWA TENGAH 57474"
+    },
+    {
+      "id": 449700,
+      "statistic_num": "232233120002",
+      "name": "SPM ULYA PONDOK PESANTREN MODERN AR RAIHAN",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "Ketonggo RT 001 RW 002 RT 1 RW 2 Kel. KERJO LOR Kec. NGADIROJO WONOGIRI JAWA TENGAH 57681"
+    },
+    {
+      "id": 446073,
+      "statistic_num": "232233130002",
+      "name": "SPM Ulya PONDOK PESANTREN MTA",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "TUNGGULSARI RT 2 RW 7 Kel. POJOK Kec. MOJOGEDANG KARANGANYAR JAWA TENGAH 57752"
+    },
+    {
+      "id": 446108,
+      "statistic_num": "232233190002",
+      "name": "SPM ULYA KULLIYYATUL MU'ALLIMIN AL-ISLAMIYYAH (KMI) PONDOK TAHFIDZ MODERN AL-AQSHO KUDUS",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "Jln. Sudimoro-Pedak Klumpit Kel. KLUMPIT Kec. GEBOG KUDUS JAWA TENGAH 59333"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "id": 220638,
+      "statistic_num": "510033190257",
+      "name": "Pondok Tahfidh Misbah Al-Qur'an",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "Jl. Suryokusumo RT 10 RW 4 Kel. MEJOBO Kec. MEJOBO KUDUS JAWA TENGAH 59381"
+    },
+    {
+      "id": 141333,
+      "statistic_num": "510033760032",
+      "name": "Pondok Pesantren Miftahul Huda",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "Jl. Kendari No. 48  RT 004 / RW 003 RT 4 RW 3 Kel. TUNON Kec. TEGAL BARAT KOTA TEGAL JAWA TENGAH 52135"
+    },
+    {
+      "id": 186200,
+      "statistic_num": "510333720032",
+      "name": "PONDOK PESANTREN MASJID JAJAR",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 33,
+      "province_name": "JAWA TENGAH",
+      "address": "Jl. Slamet Riyadi, No.566, Jajar RT 1 RW 3 Kel. JAJAR Kec. LAWEYAN KOTA SURAKARTA JAWA TENGAH 57144"
+    }
+  ]
+}

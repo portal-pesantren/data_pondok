@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "id": 377233,
+      "statistic_num": "222235070002",
+      "name": "SPM WUSTHA ROUDLOTUL BAYAN PONDOK PESANTREN ROUDLOTUL MUHSININ",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL KH AHMAD DAHLANNO 450 ALMAQBUL RT 14 RW 3 Kel. KUWOLU Kec. BULULAWANG MALANG JAWA TIMUR 65171"
+    },
+    {
+      "id": 293717,
+      "statistic_num": "222235180003",
+      "name": "KULLIYATUL MU’ALLIMIN AL-ISLAMIYAH (KMI) PONDOK MODERN AL-BAROKAH",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Raya Ngepung RT 1 RW 1 Kel. NGEPUNG Kec. PATIANROWO NGANJUK JAWA TIMUR 64391"
+    },
+    {
+      "id": 388234,
+      "statistic_num": "222235290014",
+      "name": "MA’HADUL MU’ALLIMIEN AL-ISLAMIE (MMI) PONDOK PESANTREN MATHLABUL ULUM",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL. RAYA LENTENG JAMBU RT 5 RW 2 Kel. JAMBU Kec. LENTENG SUMENEP JAWA TIMUR 69461"
+    },
+    {
+      "id": 423340,
+      "statistic_num": "232235070001",
+      "name": "SPM ULYA ROUDLOTUL BAYAN PONDOK PESANTREN ROUDLOTUL MUHSININ",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "JL KH AHMAD DAHLANNO 450 ALMAQBUL RT 14 RW 3 Kel. KUWOLU Kec. BULULAWANG MALANG JAWA TIMUR 65171"
+    },
+    {
+      "id": 344527,
+      "statistic_num": "232235240001",
+      "name": "SPM. ULYA KULLIYATUL MU'ALLIMIN AL-ISLAMIYAH (KMI) PONDOK PESANTREN KARANGASEM",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 35,
+      "province_name": "JAWA TIMUR",
+      "address": "Jl. Pondok RT/RW : 05/03 Jetak Paciran Lamongan Kec. PACIRAN LAMONGAN JAWA TIMUR"
+    }
+  ]
+}
