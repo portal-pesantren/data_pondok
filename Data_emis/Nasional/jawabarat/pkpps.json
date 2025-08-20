@@ -1,0 +1,64 @@
+{
+  "results": [
+    {
+      "id": 165562,
+      "statistic_num": "510032050521",
+      "name": "PONDOK PESANTREN PP RIYADHUL ATHFAL",
+      "jenjang": "-",
+      "status": "inactive",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "KP. TALUN LEBAK 03/04 DESA SUKALILAH SUKARESMI GARUT RT 3 RW 4 Kec. CIBATU GARUT JAWA BARAT 44185"
+    },
+    {
+      "id": 404544,
+      "statistic_num": "510032050989",
+      "name": "PONDOK PESANTREN PP AL HIDAYAH",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "JL SUDIRMAN KOROPEAK KALER SUCI KALER KARANGPAWITAN RT 3 RW 10 Kel. SUCI KALER Kec. KARANGPAWITAN GARUT JAWA BARAT 44182"
+    },
+    {
+      "id": 394585,
+      "statistic_num": "510032061600",
+      "name": "PONDOK PESANTREN MIFTAHUL FALAH",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "Kp. Wangun Ds. Cibongas Kec. Pancatengah Kab. Tasikmalaya RT 22 RW 8 Kel. CIBONGAS Kec. PANCATENGAH TASIKMALAYA JAWA BARAT 46194"
+    },
+    {
+      "id": 100774,
+      "statistic_num": "510032730119",
+      "name": "PAKET PP. PONDOK IQRA",
+      "jenjang": "-",
+      "status": "inactive",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "JL.ALIYUDA NO. 122 KP. LIO RT. 007 RW. 001 KEL. CIPAMOKOLAN Kec. RANCASARI KOTA BANDUNG JAWA BARAT 40292"
+    },
+    {
+      "id": 270915,
+      "statistic_num": "510332060037",
+      "name": "PONDOK PESANTREN MIFTAHUL ULUM",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "KP. CIMUNCAR RT 3 RW 4 Kel. CIBEBER Kec. CIKALONG TASIKMALAYA JAWA BARAT 46195"
+    },
+    {
+      "id": 277299,
+      "statistic_num": "510332060296",
+      "name": "PONDOK PESANTREN MIFTAHUL ULUM",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "KP. CITAMBAL RT 18 RW 5 Kel. KARANGLAYUNG Kec. KARANG JAYA TASIKMALAYA JAWA BARAT 46198"
+    }
+  ]
+}

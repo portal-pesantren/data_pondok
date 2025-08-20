@@ -19,6 +19,6 @@ venv/
 Thumbs.db
 
 # Others
-*.log
+*.log 
 *.tmp
 other/

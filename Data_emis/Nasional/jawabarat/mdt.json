@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "id": 279126,
+      "statistic_num": "311232010465",
+      "name": "MDT MUHAMMADIYAH PONDOK GEDONG",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "KP. PONDOK GEDONG RT 2 RW 2 Kel. SETU Kec. JASINGA BOGOR JAWA BARAT 16670"
+    },
+    {
+      "id": 309588,
+      "statistic_num": "311232044331",
+      "name": "PONDOK IQRO AL IKHLAS",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "Pada Awas Desa Margamulya RT 4 RW 16 Kel. MARGAMULYA Kec. PANGALENGAN BANDUNG JAWA BARAT 40378"
+    },
+    {
+      "id": 186891,
+      "statistic_num": "311232092218",
+      "name": "MADRASAH DINIYAH PONDOK PESANTREN GEDONGAN",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "Jl. Desa Ender RT 1 RW 7 Kec. PANGENAN CIREBON JAWA BARAT 45182"
+    },
+    {
+      "id": 277400,
+      "statistic_num": "311232730892",
+      "name": "PONDOK IQRO",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "JL. SOEKARNO HATTA KP. LIO NO.122 RT 7 RW 1 Kel. CIPAMOKOLAN Kec. RANCASARI KOTA BANDUNG JAWA BARAT 40292"
+    },
+    {
+      "id": 256253,
+      "statistic_num": "311232760084",
+      "name": "MDT PONDOK QURAN ARRAHMAN",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "JL. H. NADIH RT 4 RW 3 Kel. SUKAMAJU Kec. CILODONG KOTA DEPOK JAWA BARAT 16415"
+    }
+  ]
+}

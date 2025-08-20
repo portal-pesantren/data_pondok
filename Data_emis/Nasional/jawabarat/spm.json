@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "message": "",
+  "success": true,
+  "errors": null,
+  "metadata": {
+    "pagination": {
+      "per_page": 10,
+      "total": 19,
+      "current_page": 1,
+      "last_page": 2,
+      "next_page_url": "https://api-emis.kemenag.go.id/v1/institutions/pontren/search-all-data?institution_group_id=3&search_type=institution&q=pondok&per_page=10&recaptcha=0cAFcWeA4RKi5gWbJK89m4zPoX9dS5Lg31VD83br59WK-Kh-58cotJKzyb8YC2xJzp4xD7XPtTSc6oI6foUE_Y7p6o9OelWXd_6a8b315qVZpw0Hkj3EJAWd_rFWDmSVlRKRIhes1nfPHhqRC8KNoXJlyvv02bTOMvcE2oPVr_RaFurQmuyfXF3rFoZppQrnY1IEsgK16HfP1TQL5teNNXmh-Z22cMe1ZfnbuzVjpe9ZsfV28lJJAH2dzDsAlYsEKZvE2Xs8MNl8uSNVeVLxoi0zhPPmiaTpdS_0EfHQcwfaMxwTK80FPx9Dr92s8oEDrtHdbJmj62VYgMZuyKDW81rylAoUaG8qtit6QxPapxcFidOUY6ir95DNMh70gW7e3PiZsxNOhvfWtLhbQDuJsNRsWsdWFQ40w8yV9M4Pht0-Irb90xyM-p5V8e8rzulNK7FkofhVqIWBcJ7x4aD0Ksj2rfL0Tb8WiLhR-dj75V9KpvxaQqgHudejAh3uKVg1F9EmhOVjUglH4SFGsLita373Fu3tknQfEbSTHmlFNSLOQiO6x4GrHBXiVr-qfsX-XhSysMsodchJI16VsFiPuCz9UWF1D-Gm3SixaZO_wApnfihpHLksKJUFMydhw8D6nGaVM4-3CfgJxNqoqm7B2Qd388tKtnWUFWzEiBmBQE32ddmE3O9muXb8YOzPnzr7BwUDmdwNuS7YboS6OIaIYEvVN36Le9qbVSjhmFuBlJ6urohtfngodv3pO2hqZeBN3nWCTMWoREXwAEd4i0HNqhOjZ-vsLuOtGKwM9F4Vp0m62BfqhplljYWs4&province_id=32&page=2",
+      "prev_page_url": null
+    }
+  },
+  "results": [
+    {
+      "id": 263159,
+      "statistic_num": "222232010019",
+      "name": "TMI TSANAWIYAH PONDOK PESANTREN RIYADHUL HUDA BOGOR",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "JL. BABAKAN INDAH, KP. BABAKAN RT 2 RW 15 Kel. CIANGSANA Kec. GUNUNG PUTRI BOGOR JAWA BARAT 16968"
+    },
+    {
+      "id": 105924,
+      "statistic_num": "222232010021",
+      "name": "TMI TSANAWIYAH PONDOK PESANTREN FAJRUSSALAM BOGOR",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "KP. KARANG TENGAH RT 4 RW 2 Kel. KARANGTENGAH Kec. BABAKAN MADANG BOGOR JAWA BARAT 16810"
+    },
+    {
+      "id": 228036,
+      "statistic_num": "222232010025",
+      "name": "SPM WUSTHA KULLIYATUL MU'ALLIMIN AL-ISLAMIYAH PONDOK PESANTREN MIFTAHUL HUDA",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "KP. BANTARJAYA RT 1 RW 1 Kel. BANTARJAYA Kec. RANCA BUNGUR BOGOR JAWA BARAT 16310"
+    },
+    {
+      "id": 283358,
+      "statistic_num": "222232050004",
+      "name": "TARBIYATUL MUTA’ALIMIN AL-ISLAMIYYAH (TMI) PONDOK PESANTREN DARUS SALAM",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "JL. RAYA KURNIA KP. SINDANGSARI RT 1 RW 9 Kel. KERSAMANAH Kec. KERSAMANAH GARUT JAWA BARAT 44185"
+    },
+    {
+      "id": 429095,
+      "statistic_num": "222232090002",
+      "name": "SPM WUSTHA PONDOK PESANTREN MODERN AL-MUQODDAS",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "JL. WALINANGGUNG RT 2 RW 13 Kel. TUKMUDAL Kec. SUMBER CIREBON JAWA BARAT 45611"
+    },
+    {
+      "id": 427352,
+      "statistic_num": "222232090004",
+      "name": "SPM WUSTHA PONDOK PESANTREN AL BAHJAH PROGRAM MUADALAH MUALIMIN TINGKAT WUSTHA",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "Jl. PANGERAN CAKRABUANA NO. 179 RT 3 RW 1 Kel. SENDANG Kec. SUMBER CIREBON JAWA BARAT 45611"
+    },
+    {
+      "id": 427052,
+      "statistic_num": "222232110002",
+      "name": "SPM WUSTHA PONDOK PESANTREN ISLAM INTERNASIONAL TERPADU ASY-SYIFAA WALMAHMUUDIYYAH",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "KAMPUNG SIMPANG  RT 01 RW 04 RT 1 RW 4 Kel. HAURGOMBONG Kec. PAMULIHAN SUMEDANG JAWA BARAT 45365"
+    },
+    {
+      "id": 428148,
+      "statistic_num": "222232130001",
+      "name": "SPM WUSTHA PONDOK PESANTREN AL-IHYA",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "Kampung karangcegak RT 8 RW 3 Kel. CIDAHU Kec. PAGADEN BARAT SUBANG JAWA BARAT 41252"
+    },
+    {
+      "id": 395921,
+      "statistic_num": "222232170004",
+      "name": "SPM. WUSTHA PONDOK PESANTREN MODERN DARUSSALAM",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "BUKIT PERMATA CIMAHI BLOK G RT 9 RW 22 Kel. CILAME Kec. NGAMPRAH BANDUNG BARAT JAWA BARAT 40552"
+    },
+    {
+      "id": 427520,
+      "statistic_num": "222232170005",
+      "name": "SPM WUSTHA PONDOK PESANTREN INTEGRITAS QURANI",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "JALAN KAMPUS POLBAN CIWARUGA RT 1 RW 2 Kel. CIWARUGA Kec. PARONGPONG BANDUNG BARAT JAWA BARAT 40559"
+    },
+    {
+      "id": 418257,
+      "statistic_num": "232232010020",
+      "name": "TMI ALIYAH PONDOK PESANTREN RIYADHUL HUDA BOGOR",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "JL. BABAKAN INDAH, KP. BABAKAN RT 2 RW 15 Kel. CIANGSANA Kec. GUNUNG PUTRI BOGOR JAWA BARAT 16968"
+    },
+    {
+      "id": 126820,
+      "statistic_num": "232232010022",
+      "name": "TMI ALIYAH PONDOK PESANTREN FAJRUSSALAM BOGOR",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "KP. KARANG TENGAH RT 4 RW 2 Kel. KARANGTENGAH Kec. BABAKAN MADANG BOGOR JAWA BARAT 16810"
+    },
+    {
+      "id": 171960,
+      "statistic_num": "232232010026",
+      "name": "SPM ULYA KULLIYATUL MU'ALLIMIN AL-ISLAMIYAH PONDOK PESANTREN MIFTAHUL HUDA",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "KP. BANTARJAYA RT 1 RW 1 Kel. BANTARJAYA Kec. RANCA BUNGUR BOGOR JAWA BARAT 16310"
+    },
+    {
+      "id": 427948,
+      "statistic_num": "232232090002",
+      "name": "SPM ULYA PONDOK PESANTREN AL BAHJAH PROGRAM MUADALAH MUALIMIN TINGKAT ULYA",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "Jl. PANGERAN CAKRABUANA NO. 179 RT 3 RW 1 Kel. SENDANG Kec. SUMBER CIREBON JAWA BARAT 45611"
+    },
+    {
+      "id": 346958,
+      "statistic_num": "232232090028",
+      "name": "PONDOK PESANTREN MODERN AL-MUQODDAS",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "JL. WALINANGGUNG RT 2 RW 13 Kel. TUKMUDAL Kec. SUMBER CIREBON JAWA BARAT 45611"
+    },
+    {
+      "id": 429071,
+      "statistic_num": "232232110001",
+      "name": "SPM ULYA PONDOK PESANTREN ISLAM INTERNASIONAL TERPADU ASY-SYIFAA WALMAHMUUDIYYAH",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "KAMPUNG SIMPANG  RT 01 RW 04 RT 1 RW 4 Kel. HAURGOMBONG Kec. PAMULIHAN SUMEDANG JAWA BARAT 45365"
+    },
+    {
+      "id": 428505,
+      "statistic_num": "232232130002",
+      "name": "SPM ULYA PONDOK PESANTREN AL-IHYA",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "Kampung karangcegak RT 8 RW 3 Kel. CIDAHU Kec. PAGADEN BARAT SUBANG JAWA BARAT 41252"
+    },
+    {
+      "id": 180649,
+      "statistic_num": "232232170003",
+      "name": "SPM. ULYA  PONDOK PESANTREN MODERN DARUSSALAM",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "BUKIT PERMATA RT 9 RW 22 Kel. CILAME Kec. NGAMPRAH BANDUNG BARAT JAWA BARAT 40552"
+    },
+    {
+      "id": 428839,
+      "statistic_num": "232232170006",
+      "name": "SPM ULYA PONDOK PESANTREN INTEGRITAS QURANI",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 32,
+      "province_name": "JAWA BARAT",
+      "address": "Jl. Kampus Polban Ciwaruga Bandung Kel. CIWARUGA Kec. PARONGPONG BANDUNG BARAT JAWA BARAT 40559"
+    }
+  ]
+}
