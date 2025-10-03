@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "name": "BALAI PENDIDIKAN PONDOK PESANTREN AL-MUHAJIRIN",
+            "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+            "status": "active",
+            "province_id": 33,
+            "province_name": "JAWA TENGAH",
+            "address": "PABELAN RT 3 RW 8 Kel. PABELAN Kec. MUNGKID MAGELANG JAWA TENGAH 56512",
+            "desc" : "Pondok Pesantren Pabelan, Magelang, berdiri sejak 1965 dengan perpaduan kurikulum nasional dan pesantren. Program unggulan mencakup Madrasah Tsanawiyah, Aliyah, dan Tahfidz Al-Qur’an. Dengan fasilitas lengkap, Pabelan membina karakter, kemandirian, dan kepemimpinan santri untuk melahirkan generasi muslim berilmu dan berakhlak." 
+        },
+        {
+            "id": 298873,
+            "statistic_num": "512035020001",
+            "name": "KULLIYATUL-L-MU`ALLIMIN AL-ISLAMIYYAH PONDOK MODERN DARUSSALAM GONTOR",
+            "jenjang": "Kitab Kuning",
+            "status": "active",
+            "province_id": 35,
+            "province_name": "JAWA TIMUR",
+            "address": "Gontor RT 1 RW 1 Kel. GONTOR Kec. MLARAK PONOROGO JAWA TIMUR 63472"
+
+        },
+        {
+            "id": 328267,
+            "statistic_num": "500032750109",
+            "name": "PONDOK MODERN TEKNIK IBNU RUSYD",
+            "jenjang": "Kitab Kuning",
+            "status": "active",
+            "province_id": 32,
+            "province_name": "JAWA BARAT",
+            "address": "JALAN BENDA NO. 310 RT 3 RW 10 Kel. PADURENAN Kec. MUSTIKAJAYA KOTA BEKASI JAWA BARAT 17156"
+        },
+        {
+            "id": 279195,
+            "statistic_num": "510034040108",
+            "name": "PONDOK PESANTREN SALAFIYAH AL-AMIN",
+            "jenjang": "Kitab Kuning",
+            "status": "active",
+            "province_id": 34,
+            "province_name": "DAERAH ISTIMEWA YOGYAKARTA",
+            "address": "PLOTENGAN PONDOKREJO TEMPEL SLEMAN D.I YOGYAKARTA Kec. TEMPEL SLEMAN DAERAH ISTIMEWA YOGYAKARTA 55552"
+        },
+        {
+            "id": 382534,
+            "statistic_num": "510034040125",
+            "name": "PONDOK PESANTREN JAMHARIYAH GROGOLAN YOGJAKARTA",
+            "jenjang": "Kitab Kuning",
+            "status": "active",
+            "province_id": 34,
+            "province_name": "DAERAH ISTIMEWA YOGYAKARTA",
+            "address": "grogolan umbulmartani ngemplak sleman Kec. NGEMPLAK SLEMAN DAERAH ISTIMEWA YOGYAKARTA 55552"
+        },
+        {
+            "id": 219676,
+            "statistic_num": "510334040110",
+            "name": "PONDOK PESANTREN ASWAJA NUSANTARA",
+            "jenjang": "Kitab Kuning",
+            "status": "active",
+            "province_id": 34,
+            "province_name": "DAERAH ISTIMEWA YOGYAKARTA",
+            "address": "Mlangi, Nogotirto, Gamping, Sleman RT 2 RW 32 Kec. GAMPING SLEMAN DAERAH ISTIMEWA YOGYAKARTA"
+        },
+        {
+            "id": 219676,
+            "statistic_num": "510334040110",
+            "name": "PONDOK PESANTREN ASWAJA NUSANTARA",
+            "jenjang": "Kitab Kuning",
+            "status": "active",
+            "province_id": 34,
+            "province_name": "DAERAH ISTIMEWA YOGYAKARTA",
+            "address": "Mlangi, Nogotirto, Gamping, Sleman RT 2 RW 32 Kec. GAMPING SLEMAN DAERAH ISTIMEWA YOGYAKARTA"
+        },
+        {
+            "id": 279195,
+            "statistic_num": "510034040108",
+            "name": "PONDOK PESANTREN SALAFIYAH AL-AMIN",
+            "jenjang": "Kitab Kuning",
+            "status": "active",
+            "province_id": 34,
+            "province_name": "DAERAH ISTIMEWA YOGYAKARTA",
+            "address": "PLOTENGAN PONDOKREJO TEMPEL SLEMAN D.I YOGYAKARTA Kec. TEMPEL SLEMAN DAERAH ISTIMEWA YOGYAKARTA 55552"
+        },
+        {
+            "id": 426639,
+            "statistic_num": "241235130012",
+            "name": "PONDOK PESANTREN ZAINUL HASAN",
+            "jenjang": "Hadits & Ilmu Hadits",
+            "status": "active",
+            "province_id": 35,
+            "province_name": "JAWA TIMUR",
+            "address": "PZH Genggong Karangbong Pajarakan Probolinggo Jawa Timur RT 1 RW 1 Kel. KARANGBONG Kec. PEJARAKAN PROBOLINGGO JAWA TIMUR 67281"
+        }
+    ]
+}
