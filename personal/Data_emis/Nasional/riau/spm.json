@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "id": 449433,
+      "statistic_num": "222214030001",
+      "name": "SPM WUSTHA PONDOK PESANTREN DARUSSALAM AL BANTANI BENGKALIS",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 14,
+      "province_name": "RIAU",
+      "address": "Jl. Sempurna RT 3 RW 8 Kel. SUKAMAJU Kec. BANTAN BENGKALIS RIAU 28754"
+    },
+    {
+      "id": 322050,
+      "statistic_num": "222214040003",
+      "name": "KULLIYATUL  MU`ALIMMAT AL-ISLAMIYAH PONDOK MODERN AL IMTINAN PUTRI",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 14,
+      "province_name": "RIAU",
+      "address": "JL. PROVINSI PARIT 2 TEMBILAHAN BARAT INDRAGIRI HILIR RT 3 RW 1 Kel. TEMBILAHAN BARAT Kec. TEMBILAHAN HULU INDRAGIRI HILIR RIAU 29213"
+    },
+    {
+      "id": 381711,
+      "statistic_num": "232214040004",
+      "name": "KULLIYATUL  MU`ALIMMAT AL-ISLAMIYAH PONDOK MODERN AL IMTINAN PUTRI",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 14,
+      "province_name": "RIAU",
+      "address": "JL. PROVINSI PARIT 2 TEMBILAHAN BARAT INDRAGIRI HILIR RT 1 RW 1 Kel. TEMBILAHAN HULU Kec. TEMBILAHAN HULU INDRAGIRI HILIR RIAU 29213"
+    }
+  ]
+}

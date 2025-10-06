@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "id": 185203,
+      "statistic_num": "411211120252",
+      "name": "PONDOK TAHFIDZ QUR'AN",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 11,
+      "province_name": "ACEH",
+      "address": "JLN PAYA Kel. PAYA Kec. MANGGENG ACEH BARAT DAYA ACEH 23760"
+    },
+    {
+      "id": 367759,
+      "statistic_num": "411211120258",
+      "name": "PONDOK AL-QURAN  AZ ZAHRAH",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 11,
+      "province_name": "ACEH",
+      "address": "Kemuning Desa Rumah Panjang Kec. SUSOH ACEH BARAT DAYA ACEH 23765"
+    },
+    {
+      "id": 332858,
+      "statistic_num": "411211740149",
+      "name": "TPQ AL-IKHLAS PONDOK PABRIK",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 11,
+      "province_name": "ACEH",
+      "address": "DUSUN NURI Kec. LANGSA LAMA KOTA LANGSA ACEH"
+    }
+  ]
+}

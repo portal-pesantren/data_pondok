@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "id": 167652,
+      "statistic_num": "502315010009",
+      "name": "PONDOK PESANTREN SABILURROSYIDIN",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "JL. RAYA KERINCI-PADANG RT 2 RW 1 Kel. BENGKOLAN DUO Kec. GUNUNG TUJUH KERINCI JAMBI 37163"
+    },
+    {
+      "id": 345127,
+      "statistic_num": "510015020114",
+      "name": "PONDOK PESANTREN TAHFIDZ AL-QUR`AN MA`RIFATULLOH",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Jl. Lintas Sumatera Simpang SMP 43 Merangin RT 19 RW 4 Kel. SUNGAI ULAK Kec. NALO TATAN MERANGIN JAMBI 37311"
+    },
+    {
+      "id": 389535,
+      "statistic_num": "510015020120",
+      "name": "PONDOK PESANTREN NURUL ROHMAH",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Jl. Bangko-Kerinci Km 34 Desa Guguk Kel. GUGUK Kec. RENAH PEMBARAP MERANGIN JAMBI 37361"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "id": 428464,
+      "statistic_num": "222212030001",
+      "name": "SPM WUSTHA YAYASAN BADAN WAKAF PONDOK PESANTREN MODERN A-ABRAAR",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 12,
+      "province_name": "SUMATERA UTARA",
+      "address": "JL SIMARPINGAN KM 20 Kel. SIHUIK-HUIK Kec. ANGKOLA SELATAN TAPANULI SELATAN SUMATERA UTARA 22732"
+    },
+    {
+      "id": 427496,
+      "statistic_num": "222212030002",
+      "name": "SPM WUSTHA PONDOK PESANTREN SALAFIYAH BABURROHMAN",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 12,
+      "province_name": "SUMATERA UTARA",
+      "address": "JL. TRANS DESA TARAPUNG RAYA RT 2 Kel. TARAPUNG RAYA Kec. MUARA BATANG TORU TAPANULI SELATAN SUMATERA UTARA 22736"
+    },
+    {
+      "id": 427567,
+      "statistic_num": "232212030002",
+      "name": "SPM ULYA YAYASAN BADAN WAKAF PONDOK PESANTREN MODERN AL-ABRAAR",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 12,
+      "province_name": "SUMATERA UTARA",
+      "address": "Jl. Simarpinggan KM 20 Kel. SIHUIK-HUIK Kec. ANGKOLA SELATAN TAPANULI SELATAN SUMATERA UTARA 22732"
+    }
+  ]
+}

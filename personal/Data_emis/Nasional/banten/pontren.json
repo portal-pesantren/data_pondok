@@ -1,0 +1,1004 @@
+{
+  "results": [
+    {
+      "id": 437392,
+      "statistic_num": "500036011326",
+      "name": "PONDOK PESANTREN PERWIRA ALQUR'AN",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KP. RORAH RANGKAS DS. CIGEULIS KEC. CIGEULIS Kel. CIGEULIS Kec. CIGEULIS PANDEGLANG BANTEN 42282"
+    },
+    {
+      "id": 131111,
+      "statistic_num": "500336030511",
+      "name": "PONDOK PESANTREN MODERN DARUL ABROR KEMIRI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl. Raya Kemiri No. 29 KM. 03, RT 08/02 Kec. KEMIRI TANGERANG BANTEN 15530"
+    },
+    {
+      "id": 106241,
+      "statistic_num": "500336030647",
+      "name": "PONDOK PESANTREN ALFATTAH",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JALAN ARIA JAYA SANTIKA RT 3 RW 2 Kel. PASIR BOLANG Kec. TIGARAKSA TANGERANG BANTEN 15721"
+    },
+    {
+      "id": 303084,
+      "statistic_num": "500336030667",
+      "name": "Pondok Pesantren Modern dan Tahfizh Darul Ummah",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Kecok RT 04/01 RT 4 RW 1 Kec. BALARAJA TANGERANG BANTEN 15730"
+    },
+    {
+      "id": 434449,
+      "statistic_num": "500336041075",
+      "name": "Pondok Pesantren Al-khairiyah Cikeusal",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Bojong Neros Rt.01 Rw.03  Ds. Panosogan Kec. Cikeusal SERANG BANTEN"
+    },
+    {
+      "id": 344997,
+      "statistic_num": "500336730146",
+      "name": "PONDOK PESANTREN TERPADU AZKIA",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl. Lipatik Ciwiru RT 6 RW 4 Kel. CIGOONG Kec. WALANTAKA KOTA SERANG BANTEN 42183"
+    },
+    {
+      "id": 183508,
+      "statistic_num": "500336740082",
+      "name": "PONDOK PESANTREN DARUL ISHLAH PAMULANG",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JALAN LELE VIII NO. 27 Kec. PAMULANG KOTA TANGERANG SELATAN BANTEN"
+    },
+    {
+      "id": 189400,
+      "statistic_num": "502336041043",
+      "name": "PONDOK PESANTREN SALAFIYAH DARUNNAJWA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KP. SALAK MESJID RT.017 RW.003 DS. SUKAMAMPIR KEC. BINUANG RT 17 RW 3 Kel. SUKAMAMPIR Kec. BINUANG SERANG BANTEN 42196"
+    },
+    {
+      "id": 352427,
+      "statistic_num": "502336041085",
+      "name": "PONDOK PESANTREN ATTAUFIQIYYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KP. SAWAH DESA SUKAMANAH KECAMATAN BAROS RT 3 RW 2 Kel. SUKAMANAH Kec. BAROS SERANG BANTEN 42173"
+    },
+    {
+      "id": 326939,
+      "statistic_num": "502336041090",
+      "name": "Pondok Pesantren Daarul Hufaadz Al Falahiyah",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jalan Kopo-Cikande  Kp. Sebe  RT/RW 019/005 RT 19 RW 5 Kel. RANCASUMUR Kec. KRAGILAN SERANG BANTEN 42178"
+    },
+    {
+      "id": 117154,
+      "statistic_num": "502336710124",
+      "name": "PONDOK PESANTREN AL FURQON",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL. UNTUNG SUROPATI I NO. 10 RT 3 RW 3 Kec. KARAWACI KOTA TANGERANG BANTEN 15116"
+    },
+    {
+      "id": 235130,
+      "statistic_num": "510036011340",
+      "name": "PONDOK PESANTREN DARUSSALAM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Waru Rt.01 Rw. 03 RT 1 RW 3 Kec. MANDALAWANGI PANDEGLANG BANTEN 42261"
+    },
+    {
+      "id": 379416,
+      "statistic_num": "510036011345",
+      "name": "PONDOK PESANTREN MATHLA'UL ANWAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JLN. PERAPATAN SIMANYING MENES PANDEGLANG Kec. MENES PANDEGLANG BANTEN"
+    },
+    {
+      "id": 172969,
+      "statistic_num": "510036011349",
+      "name": "PONDOK PESANTREN SALAFIYAH AL - 'ALAWIYYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KP. PEUNI MASJID RT.003/04 DESA CIPUTRI Kec. KADUHEJO PANDEGLANG BANTEN"
+    },
+    {
+      "id": 414621,
+      "statistic_num": "510036011351",
+      "name": "PONDOK PESANTREN MAKHZANUL ADZKIA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL. RAYA NANGGOR KM1 RT 2 RW 3 Kel. KARANGSETRA Kec. KORONCONG PANDEGLANG BANTEN 42250"
+    },
+    {
+      "id": 145719,
+      "statistic_num": "510036011358",
+      "name": "PONDOK PESANTREN BANI ISMAIL PANDEGLANG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KP. LEBAK BITUNG RT 002 RW 004 RT 2 RW 4 Kec. MANDALAWANGI PANDEGLANG BANTEN"
+    },
+    {
+      "id": 180616,
+      "statistic_num": "510036011374",
+      "name": "PONDOK PESANTREN TAHFIDZ QUR'AN NURUL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp.Cipapais Rt.06 Rw. 06 Kelurahan Kadumerak PANDEGLANG BANTEN"
+    },
+    {
+      "id": 119644,
+      "statistic_num": "510036011376",
+      "name": "PONDOK PESANTREN ROUDOTUL FALAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KP. SUKALAKSANA DESA CIKEUSIK RT 5 RW 2 Kec. CIKEUSIK PANDEGLANG BANTEN 42286"
+    },
+    {
+      "id": 127244,
+      "statistic_num": "510036011379",
+      "name": "PONDOK PESANTREN AT THORIQ",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Babakanwaru Rt 03 Rw 02 Desa Sukawaris RT 3 RW 2 Kel. SUKAWARIS Kec. CIKEUSIK PANDEGLANG BANTEN 42286"
+    },
+    {
+      "id": 235671,
+      "statistic_num": "510036011412",
+      "name": "PONDOK PESANTREN ATH-THARIIQAL MAHMUDA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp.Cileumpang .Rt.13 Rw 05 Desa Cisereh RT 13 RW 5 Kec. CISATA PANDEGLANG BANTEN"
+    },
+    {
+      "id": 111942,
+      "statistic_num": "510036011444",
+      "name": "PONDOK PESANTREN BAHASA MATHLA'UL ANWAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Pasirwaru Kec. MENES PANDEGLANG BANTEN 42262"
+    },
+    {
+      "id": 281277,
+      "statistic_num": "510036011468",
+      "name": "PONDOK PESANTREN AL-MU`MIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Leuwimuja RT/RW 002/005 RT 2 RW 5 Kel. SUKASENENG Kec. CIKEUSIK PANDEGLANG BANTEN 42286"
+    },
+    {
+      "id": 395105,
+      "statistic_num": "510036011489",
+      "name": "PONDOK  PESANTREN ROUDOTUL ATHFAL",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Kadulambur Kec. CIMANUK PANDEGLANG BANTEN 42271"
+    },
+    {
+      "id": 223543,
+      "statistic_num": "510036011493",
+      "name": "PONDOK PESANTREN IBAD AR RAHMAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl. Cikoromoy Km. 01 Ds. Cimanuk Kec. Cimanuk RT 6 RW 3 Kec. CIMANUK PANDEGLANG BANTEN 42271"
+    },
+    {
+      "id": 354680,
+      "statistic_num": "510036011504",
+      "name": "PONDOK PESANTREN DAAR EL - MUKHLISIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl. Perintis Kemerdekaan, RT04/02, Kp. Kupluk RT 4 RW 2 Kec. MENES PANDEGLANG BANTEN 42262"
+    },
+    {
+      "id": 416989,
+      "statistic_num": "510036022093",
+      "name": "PONDOK PESANTREN NURUL IMAN CICENDO",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KP CICENDO RT 3 RW 5 Kec. LEUWIDAMAR LEBAK BANTEN 42362"
+    },
+    {
+      "id": 384956,
+      "statistic_num": "510036030454",
+      "name": "PONDOK PESANTREN RIYAADHUL MUTA'AMILIIN",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL. M. SOLEH KP. BUNGAOK GG. KUBUR RT. 03 RW.03 DESA CARINGIN KECAMATAN LEGOK, KABUPATEN TANGETANG, PROVINSI BANTEN 15820. Kec. LEGOK TANGERANG BANTEN"
+    },
+    {
+      "id": 160467,
+      "statistic_num": "510036030554",
+      "name": "PONDOK PESANTREN NUURU SIRRI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KP. BOLANG RT. 03 RW.06 DESA SUKASARI RT 3 RW 6 Kel. SUKASARI Kec. RAJEG TANGERANG BANTEN 15540"
+    },
+    {
+      "id": 320116,
+      "statistic_num": "510036030713",
+      "name": "PONDOK PESANTREN DAARUL AHSAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL. RAYA SERANG KM. 31 RT 5 RW 1 Kel. DANGDEUR Kec. JAYANTI TANGERANG BANTEN 15611"
+    },
+    {
+      "id": 387144,
+      "statistic_num": "510036030925",
+      "name": "PONDOK PESANTREN AL-MURSI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl. Jati-Tanjakan RT021/004 RT 21 RW 4 Kel. KEDUNG DALEM Kec. MAUK TANGERANG BANTEN 15531"
+    },
+    {
+      "id": 231985,
+      "statistic_num": "510036031013",
+      "name": "PONDOK PESANTREN NURUSSYIFA",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KP. BOJONGKAMAL RT 1 RW 4 Kel. BOJONGKAMAL Kec. LEGOK TANGERANG BANTEN 15820"
+    },
+    {
+      "id": 378958,
+      "statistic_num": "510036040031",
+      "name": "PONDOK PURNA SENTUL",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KP. SUKAMAJU DS. SUKAJADI KEC. KRAGILAN RT 1 RW 1 SERANG BANTEN"
+    },
+    {
+      "id": 110287,
+      "statistic_num": "510036041152",
+      "name": "PONDOK PESANTREN DARUSSALAM KALIBUNDER KERAKSAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Keraksan RT 5 RW 2 Kel. PUSER Kec. TIRTAYASA SERANG BANTEN 42193"
+    },
+    {
+      "id": 337027,
+      "statistic_num": "510036041175",
+      "name": "PONDOK PESANTREN CIKADATUAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Peuteuy Rt. 001 Rw. 001 Ds. Ujungtebu Kec. CIOMAS SERANG BANTEN"
+    },
+    {
+      "id": 154516,
+      "statistic_num": "510036041371",
+      "name": "PONDOK PESANTREN AL-BIRRU",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL. CIPTAYASA KM. 02 KP. KUBANG BAHAD 20/05 RT 21 RW 5 Kec. PONTANG SERANG BANTEN 42192"
+    },
+    {
+      "id": 354985,
+      "statistic_num": "510036041410",
+      "name": "PONDOK PESANTREN SALAFIYAH NURUL HIKMAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Kareo Genggong 008/002 RT 8 RW 2 Kec. JAWILAN SERANG BANTEN"
+    },
+    {
+      "id": 403464,
+      "statistic_num": "510036041422",
+      "name": "PONDOK PESANTREN DAAR EL-ITTIFAQ",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KP BOJOT RT/RW 05/01 RT 5 RW 1 Kel. BOJOT Kec. JAWILAN SERANG BANTEN 42177"
+    },
+    {
+      "id": 240173,
+      "statistic_num": "510036041425",
+      "name": "PONDOK PESANTREN TAHFIDZHUL QUR'AN UMMUL MU'MININ DARUNNAJAH 17",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl. Ciomas - Mandalawangi, Cipicung, Cisitu RT 2 RW 1 Kec. CIOMAS SERANG BANTEN"
+    },
+    {
+      "id": 142069,
+      "statistic_num": "510036041432",
+      "name": "PONDOK PESANTREN AL-MUKHTARIAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KP. RENGED RT 01/01 DS. RENGED RT 1 RW 1 Kec. BINUANG SERANG BANTEN"
+    },
+    {
+      "id": 296931,
+      "statistic_num": "510036041444",
+      "name": "PONDOK PESANTREN TAHFIDZUL QUR'AN AL HADI BANTEN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl.Ciptayasa Kp.Pandangan RT 10 RW 1 Kec. CIRUAS SERANG BANTEN"
+    },
+    {
+      "id": 373136,
+      "statistic_num": "510036041446",
+      "name": "PONDOK PESANTREN ULIL ALBAB",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JLN. BANTEN LAMA KM 03 RT 14 RW 4 Kel. KUBANG PUJI Kec. PONTANG SERANG BANTEN 42192"
+    },
+    {
+      "id": 320114,
+      "statistic_num": "510036041447",
+      "name": "PONDOK PESANTREN AL-HIDAYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL. GORDA-BADAK KM. 6 KP. PULE RT.009 RW. 003 Kec. BINUANG SERANG BANTEN"
+    },
+    {
+      "id": 409901,
+      "statistic_num": "510036041458",
+      "name": "PONDOK PESANTREN BANI AS'AD AT-TUQO",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Laban Setemplok Rt. 007/003 RT 7 RW 3 Kel. CIBODAS Kec. TANARA SERANG BANTEN 42194"
+    },
+    {
+      "id": 434446,
+      "statistic_num": "510036041463",
+      "name": "Pondok Pesantren Bani An-nur",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KP.  BOJONG RT 04 RW 02 SERANG BANTEN"
+    },
+    {
+      "id": 434447,
+      "statistic_num": "510036041465",
+      "name": "Pondok Pesantren Nurussalam",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Bojong RT 004 RW 002 SERANG BANTEN"
+    },
+    {
+      "id": 251701,
+      "statistic_num": "510036041492",
+      "name": "PONDOK PESANTREN RIYADUL MUBTADIIN PADARINCANG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp Cilehem Rt 013 Rw 005 Desa Batukuwung Kec. PADARINCANG SERANG BANTEN"
+    },
+    {
+      "id": 386992,
+      "statistic_num": "510036041511",
+      "name": "PONDOK PESANTREN MIFTAHUL ULUM TANJUNG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp.Tanjung Kampung Rt/Rw.008/003 RT 8 RW 3 Kel. PAKUNCEN Kec. BOJONEGARA SERANG BANTEN 42454"
+    },
+    {
+      "id": 171281,
+      "statistic_num": "510036041521",
+      "name": "PONDOK PESANTREN AL-ISTIQOMAH KEPUH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl. Baru Bongla KM 02 Kp. Kepuh RT/02 RW/01 RT 1 RW 1 Kel. SINDANGHEULA Kec. PABUARAN SERANG BANTEN 42163"
+    },
+    {
+      "id": 366812,
+      "statistic_num": "510036041527",
+      "name": "PONDOK PESANTREN AL-MUNAWAROH PUTRI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Pasir Wadas RT/RW 007/003 Desa Ciherang RT 7 RW 3 Kel. CIHERANG Kec. GUNUNG SARI SERANG BANTEN 42160"
+    },
+    {
+      "id": 258860,
+      "statistic_num": "510036041530",
+      "name": "PONDOK PESANTREN NURUL IMAN AL-BARKAH SINARMUKTI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KP.  RANCAKAREO, RT 004/002 DS. SINARMUKTI RT 4 RW 2 Kec. BAROS SERANG BANTEN"
+    },
+    {
+      "id": 404775,
+      "statistic_num": "510036041531",
+      "name": "PONDOK PESANTREN AL MASDARIYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Taritih Ds. Balekencana kec. Mancak RT 6 RW 3 Kec. MANCAK SERANG BANTEN"
+    },
+    {
+      "id": 183160,
+      "statistic_num": "510036041555",
+      "name": "PONDOK PESANTREN TERPADU BISMILLAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Cibetung RT 1 RW 1 Kel. BARUGBUG Kec. PADARINCANG SERANG BANTEN 42168"
+    },
+    {
+      "id": 283775,
+      "statistic_num": "510036041556",
+      "name": "PONDOK PESANTREN RIYADLUS SHALIHIEN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl. Raya Palka KM 23 Komplek LPI KP. Masigit RT 18 RW 4 Kel. CIOMAS Kec. PADARINCANG SERANG BANTEN 42168"
+    },
+    {
+      "id": 97950,
+      "statistic_num": "510036041591",
+      "name": "PONDOK PESANTREN AS-SULAIMAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. buah Gede Rt. 12 Rw. 05 Desa. Banyuwangi Kec. PULO AMPEL SERANG BANTEN"
+    },
+    {
+      "id": 166971,
+      "statistic_num": "510036041593",
+      "name": "PONDOK PESANTREN AMALUL UMMAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Tegal Maja, RT.001/RW.001 RT 1 RW 1 Kel. SAMPIR Kec. WARINGINKURUNG SERANG BANTEN 42453"
+    },
+    {
+      "id": 434436,
+      "statistic_num": "510036041597",
+      "name": "Pondok Pesantren Al-Hidayah Ciomas",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl. ciomas Rt.008 Rw.004 Kp. Cilongkrang SERANG BANTEN 42164"
+    },
+    {
+      "id": 434315,
+      "statistic_num": "510036041600",
+      "name": "Pondok Pesantren Ibtida'atul Qur'an",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Tanjung Sari RT 8 RW 3 Kel. PUSER Kec. TIRTAYASA SERANG BANTEN 42193"
+    },
+    {
+      "id": 427703,
+      "statistic_num": "510036041634",
+      "name": "PONDOK PESANTREN TEKNOLOGI IBNU SABIL",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl. Tubui no. 25 Kp. Sindang Asih RT 4 RW 9 Kel. WARINGINKURUNG Kec. WARINGINKURUNG SERANG BANTEN 42453"
+    },
+    {
+      "id": 205011,
+      "statistic_num": "510036710031",
+      "name": "Pondok Pesantren Al-Fatihah",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl. Irigasi Kp. Gunung RT. 001/009 RT 1 RW 9 Kel. CIPONDOH MAKMUR Kec. CIPONDOH KOTA TANGERANG BANTEN 15148"
+    },
+    {
+      "id": 332553,
+      "statistic_num": "510036710117",
+      "name": "PONDOK PESANTREN NURUL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL.ATANG SANJAYA KP. GARDU RT 3 RW 5 Kec. BENDA KOTA TANGERANG BANTEN 15125"
+    },
+    {
+      "id": 273925,
+      "statistic_num": "510036710135",
+      "name": "PONDOK PESANTREN SALAFI ASRORUDDIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KP. LEDUG RT 1 RW 1 Kel. ALAM JAYA Kec. JATIUWUNG KOTA TANGERANG BANTEN 15133"
+    },
+    {
+      "id": 417717,
+      "statistic_num": "510036710136",
+      "name": "PONDOK PESANTREN RIYAADLUS SALAF",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KOMPLEK PONDOK BAHAR JL. AREN III RT.010/05 RT 10 RW 5 Kel. PONDOK BAHAR Kec. KARANG TENGAH KOTA TANGERANG BANTEN 15159"
+    },
+    {
+      "id": 241008,
+      "statistic_num": "510036710138",
+      "name": "PONDOK PESANTREN UZLIFATIL JANNAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL. DUREN VILLA RT 008 RW 002 RT 8 RW 2 Kel. PADURENAN Kec. KARANG TENGAH KOTA TANGERANG BANTEN 15159"
+    },
+    {
+      "id": 227649,
+      "statistic_num": "510036710140",
+      "name": "PONDOK PESANTREN DARUL MULTAZAM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jln. Sawo No. 17 RT 006 RW 007 Kec. LARANGAN KOTA TANGERANG BANTEN"
+    },
+    {
+      "id": 213410,
+      "statistic_num": "510036710142",
+      "name": "PONDOK PESANTREN NURUL AINI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jalan Gotong royong No.18, RT/RW : 002/001 RT 2 RW 1 Kel. LARANGAN INDAH Kec. LARANGAN KOTA TANGERANG BANTEN 15154"
+    },
+    {
+      "id": 244567,
+      "statistic_num": "510036710145",
+      "name": "PONDOK PESANTREN  AL BAHRIYYATUL KUBRO GUNSAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp Gunungsari, Gg  H Mansyur, RT 2 RW 3 Kel. PANUNGGANGAN BARAT Kec. CIBODAS KOTA TANGERANG BANTEN 15139"
+    },
+    {
+      "id": 424970,
+      "statistic_num": "510036710147",
+      "name": "PONDOK PESANTREN AL-HASANAH AL-MUSRI' SATU",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl. Kihajar Dewantoro, Gg. Kh. Yusuf Rt04/04 RT 4 RW 4 Kec. CIPONDOH KOTA TANGERANG BANTEN 15146"
+    },
+    {
+      "id": 95563,
+      "statistic_num": "510036710287",
+      "name": "PONDOK PESANTREN SALAFIYAH DAARUL MUTA'ALIMIN KOTA TANGERANG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl.Tanjung II Poris Indah Kp.Dongkal Rt.08/03 Kel. Cipondoh Indah Kec. Cipondoh Kota Tangerang RT 8 RW 3 Kel. CIPONDOH INDAH Kec. CIPONDOH KOTA TANGERANG BANTEN 15148"
+    },
+    {
+      "id": 105016,
+      "statistic_num": "510036710288",
+      "name": "PONDOK PESANTREN TAKHASSUS GRHA AL MUMTAAZ",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL. GARUDA GG. HAJI ISMAIL RT 006/004 BATUCEPER TANGERANG BANTEN RT 6 RW 4 Kel. BATUCEPER Kec. BATUCEPER KOTA TANGERANG BANTEN 15122"
+    },
+    {
+      "id": 294516,
+      "statistic_num": "510036710289",
+      "name": "PONDOK PESANTREN  TAHFIDZ DAN BAHASA ARAB THOOLIBUUT TAQWA",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL. PINUS I KP. DONGKAL GG AL AWWABIN NO. 139 RT 004/003 KEL. CIPONDOH INDAH KEC. CIPONDOH KOTA TANGERANG KODE POS 15148 RT 4 RW 3 Kel. CIPONDOH INDAH Kec. CIPONDOH KOTA TANGERANG BANTEN 15148"
+    },
+    {
+      "id": 351082,
+      "statistic_num": "510036710290",
+      "name": "PONDOK PESANTREN AT TAUBAH LAPAS PEMUDA TANGERANG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL. LPK. PEMUDA NO.1 BUARAN INDAH KOTA TANGERANG Kec. TANGERANG KOTA TANGERANG BANTEN 15119"
+    },
+    {
+      "id": 138837,
+      "statistic_num": "510036720057",
+      "name": "PONDOK PESANTREN RIYADHUL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Link. Babakan Turi, Ds. Taman Sari - Merak RT 6 RW 2 Kec. PULOMERAK KOTA CILEGON BANTEN"
+    },
+    {
+      "id": 392534,
+      "statistic_num": "510036720059",
+      "name": "PONDOK PESANTREN TAHFIDZ DAARUL MU'MININ NUSANTARA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Link. Barokah RT.02 RW.013 RT 2 RW 13 Kel. JOMBANG WETAN Kec. JOMBANG KOTA CILEGON BANTEN 42411"
+    },
+    {
+      "id": 152860,
+      "statistic_num": "510036720067",
+      "name": "PONDOK PESANTREN AL-FATHONIYYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jalan KH. Undulusi Link. Pakuncen Kec. CILEGON KOTA CILEGON BANTEN 42418"
+    },
+    {
+      "id": 152486,
+      "statistic_num": "510036730305",
+      "name": "PONDOK PESANTREN AL-AZIZ CIKULUR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL 45 CIKULUR MAJID RT/RW 04/02 Kec. SERANG KOTA SERANG BANTEN"
+    },
+    {
+      "id": 358360,
+      "statistic_num": "510036730306",
+      "name": "PONDOK PESANTREN AL-MUBAROK",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "CIMUNCANG  SIDOMUNCUL NO.07 RT. 001 RW. 020 RT 1 RW 20 Kel. CIMUNCANG Kec. SERANG KOTA SERANG BANTEN 42111"
+    },
+    {
+      "id": 370099,
+      "statistic_num": "510036730307",
+      "name": "PONDOK PESANTREN SALAFIYAH MIRQOTUL HUDA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "LINK. SUMURSANA KEL. KALIGANDU KEC. SERANG Kec. SERANG KOTA SERANG BANTEN"
+    },
+    {
+      "id": 430140,
+      "statistic_num": "510036730309",
+      "name": "PONDOK PESANTREN AL-QUR'AN NURURROHMAN",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl. Raya Ciracas lingkungan Sepang. RT.1RW.1. RT 1 RW 1 Kel. SEPANG Kec. TAKTAKAN KOTA SERANG BANTEN 42162"
+    },
+    {
+      "id": 145434,
+      "statistic_num": "510036730312",
+      "name": "PONDOK PESANTREN NURUL ASYMAWIYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Link. Kubang Apu RT.03/ RW.02 Kec. SERANG KOTA SERANG BANTEN"
+    },
+    {
+      "id": 155287,
+      "statistic_num": "510036730318",
+      "name": "PONDOK PESANTREN AL-MUNTIJAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KELANGGARAN KEL. UNYUR KEC. SERANG RT 2 RW 24 Kec. SERANG KOTA SERANG BANTEN 42111"
+    },
+    {
+      "id": 251786,
+      "statistic_num": "510036730319",
+      "name": "PONDOK PESANTREN ALHUDRI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL. ARMADA LINK. KALIGANDU KEC. SERANG RT 1 RW 11 Kec. SERANG KOTA SERANG BANTEN 42116"
+    },
+    {
+      "id": 257768,
+      "statistic_num": "510036730320",
+      "name": "PONDOK PESANTREN MODERN DAAR EL ISTIQOMAH KAMPUS 2 LITTAHFIDZIL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KARODANGAN, 001, 002/001 RT 2 RW 1 Kel. SEPANG Kec. TAKTAKAN KOTA SERANG BANTEN 42162"
+    },
+    {
+      "id": 389265,
+      "statistic_num": "510036730323",
+      "name": "YAYASAN PONDOK PESANTREN IHYA AL-HIKMAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JLN. WARUNG JAUD, KP. WARUNG KIARA RT.001/005 Kec. KASEMEN KOTA SERANG BANTEN"
+    },
+    {
+      "id": 193996,
+      "statistic_num": "510036730324",
+      "name": "PONDOK PESANTREN HILMATUL MADANI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Cipare Jaya 003/021 Kel. Cipare Kec. SERANG KOTA SERANG BANTEN"
+    },
+    {
+      "id": 305890,
+      "statistic_num": "510036730329",
+      "name": "PONDOK PESANTREN  NUR EL-QOLAM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Komp. TBA Indah Blok C7 No.8 RT 5 RW 8 Kec. CIPOCOK JAYA KOTA SERANG BANTEN"
+    },
+    {
+      "id": 330428,
+      "statistic_num": "510036730330",
+      "name": "PONDOK PESANTREN JANNATUL UMAT BANTEN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Link. Kebaharan Kel. Lopang Kec. Serang Kec. SERANG KOTA SERANG BANTEN"
+    },
+    {
+      "id": 409249,
+      "statistic_num": "510036730331",
+      "name": "PONDOK PESANTREN TAHFIZHIL QUR'AN HUWAIDAL MA'ARIF",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Priyayi Langgar RT 002 RW 002 Kec. KASEMEN KOTA SERANG BANTEN"
+    },
+    {
+      "id": 309176,
+      "statistic_num": "510036730332",
+      "name": "PONDOK PESANTREN MODERN MATHLA'UL ANWAR SERANG - BANTEN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Pudak RT 001/002 Kec. CIPOCOK JAYA KOTA SERANG BANTEN"
+    },
+    {
+      "id": 311028,
+      "statistic_num": "510036740085",
+      "name": "PONDOK PESANTREN PUTRI AL-HASANAH DARUNNAJAH 9 PAMULANG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL. APEL 2 NO 1 ATAS PAMULANG ESTATE. Kec. PAMULANG KOTA TANGERANG SELATAN BANTEN"
+    },
+    {
+      "id": 88704,
+      "statistic_num": "510036740091",
+      "name": "PONDOK PESANTREN FATHUL ULUM WAL FALAH HIDAYATUL MUBTADIIEN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl. Tidore Gg. Sepakat No.70 RT 3 RW 17 Kel. JOMBANG Kec. CIPUTAT KOTA TANGERANG SELATAN BANTEN 15414"
+    },
+    {
+      "id": 447671,
+      "statistic_num": "510236041700",
+      "name": "Pondok Pesantren Al Azhar Serang Banten",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp. Bolang Beji RT.07 RW.03 dsa. Teras Bendun SERANG BANTEN 42182"
+    },
+    {
+      "id": 427217,
+      "statistic_num": "510236740102",
+      "name": "PONDOK TAHFIDZUL QURAN HIDAYATULLAH SERPONG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl.Pos Giro Kp.Jeletreng RT.02/03 No.14 RT 2 RW 3 Kec. SERPONG KOTA TANGERANG SELATAN BANTEN 15311"
+    },
+    {
+      "id": 440455,
+      "statistic_num": "510236740107",
+      "name": "Pondok Pesantren Qod Kafa",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jalan Moh. Gandasasmita No. 5 Kp. Bulak RT 04 RW 09 RT 4 RW 9 Kel. SERUA Kec. CIPUTAT KOTA TANGERANG SELATAN BANTEN 15414"
+    },
+    {
+      "id": 420413,
+      "statistic_num": "510336030989",
+      "name": "Pondok Pesantren Modern  Assalam Kemiri",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Jl. Raya Kemiri Rt. 008 / 002 RT 8 RW 2 Kec. KEMIRI TANGERANG BANTEN 15530"
+    },
+    {
+      "id": 235678,
+      "statistic_num": "510336041182",
+      "name": "PONDOK PESANTREN AL-MA'WA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "KP. APUN TALUN DS. WIRANA KEC. PAMARAYAN RT 14 RW 4 Kel. WIRANA Kec. PAMARAYAN SERANG BANTEN 42179"
+    },
+    {
+      "id": 142262,
+      "statistic_num": "512036710129",
+      "name": "PONDOK PESANTREN TAHFIZUL QUR'AN NUR'AINI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL. KOMPLEK SD III RT 005/003 CIBODAS RT 5 RW 3 Kel. CIBODAS Kec. CIBODAS KOTA TANGERANG BANTEN 15138"
+    },
+    {
+      "id": 264664,
+      "statistic_num": "512336030639",
+      "name": "PONDOK PESANTREN AL-ISLAMIYAH RANCALANG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL. KH. UMAR RENCALANG RT 8 RW 3 Kec. KELAPA DUA TANGERANG BANTEN 15551"
+    },
+    {
+      "id": 324074,
+      "statistic_num": "512336041038",
+      "name": "PONDOK PESANTREN NAHDLATUL ULAMA (PP-NU) ANNASHIRIYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "Kp.Tegal Sari RT 26 RW 3 Kel. BINONG Kec. PAMARAYAN SERANG BANTEN 42179"
+    },
+    {
+      "id": 413118,
+      "statistic_num": "512336710125",
+      "name": "PONDOK PESANTREN DARUL AZKIA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL. WINONG RT 002/004 RT 2 RW 4 Kel. SUDIMARA JAYA Kec. CILEDUG KOTA TANGERANG BANTEN 15151"
+    },
+    {
+      "id": 253179,
+      "statistic_num": "512336740080",
+      "name": "PONDOK PESANTREN DARUSSIYASAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 36,
+      "province_name": "BANTEN",
+      "address": "JL. BHAYANGKARA RAYA RT 01/RW 01 NO. 37 Kec. SERPONG UTARA KOTA TANGERANG SELATAN BANTEN"
+    }
+  ]
+}

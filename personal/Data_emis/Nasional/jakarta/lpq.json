@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "id": 189774,
+      "statistic_num": "411231730246",
+      "name": "PONDOK ALQURAN ALHASANAH",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "JL. TANJUNG GEDONG NO.13A RT 2 RW 16 Kel. TOMANG Kec. CENGKARENG KOTA ADM. JAKARTA BARAT DAERAH KHUSUS IBUKOTA JAKARTA 00000"
+    },
+    {
+      "id": 91133,
+      "statistic_num": "411231750400",
+      "name": "TPQ ASY SYAAKIRIIN PONDOK BAMBU",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "JL.GADING RAYA RT 8 RW 8 Kel. PONDOK BAMBU Kec. MATRAMAN KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA 00000"
+    },
+    {
+      "id": 105071,
+      "statistic_num": "411231750431",
+      "name": "AT-TOHIR PONDOK BAMBU",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "JL. SAWAH BARAT DALAM ll, PONDOK BAMBU NO.229 RT 1 RW 6 Kel. PONDOK BAMBU Kec. MATRAMAN KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA 00000"
+    },
+    {
+      "id": 274228,
+      "statistic_num": "411231750432",
+      "name": "PONDOK ILMU AD-DAHLAN",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "JL. SWADAYA V N0.68 RT 10 RW 6 Kel. RAWA BUNGA Kec. JATINEGARA KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA 13350"
+    }
+  ]
+}

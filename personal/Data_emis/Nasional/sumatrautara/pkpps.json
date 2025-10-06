@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "id": 111500,
+      "statistic_num": "500012130023",
+      "name": "PONDOK PESANTREN AL MUNAWARAH MADINA",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 12,
+      "province_name": "SUMATERA UTARA",
+      "address": "MANAMBIN Kel. MANAMBIN Kec. KOTANOPAN MANDAILING NATAL SUMATERA UTARA 22994"
+    },
+    {
+      "id": 94311,
+      "statistic_num": "510012030005",
+      "name": "PONDOK PESANTREN MARDHATILLAH",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 12,
+      "province_name": "SUMATERA UTARA",
+      "address": "JL. SIBOLGA KM. 14,5 LINGKUNGAN I Kel. SITINJAK Kec. ANGKOLA BARAT TAPANULI SELATAN SUMATERA UTARA 22735"
+    },
+    {
+      "id": 247544,
+      "statistic_num": "510012030037",
+      "name": "PONDOK PESANTREN SALAFIYAH ADAWIYAH AL BAQI",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 12,
+      "province_name": "SUMATERA UTARA",
+      "address": "Jln. Negara Km. 11 desa Pasir Matogu Kel. PASIR MATOGU Kec. ANGKOLA MUARA TAIS TAPANULI SELATAN SUMATERA UTARA 22773"
+    }
+  ]
+}

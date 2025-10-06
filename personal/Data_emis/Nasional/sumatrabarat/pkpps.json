@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "id": 169189,
+      "statistic_num": "510013050035",
+      "name": "PONDOK PESANTREN DINUL MARUF",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "KAMPUNG TANJUNG Kel. KUDU GANTIANG Kec. V KOTO TIMUR PADANG PARIAMAN SUMATERA BARAT 25575"
+    },
+    {
+      "id": 155364,
+      "statistic_num": "510013060040",
+      "name": "PONDOK PESANTREN DAARU TAHFIZ",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JL. CANGKIANG BATU TABA Kel. BATU TABA Kec. AMPEK ANGKEK AGAM SUMATERA BARAT 26190"
+    },
+    {
+      "id": 142040,
+      "statistic_num": "510013060041",
+      "name": "PONDOK PESANTREN BAITURRAHMAN",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "Jorong Kalampaian Nagari Pakan Sinayan Kel. PAKAN SINAYAN Kec. BANUHAMPU AGAM SUMATERA BARAT 26181"
+    },
+    {
+      "id": 440210,
+      "statistic_num": "510013770008",
+      "name": "PPS. PONDOK PESANTREN AL-MUGHNY KOTA PARIAMAN",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "Jl. Syekh Abdul Arief, Desa Pauh Barat Kel. PAUH BARAT Kec. PARIAMAN TENGAH KOTA PARIAMAN SUMATERA BARAT 25512"
+    },
+    {
+      "id": 116874,
+      "statistic_num": "510313050034",
+      "name": "PONDOK PESANTREN TAHFIZHUL QURAN DARUL IKHLAS TARTIILAA",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "Jl. Syekh Burhanuddin, Korong Pasar Ulakan Kel. ULAKAN Kec. ULAKAN TAPAKIH PADANG PARIAMAN SUMATERA BARAT 25572"
+    },
+    {
+      "id": 288364,
+      "statistic_num": "510313710002",
+      "name": "Pondok Pesantren Salafiyah Tarbiyah Islamiyah",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JL. TARBIYAH BATANG KABUNG RT 2 RW 2 Kel. BATANG KABUNG GANTING Kec. KOTO TANGAH KOTA PADANG SUMATERA BARAT 25172"
+    },
+    {
+      "id": 331687,
+      "statistic_num": "512013020018",
+      "name": "PONDOK PESANTREN DARUL ILMI",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JALAN CHINANGKIEK JORONG KUBANG GAJAH Kel. SINGKARAK Kec. X KOTO SINGKARAK SOLOK SUMATERA BARAT 27356"
+    }
+  ]
+}

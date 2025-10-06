@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "id": 416715,
+      "statistic_num": "411212100035",
+      "name": "PONDOK KOTANGAN",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 12,
+      "province_name": "SUMATERA UTARA",
+      "address": "DUSUN VI DESA SEI PUTIH Kec. GALANG DELI SERDANG SUMATERA UTARA"
+    },
+    {
+      "id": 445266,
+      "statistic_num": "411212750079",
+      "name": "TPQ PONDOK MAS",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 12,
+      "province_name": "SUMATERA UTARA",
+      "address": "Komplek Grand Marcapada Indah, Jl. Gunung Sinabung Kel. Tanah Merah Kec. Binjai Selatan Kota Binjai Kel. TANAH MERAH Kec. BINJAI SELATAN KOTA BINJAI SUMATERA UTARA 20725"
+    },
+    {
+      "id": 124739,
+      "statistic_num": "432212090001",
+      "name": "PONDOK TAHFIDZ QURAN DARUL HIJRAH",
+      "jenjang": "RTQ",
+      "status": "active",
+      "province_id": 12,
+      "province_name": "SUMATERA UTARA",
+      "address": "Jalan T. Balai - Kisaran Kec. SIMPANG EMPAT ASAHAN SUMATERA UTARA 21271"
+    }
+  ]
+}

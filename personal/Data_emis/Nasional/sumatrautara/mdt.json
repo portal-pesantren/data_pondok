@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "id": 406156,
+      "statistic_num": "311212180007",
+      "name": "MDT AL WASHLIYAH PONDOK SENG",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 12,
+      "province_name": "SUMATERA UTARA",
+      "address": "PONDOK SENG DESA MARJANJI Kec. SIPISPIS SERDANG BEDAGAI SUMATERA UTARA"
+    },
+    {
+      "id": 445786,
+      "statistic_num": "311212750118",
+      "name": "MDT Ula Pondok MAS",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 12,
+      "province_name": "SUMATERA UTARA",
+      "address": "Komplek Grand Marcapada Indah Kel. TANAH MERAH Kec. BINJAI SELATAN KOTA BINJAI SUMATERA UTARA 20725"
+    }
+  ]
+}

@@ -1,0 +1,908 @@
+{
+  "version": 1,
+  "message": "",
+  "success": true,
+  "errors": null,
+  "metadata": {
+    "pagination": {
+      "per_page": 10,
+      "total": 89,
+      "current_page": 1,
+      "last_page": 9,
+      "next_page_url": "https://api-emis.kemenag.go.id/v1/institutions/pontren/search-all-data?institution_group_id=1&search_type=institution&q=pondok&per_page=10&recaptcha=0cAFcWeA47Y081bGkF1q3p1_SpqljjNgLRuYmaWBHjMJCiLV5TJtSZ9i8sKXhD0SlljSKSCdBL78J8ALm3Pa-U_wIFLUE4921-JMzSwrdN7oan48OamdvMjNiEghjkJVWZ0KHmPna9OpOSJKIAlNN5cS1iKlMWsCnEPv2RoEEreNFQd6SI4Vbe0Ju5veZPGe2rBnS5oL508oM_AVScAboSXbs0QmmnO7apIx_JP1UtxgiS7SXvPY2iiKYPWNq1O4Xs2TfZV9wY1_93TH2KszbDptcLglK2sSxQhqublS4DxvH8Z8OJVrPQZmbdb121_X4wBDO-r9W2kQGIYczqXhXma6iiARf5LVBwboSggiEhuZmpRSD99qPRNWjM4vpCbAuDx5FS0QPNZiSEHqnFzZwp6HsGRxnodrWUs0YO7LBJhhcsXb-CQ7IHAzgX5hOTHOL5m_-XxII1tGwIm9AMa4ztJCFpQeK_HpLeN8zXjXojimE0obBVY1t4Q7gtpiG_ss1F9tSe1GamFniSQhAA-X6ymYd1jKhkkbri8FY0Nm8P81kTDsaEpdk9H2k05C7R-iMVXHOpB_T8JiO6pPEqshj39tJnjE6B-Z4CgJ5prVLI3ZGv0bXyxsJ-jotyqXJwvevyPDhdDvaitG0HP5P2EZj9ewcW7gVJ-Wg2PcA73TfSJFsIxOisC4RQsR_4AegQDWQk2q0WmmHHm8cJzLMCEZGfdVI7dDQAo-Gec2p6lwsfm4QBkpGhI7mHTDUrTMdZYaTFWmHDPUlG9aadfQ5vkjjGoyJlswypl5mzN2GsPsFRMrXxGN_i1H_v5v3HfNL9Pnb74xPQrGkSSjXJ&province_id=16&page=2",
+      "prev_page_url": null
+    }
+  },
+  "results": [
+    {
+      "id": 333814,
+      "statistic_num": "500016100004",
+      "name": "PONDOK PESANTREN NURUL ISLAM SERIBANDUNG",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JALAN KH. ANWAR  DUSUN II RT 3 RW 3 Kel. SERI BANDUNG Kec. TANJUNG BATU OGAN ILIR SUMATERA SELATAN 30665"
+    },
+    {
+      "id": 282978,
+      "statistic_num": "500316070041",
+      "name": "Pondok Pesantren Modern Al-Fahd",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL. MAYJEN NOERDIN PANDJI RT 11 RW 3 Kel. JAKABARING SELATAN Kec. RAMBUTAN BANYUASIN SUMATERA SELATAN 30967"
+    },
+    {
+      "id": 218646,
+      "statistic_num": "500316100008",
+      "name": "PONDOK PESANTREN INAYATULLAH LIMBANG JAYA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "LIMBANG JAYA I RT 1 Kec. TANJUNG BATU OGAN ILIR SUMATERA SELATAN 30665"
+    },
+    {
+      "id": 194101,
+      "statistic_num": "500316100010",
+      "name": "PONDOK PESANTREN AL-ITTIFAQIAH INDRALAYA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL. LINTAS TIMUR KM. 36 INDRALAYA RT 7 RW 7 Kel. INDRALAYA MULIA Kec. INDRALAYA OGAN ILIR SUMATERA SELATAN 30862"
+    },
+    {
+      "id": 344723,
+      "statistic_num": "500316100011",
+      "name": "PONDOK PESANTREN MODERN SRIWIJAYA",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "DESA TANJUNG TEMIANG RT 7 Kel. TANJUNG TEMIANG Kec. TANJUNG RAJA OGAN ILIR SUMATERA SELATAN 30661"
+    },
+    {
+      "id": 95963,
+      "statistic_num": "500316100012",
+      "name": "PONDOK PESANTREN MADINATUL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL. SULTAN MAHMUD BADARUDDIN II DESA BETUNG RT 6 Kel. BETUNG II Kec. LUBUK KELIAT OGAN ILIR SUMATERA SELATAN 30868"
+    },
+    {
+      "id": 164340,
+      "statistic_num": "500316120025",
+      "name": "PONDOK PESANTREN NURUL IMAN PENGABUAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "jl. pertamina dusun III desa pengabuan timur Kec. ABAB PENUKAL ABAB LEMATANG ILIR SUMATERA SELATAN"
+    },
+    {
+      "id": 319660,
+      "statistic_num": "500316710042",
+      "name": "Pondok Pesantren Ma'had Izzatuna",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. Kolonel  Sulaiman Amin No. 01 Rt. 022 Rw. 007 RT 22 RW 7 Kel. KARYA BARU Kec. ALANG-ALANG LEBAR KOTA PALEMBANG SUMATERA SELATAN 30151"
+    },
+    {
+      "id": 249239,
+      "statistic_num": "502316120012",
+      "name": "PONDOK PESANTREN NURUL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jln. Raya Desa Betung Selatan Kec. Abab RT 1 RW 4 Kel. BETUNG SELATAN Kec. ABAB PENUKAL ABAB LEMATANG ILIR SUMATERA SELATAN 31315"
+    },
+    {
+      "id": 120704,
+      "statistic_num": "502316710041",
+      "name": "Pondok Pesantren Tahfidzul Qur'an Al-Izzah",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. Pertahanan Lr. Darma Bakti Rt. 53 Rw. 12 RT 53 RW 12 Kel. 16 ULU Kec. SEBERANG ULU II KOTA PALEMBANG SUMATERA SELATAN 30265"
+    },
+    {
+      "id": 365661,
+      "statistic_num": "502316720009",
+      "name": "PONDOK PESANTREN IZZUL QUR'AN PAGARALAM",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL. TANJUNG SAKTI DESA KERINJING RT03/RW01 KEL.AGUNG LAWANGAN KEC.DEMPO UTARAKOTA PAGARALAM PROVINSI SUMATERA SELATAN RT 3 RW 1 Kel. AGUNG LAWONGAN Kec. DEMPO UTARA KOTA PAGAR ALAM SUMATERA SELATAN 31510"
+    },
+    {
+      "id": 114240,
+      "statistic_num": "510016010015",
+      "name": "PONDOK PESANTREN AL-AZHAR CENTER BATURAJA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL. KOL. WAHAB UZIR NO. 608D (LINTAS TENGAH) RT 1 RW 3 Kel. SUKAJADI Kec. BATURAJA TIMUR OGAN KOMERING ULU SUMATERA SELATAN 32117"
+    },
+    {
+      "id": 307812,
+      "statistic_num": "510016010016",
+      "name": "PONDOK PESANTREN AN-NUR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL. DEPATI TJIK NANANG KAWASAN PERKANTORAN TERPADU HIMBE KEREMANAS Kec. PENINJAUAN OGAN KOMERING ULU SUMATERA SELATAN 32193"
+    },
+    {
+      "id": 138905,
+      "statistic_num": "510016010017",
+      "name": "\"PONDOK PESANTREN DARUL MUBTADI'IN ASSALAFIYAH",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Dusun Tegal Jaya RT 2 RW 2 Kel. BATU MARTA I Kec. LUBUK RAJA OGAN KOMERING ULU SUMATERA SELATAN 32152"
+    },
+    {
+      "id": 257626,
+      "statistic_num": "510016010019",
+      "name": "PONDOK PESANTREN ASYIFA BATURAJA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl.Ir.Soekarno.NO.075 Rt 002 Rw 007  Air Paoh RT 2 RW 7 Kel. AIR PAOH Kec. BATURAJA TIMUR OGAN KOMERING ULU SUMATERA SELATAN 32111"
+    },
+    {
+      "id": 291595,
+      "statistic_num": "510016010020",
+      "name": "PONDOK PESANTREN FATHAN DAIMAN MENDALA",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. Raya Transmigrasi Batumarta Dusun V Kel. MENDALA Kec. PENINJAUAN OGAN KOMERING ULU SUMATERA SELATAN 32191"
+    },
+    {
+      "id": 133018,
+      "statistic_num": "510016020051",
+      "name": "PONDOK PESANTREN BABUL ULUM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "MUARA BURNAI 1 RT 1 RW 5 Kel. MUARA BURNAI I Kec. LEMPUING JAYA OGAN KOMERING ILIR SUMATERA SELATAN 30657"
+    },
+    {
+      "id": 367004,
+      "statistic_num": "510016020053",
+      "name": "PONDOK PESANTREN DARUL HUDA 99",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "DUSUN III RT 03 DESA MUARA BURNAI I RT 3 RW 3 Kel. MUARA BURNAI I Kec. LEMPUING JAYA OGAN KOMERING ILIR SUMATERA SELATAN 30657"
+    },
+    {
+      "id": 302037,
+      "statistic_num": "510016020058",
+      "name": "PONDOK PESANTREN SYAFA'ATUL QUR'AN LUBUK SEBERUK",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. Lintas Timur Dusun I RT. 003 RW. 000 RW 3 Kel. LUBUK SEBERUK Kec. LEMPUING JAYA OGAN KOMERING ILIR SUMATERA SELATAN 30657"
+    },
+    {
+      "id": 206655,
+      "statistic_num": "510016020060",
+      "name": "PONDOK PESANTREN SUNAN KALIJOGO",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. 15 RT.09 Dusun 03 Desa Gading Mas RT 9 RW 3 Kec. SUNGAI MENANG OGAN KOMERING ILIR SUMATERA SELATAN 30681"
+    },
+    {
+      "id": 296067,
+      "statistic_num": "510016020064",
+      "name": "PONDOK PESANTREN AL QUR'AN WAL KUTUB AL HUDA",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "SURYA ADI RT 1 RW 10 Kec. MESUJI OGAN KOMERING ILIR SUMATERA SELATAN"
+    },
+    {
+      "id": 112794,
+      "statistic_num": "510016020066",
+      "name": "PONDOK PESANTREN DAARUL ISTIQOMAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Desa Kota baru Rt 01 Dusun 01 Kec Mesuji RT 1 RW 1 Kel. KOTA BARU Kec. MESUJI OGAN KOMERING ILIR SUMATERA SELATAN 30681"
+    },
+    {
+      "id": 95732,
+      "statistic_num": "510016020068",
+      "name": "PONDOK PESANTREN AL-MUMTAAZAH PEDAMARAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jln. Pahlawan Desa Menang Raya Kec. Pedamaran Kec. PEDAMARAN OGAN KOMERING ILIR SUMATERA SELATAN 30672"
+    },
+    {
+      "id": 407730,
+      "statistic_num": "510016030019",
+      "name": "Pondok Pesantren La Roiba",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. Jendral Tjik Agus Kiemas Desa Kepur, Muara Enim Kec. RAMBANG NIRU MUARA ENIM SUMATERA SELATAN 31311"
+    },
+    {
+      "id": 88643,
+      "statistic_num": "510016030020",
+      "name": "Pondok Pesantren Tahfizh Al-Qur'an Al-Faroz",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JALAN LINGKAR BULURAN ATAS GG. AL FAROZ TANJUNG ENIM RT 1 RW 4 Kec. LAWANG KIDUL MUARA ENIM SUMATERA SELATAN 31711"
+    },
+    {
+      "id": 153626,
+      "statistic_num": "510016030027",
+      "name": "PONDOK PESANTREN AL-ITTIFAQIAH INDRALAYA KAMPUS LECAH MUARA ENIM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JALAN PRABUMULIH - BATURAJA DESA LECAH RT 3 RW 1 Kec. LUBAI ULU MUARA ENIM SUMATERA SELATAN 31174"
+    },
+    {
+      "id": 342136,
+      "statistic_num": "510016030035",
+      "name": "PONDOK PESANTREN AL MUZAKIR UJANMAS",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl Pesantren Dusun V Desa Ujanmas Ulu Kel. UJAN MAS LAMA Kec. UJAN MAS MUARA ENIM SUMATERA SELATAN 31351"
+    },
+    {
+      "id": 359321,
+      "statistic_num": "510016030036",
+      "name": "Pondok Pesantren Salafiyah dan Tahfiidzulqur'",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JLN. DUSUN II KARANG REJO RT 6 RW 2 Kel. PUTAK Kec. GELUMBANG MUARA ENIM SUMATERA SELATAN 31171"
+    },
+    {
+      "id": 327034,
+      "statistic_num": "510016030041",
+      "name": "pondok pesantren Arri'ayah",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jalan Tapus Kec. SEMENDE DARAT ULU MUARA ENIM SUMATERA SELATAN 31171"
+    },
+    {
+      "id": 352688,
+      "statistic_num": "510016030042",
+      "name": "PONDOK PESANTREN NURUL MADAANY",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL. LINTAS BATURAJA MUARA ENIM SUMATERA SELATAN 31354"
+    },
+    {
+      "id": 408001,
+      "statistic_num": "510016030047",
+      "name": "PONDOK PESANTREN BUMI AL-FALAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Desa Pagar Dewa Kecamatan Lubai Ulu RT 2 RW 1 Kel. PAGAR DEWA Kec. LUBAI ULU MUARA ENIM SUMATERA SELATAN 31174"
+    },
+    {
+      "id": 205440,
+      "statistic_num": "510016030051",
+      "name": "PONDOK PESANTREN IZZATUL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. lintas prabumulih - baturaja RT 2 RW 2 Kel. SUMBER ASRI Kec. LUBAI ULU MUARA ENIM SUMATERA SELATAN 31174"
+    },
+    {
+      "id": 241922,
+      "statistic_num": "510016050018",
+      "name": "Pondok Pesantren Darul Mubarok",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl SMP Dusun 2 Temuan Sari RT 5 RW 2 Kel. TEMUAN SARI Kec. MUARA KELINGI MUSI RAWAS SUMATERA SELATAN 31663"
+    },
+    {
+      "id": 372081,
+      "statistic_num": "510016050035",
+      "name": "PONDOK PESANTREN AL - MAKHALLY",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Dusun III Desa Banpres Kecamatan Tuah negeri RT 3 Kel. BANPRES Kec. TUAH NEGERI MUSI RAWAS SUMATERA SELATAN 31664"
+    },
+    {
+      "id": 276444,
+      "statistic_num": "510016050037",
+      "name": "PONDOK PESANTREN DARUL HUDA SUNGAI BENAI",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jalan Poros Megang Sakti 4 Rt 12 Dusun 4 Kel. MEGANG SAKTI IV Kec. MEGANG SAKTI MUSI RAWAS SUMATERA SELATAN 31657"
+    },
+    {
+      "id": 92101,
+      "statistic_num": "510016060047",
+      "name": "PONDOK PESANTREN ISLAMIC CENTER NUSANTARA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl.Desa Linggo Sari, Dusun II RT 2 RW 2 Kel. LINGGO SARI Kec. SUNGAI LILIN MUSI BANYUASIN SUMATERA SELATAN 30750"
+    },
+    {
+      "id": 158259,
+      "statistic_num": "510016060048",
+      "name": "PONDOK PESANTREN AL-MIDAD",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. Palembang-Jambi KM 102, Dusun V RT 01 RT 2 RW 5 Kel. SUKA MAJU Kec. BABAT SUPAT MUSI BANYUASIN SUMATERA SELATAN 30755"
+    },
+    {
+      "id": 229878,
+      "statistic_num": "510016070007",
+      "name": "PONDOK PESANTREN AL-AKBAR",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL. MASJID RAYA NO. 46 KM.11 RT 2 RW 3 BANYUASIN SUMATERA SELATAN 30962"
+    },
+    {
+      "id": 212741,
+      "statistic_num": "510016070021",
+      "name": "PONDOK PESANTREN BAHRUL ULUM",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL. TANJUNG API-API KM. 42 DESA MULIA SARI, KECAMATAN TANJUNG LAGO. KAB BANYUASIN RT 8 RW 19 Kec. TANJUNG LAGO BANYUASIN SUMATERA SELATAN 30960"
+    },
+    {
+      "id": 212575,
+      "statistic_num": "510016070040",
+      "name": "PONDOK PESANTREN AL-ISLAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "TALANG JERING, JL. GOTONG ROYONG NO.70 RT 3 RW 1 Kel. KENTEN Kec. TALANG KELAPA BANYUASIN SUMATERA SELATAN 30961"
+    },
+    {
+      "id": 407757,
+      "statistic_num": "510016070052",
+      "name": "PONDOK PESANTREN TAHFIZH AL-QUR'AN AN-NUR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JALAN RAYA DESA SUKA PINDAH RT 01 RT 1 RW 1 Kel. SUKA PINDAH Kec. RAMBUTAN BANYUASIN SUMATERA SELATAN 30967"
+    },
+    {
+      "id": 394588,
+      "statistic_num": "510016070054",
+      "name": "PONDOK PESANTREN NURUL ILMI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. Palembang - Betung. No.73. Rt. 09. Rw. 02 RT 9 RW 2 Kel. SUKOMORO Kec. TALANG KELAPA BANYUASIN SUMATERA SELATAN 30961"
+    },
+    {
+      "id": 242154,
+      "statistic_num": "510016070056",
+      "name": "PONDOK PESANTREN TAHFIDZUL QUR'AN NUURUL HIKMAH",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl.Kapten Robani Kadir Komplek Taman Beringin RT 8 RW 3 Kel. SUNGAIPINANG Kec. RAMBUTAN BANYUASIN SUMATERA SELATAN 30967"
+    },
+    {
+      "id": 286260,
+      "statistic_num": "510016080031",
+      "name": "PONDOK PESANTREN DARUL MUQOMAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "CAMPUNG REJO SUMEDANG SARI RT 3 RW 2 Kel. SUMEDANG SARI Kec. BUAY MADANG TIMUR OGAN KOMERING ULU TIMUR SUMATERA SELATAN 32360"
+    },
+    {
+      "id": 158883,
+      "statistic_num": "510016080071",
+      "name": "PONDOK PESANTREN AN -NUR ILAHI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "DESA SUKOHARJO KECAMATAN BUAY MADANG TIMUR RT 1 RW 1 Kec. BUAY MADANG TIMUR OGAN KOMERING ULU TIMUR SUMATERA SELATAN 32360"
+    },
+    {
+      "id": 302620,
+      "statistic_num": "510016080097",
+      "name": "PONDOK PESANTREN ASSALAFI AL-FITHRAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Sumber harjo, rt002 rw003,buay madang timur ,OKU Timur,Sumatera Selatan RT 2 RW 2 Kel. SUMBER HARJO Kec. BUAY MADANG TIMUR OGAN KOMERING ULU TIMUR SUMATERA SELATAN 32360"
+    },
+    {
+      "id": 184492,
+      "statistic_num": "510016080098",
+      "name": "PONDOK PESANTREN TAHFIDZ QUR'AN AT-TAQWA GUMAWANG",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. Lintas KTM Jaya Bakti-Jati Mulyo Kec. Madang Suku 1 Kab. OKUT Kel. GUMAWANG Kec. BELITANG OGAN KOMERING ULU TIMUR SUMATERA SELATAN 32382"
+    },
+    {
+      "id": 275762,
+      "statistic_num": "510016080101",
+      "name": "PONDOK PESANTREN AL-MUBAROKAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. Depati Agung RT 002 RW 001 Sumber Agung RT 2 RW 1 Kec. BUAY MADANG OGAN KOMERING ULU TIMUR SUMATERA SELATAN"
+    },
+    {
+      "id": 156425,
+      "statistic_num": "510016080105",
+      "name": "PONDOK PESANTREN BABUL ULUM",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "PURWOSARI RT 4 RW 1 Kec. BELITANG II OGAN KOMERING ULU TIMUR SUMATERA SELATAN 32383"
+    },
+    {
+      "id": 201753,
+      "statistic_num": "510016080109",
+      "name": "PONDOK PESANTREN AL FATAH KOTA MULYA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Desa Kota Mulya Kec. Semendawai Timur, Kab. OKU Timur RT 5 RW 3 Kel. KOTA MULYA Kec. SEMENDAWAI TIMUR OGAN KOMERING ULU TIMUR SUMATERA SELATAN 32185"
+    },
+    {
+      "id": 381339,
+      "statistic_num": "510016090022",
+      "name": "PONDOK PESANTREN AL-HANAN",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. RAYA SALIPAYAK DESA ULUDANAU Kel. ULU DANAU Kec. SINDANG DANAU OGAN KOMERING ULU SELATAN SUMATERA SELATAN 32266"
+    },
+    {
+      "id": 314373,
+      "statistic_num": "510016090036",
+      "name": "PONDOK PESANTREN AL AMIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "DUSUN V DESA GEDUNG RANAU Kel. GEDUNG RANAU Kec. WARKUK RANAU SELATAN OGAN KOMERING ULU SELATAN SUMATERA SELATAN 32275"
+    },
+    {
+      "id": 291614,
+      "statistic_num": "510016090037",
+      "name": "PONDOK PESANTREN AL-ITTIFAQIAH INDRALAYA KAMPUS KURIPAN OKU SELATAN",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "DESA KURIPAN OKU SELATAN Kel. KURIPAN II Kec. TIGA DIHAJI OGAN KOMERING ULU SELATAN SUMATERA SELATAN 32262"
+    },
+    {
+      "id": 175394,
+      "statistic_num": "510016090038",
+      "name": "PONDOK PESANTREN TANWIRUL QULUB",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Desa Tanjung Setia RT 1 RW 1 Kel. SIMPANG SENDER Kec. BUAY PEMATANG RIBU RANAU TENGAH OGAN KOMERING ULU SELATAN SUMATERA SELATAN 32268"
+    },
+    {
+      "id": 248039,
+      "statistic_num": "510016100016",
+      "name": "PONDOK PESANTREN AL UMAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jln. Lanang Kuaso RT. 004 Dusun II RT 3 Kec. PAYARAMAN OGAN ILIR SUMATERA SELATAN"
+    },
+    {
+      "id": 224611,
+      "statistic_num": "510016120015",
+      "name": "PONDOK PESANTREN DARUSSALAM",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "DESA PENGABUAN Kel. PENGABUAN Kec. ABAB PENUKAL ABAB LEMATANG ILIR SUMATERA SELATAN 31315"
+    },
+    {
+      "id": 375418,
+      "statistic_num": "510016120016",
+      "name": "Pondok Pesantren Mamba'ul Hadi",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Sungai Baung RT 1 RW 1 Kel. SUNGAI BAUNG Kec. TALANG UBI PENUKAL ABAB LEMATANG ILIR SUMATERA SELATAN 31214"
+    },
+    {
+      "id": 191876,
+      "statistic_num": "510016120017",
+      "name": "Pondok Pesantren Terpadu La Tansa Mustika",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. Merdeka KM.10 RT 11 RW 4 Kel. HANDAYANI MULYA Kec. TALANG UBI PENUKAL ABAB LEMATANG ILIR SUMATERA SELATAN 31214"
+    },
+    {
+      "id": 307146,
+      "statistic_num": "510016120018",
+      "name": "Pondok Pesantren Terpadu Qolbun Salim",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. Merdeka Talang Bulang Kel. TALANG BULANG Kec. TANAH ABANG PENUKAL ABAB LEMATANG ILIR SUMATERA SELATAN 31214"
+    },
+    {
+      "id": 282953,
+      "statistic_num": "510016120019",
+      "name": "PONDOK PESANTREN NURUL IMAN MODONG",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL. DESA MODONG RT 1 RW 1 Kec. TANAH ABANG PENUKAL ABAB LEMATANG ILIR SUMATERA SELATAN 31314"
+    },
+    {
+      "id": 406028,
+      "statistic_num": "510016120020",
+      "name": "Pondok Pesantren Darussalam Tegal Rejo Al-Qomari",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. Baru Desa Pengabuan Timur Kel. PENGABUAN TIMUR Kec. ABAB PENUKAL ABAB LEMATANG ILIR SUMATERA SELATAN 31315"
+    },
+    {
+      "id": 206739,
+      "statistic_num": "510016120024",
+      "name": "PONDOK PESANTREN AL WAFI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL. AMS DARUSSA'ADAH TALANG SUBUR RT 3 RW 1 Kec. TANAH ABANG PENUKAL ABAB LEMATANG ILIR SUMATERA SELATAN"
+    },
+    {
+      "id": 180873,
+      "statistic_num": "510016130006",
+      "name": "PONDOK PESANTREN ASSANADIYAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "DESA BATU KUCING KECAMATAN RAWAS ILIR KABUPATAEN MUSI RAWAS UTARA RT 2 RW 3 Kel. BATU KUCING Kec. RAWAS ILIR MUSI RAWAS UTARA SUMATERA SELATAN 31655"
+    },
+    {
+      "id": 92059,
+      "statistic_num": "510016710028",
+      "name": "Pondok Pesantren Tadabbur Al-Quran Khazanah Kebajikan",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jalan  Sematang Borang No. 1266  RT.25 RW.11 RT 25 RW 11 Kel. SAKO Kec. SUKARAMI KOTA PALEMBANG SUMATERA SELATAN 30163"
+    },
+    {
+      "id": 232842,
+      "statistic_num": "510016710031",
+      "name": "pondok pesantren daarul qur'an wal hufadz abi",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JLN BANTEN 4 NO. 27A RT 32 RW 8 Kel. 16 ULU Kec. SEBERANG ULU II KOTA PALEMBANG SUMATERA SELATAN 30265"
+    },
+    {
+      "id": 272413,
+      "statistic_num": "510016710032",
+      "name": "Pondok Pesantren  Nurul Huda Sukawinatan",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JALAN SUKAWINATAN LR. ADHIYAKSA NO. 35 RT 37 RW 7 Kel. SUKAJAYA Kec. SUKARAMI KOTA PALEMBANG SUMATERA SELATAN 30151"
+    },
+    {
+      "id": 190440,
+      "statistic_num": "510016710048",
+      "name": "PONDOK PESANTREN AT TAFAQQUH FID DIIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. Pasundan No 26 Rt 30 Rw 07 RT 30 RW 7 Kel. KALIDONI Kec. KALIDONI KOTA PALEMBANG SUMATERA SELATAN 30119"
+    },
+    {
+      "id": 442102,
+      "statistic_num": "510016719023",
+      "name": "Pondok Pesantren Tahfidzul Qur'an Mutiara Sun",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": " KOTA PALEMBANG SUMATERA SELATAN"
+    },
+    {
+      "id": 256307,
+      "statistic_num": "510016720003",
+      "name": "PONDOK PESANTREN AL-AZHAR",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL LESUNG BATU RT/09 RW/03 KEL.ULU RURAH KEC.PAGARALAM SELATAN KOTA PAGAR ALAM RT 9 RW 3 Kec. PAGAR ALAM SELATAN KOTA PAGAR ALAM SUMATERA SELATAN 31526"
+    },
+    {
+      "id": 158173,
+      "statistic_num": "510216090011",
+      "name": "PONDOK PESANTREN AL-FALAH VI",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JALAN NIAGARA DESA RANTAU NIPIS Kel. RANTAU NIPIS Kec. BANDING AGUNG OGAN KOMERING ULU SELATAN SUMATERA SELATAN 32274"
+    },
+    {
+      "id": 235824,
+      "statistic_num": "510316010012",
+      "name": "PONDOK PESANTREN AL-FAKHRIYAH BATURAJA",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL. MODERN LR. H.M. KOZIM 2 RT 22 RW 5 Kel. KEMALARAJA Kec. BATURAJA TIMUR OGAN KOMERING ULU SUMATERA SELATAN 32111"
+    },
+    {
+      "id": 434148,
+      "statistic_num": "510316060709",
+      "name": "Pondok Pesantren Ishlahul Asror Patok",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": " MUSI BANYUASIN SUMATERA SELATAN"
+    },
+    {
+      "id": 258481,
+      "statistic_num": "510316080073",
+      "name": "PONDOK PESANTREN MODERN MINHAJUL MUTTAQIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL RAYA RASUAN-GUMAWANG DESA HARJOMULYO JAYA RT 18 RW 8 Kel. HARJO MULYO JAYA Kec. MADANG SUKU I OGAN KOMERING ULU TIMUR SUMATERA SELATAN 32362"
+    },
+    {
+      "id": 247039,
+      "statistic_num": "510316080074",
+      "name": "PONDOK PESANTREN DARUL HIKMAH",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "DESA TUMIJAYA RT 007 RW 002 RT 7 RW 2 Kel. TUMIJAYA Kec. JAYAPURA OGAN KOMERING ULU TIMUR SUMATERA SELATAN 32381"
+    },
+    {
+      "id": 269653,
+      "statistic_num": "510316080084",
+      "name": "PONDOK PESANTREN AL HIDAYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "TULUNG HARAPAN KEC.SEMNDAWAI TIMUR KAB. OKU T RT 12 RW 6 Kel. TULUNG HARAPAN Kec. SEMENDAWAI TIMUR OGAN KOMERING ULU TIMUR SUMATERA SELATAN 32185"
+    },
+    {
+      "id": 212111,
+      "statistic_num": "510316080088",
+      "name": "YAYASAN PONDOK PESANTREN KAFILAH AL-AMIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "YOSOWINANGUN RT.002 RW.003 RT 2 RW 1 Kel. YOSOWINANGUN Kec. BELITANG MADANG RAYA OGAN KOMERING ULU TIMUR SUMATERA SELATAN 32363"
+    },
+    {
+      "id": 243145,
+      "statistic_num": "510316120010",
+      "name": "PONDOK PESANTREN UHIBBUL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "DESA TALANG AKAR Kec. TALANG UBI PENUKAL ABAB LEMATANG ILIR SUMATERA SELATAN"
+    },
+    {
+      "id": 266934,
+      "statistic_num": "510316710039",
+      "name": "Pondok Pesantren Al-Hikmah",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl. SH Wardoyo Gang Duren No 428 RT012/RW003 RT 12 RW 3 Kel. 7 ULU Kec. SEBERANG ULU I KOTA PALEMBANG SUMATERA SELATAN 30253"
+    },
+    {
+      "id": 96861,
+      "statistic_num": "512016720005",
+      "name": "PONDOK PESANTREN AL-QUDS",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL.H.M.YUNI DESA PAGAR GADING RT 7 RW 3 Kel. KUSIPAN BABAS Kec. PAGAR ALAM UTARA KOTA PAGAR ALAM SUMATERA SELATAN 31514"
+    },
+    {
+      "id": 176451,
+      "statistic_num": "512016720006",
+      "name": "PONDOK PESANTREN RAHMAN RENATIN",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL.LINTAS PAGARALAM LAHAT NO.073 RT 1 RW 2 Kel. KANCE DIWE Kec. DEMPO SELATAN KOTA PAGAR ALAM SUMATERA SELATAN 31521"
+    },
+    {
+      "id": 93385,
+      "statistic_num": "512016740003",
+      "name": "Pondok Pesantren HIDAYATUL MUBTADI-IEN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JALAN NIAS RT.07 RW.02 RT 7 RW 2 Kel. GUNUNG IBUL Kec. PRABUMULIH TIMUR KOTA PRABUMULIH SUMATERA SELATAN 31113"
+    },
+    {
+      "id": 117052,
+      "statistic_num": "512016740004",
+      "name": "PONDOK PESANTREN AL-MUNAWWAROH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JAMBAL SEHIKAT RT 2 RW 4 Kec. PRABUMULIH BARAT KOTA PRABUMULIH SUMATERA SELATAN 31127"
+    },
+    {
+      "id": 133707,
+      "statistic_num": "512016740005",
+      "name": "PONDOK PESANTREN AL-MADINA AL-ISLAMI",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL. LAA TAHZAN GUNUNG IBUL RT 2 RW 1 Kel. GUNUNG IBUL Kec. PRABUMULIH TIMUR KOTA PRABUMULIH SUMATERA SELATAN 31113"
+    },
+    {
+      "id": 107873,
+      "statistic_num": "512316030023",
+      "name": "Pondok Pesantren Darus Shofa Sukajadi",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Desa Sukajadi RT 3 Kec. UJAN MAS MUARA ENIM SUMATERA SELATAN 31357"
+    },
+    {
+      "id": 139261,
+      "statistic_num": "512316050021",
+      "name": "PONDOK PESANTREN HIDAYATUT THULLAB LEBAN JAYA",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "DESA LEBAN JAYA RT 9 RW 4 Kel. LEBAN JAYA Kec. TUAH NEGERI MUSI RAWAS SUMATERA SELATAN 31664"
+    },
+    {
+      "id": 192272,
+      "statistic_num": "512316070049",
+      "name": "PONDOK PESANTREN AHLUL QURO",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jl Lintas Lebung Simpang Macang Dusun I RT 1 RW 1 Kec. RAMBUTAN BANYUASIN SUMATERA SELATAN 30968"
+    },
+    {
+      "id": 153683,
+      "statistic_num": "512316080068",
+      "name": "PONDOK PESANTREN MIFTAHUL HUDA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "KARANG ENDAH KECAMATAN SEMENDAWAI SUKU III RT 5 RW 2 Kel. KARANG ENDAH Kec. SEMENDAWAI SUKU III OGAN KOMERING ULU TIMUR SUMATERA SELATAN 32386"
+    },
+    {
+      "id": 113101,
+      "statistic_num": "512316120011",
+      "name": "Pondok Pesantren Tarbiyatul Islamiyah",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "Jln. Merdeka KM. 10 RT 18 RW 4 Kel. HANDAYANI MULYA Kec. TALANG UBI PENUKAL ABAB LEMATANG ILIR SUMATERA SELATAN 31214"
+    },
+    {
+      "id": 398972,
+      "statistic_num": "512316120013",
+      "name": "PONDOK PESANTREN AL FALAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL. RAYA  TALANG AKAR MAJU JAYA Kel. TALANG AKAR Kec. TALANG UBI PENUKAL ABAB LEMATANG ILIR SUMATERA SELATAN 31214"
+    }
+  ]
+}

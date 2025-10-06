@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "id": 427535,
+      "statistic_num": "411214050894",
+      "name": "PONDOK TAHFIDZ ALFURQON",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 14,
+      "province_name": "RIAU",
+      "address": "Komplek Perkantoran Bhakti Praja Perum Bumi Asri I RT 4 RW 4 Kec. PANGKALAN KERINCI PELALAWAN RIAU 28381"
+    },
+    {
+      "id": 269210,
+      "statistic_num": "411214060169",
+      "name": "PONDOK TAHFIDZ ABU KHOIRI",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 14,
+      "province_name": "RIAU",
+      "address": "Jl. Budi Luhur Pasir Putih Utama, No. 22 RT 1 RW 3 Kel. PEMATANG BERANGAN Kec. RAMBAH ROKAN HULU RIAU 28557"
+    },
+    {
+      "id": 218298,
+      "statistic_num": "411214070121",
+      "name": "TPQ AL_AMIN PONDOK KRESEK",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 14,
+      "province_name": "RIAU",
+      "address": "DUSUN II SIMPANG BADAK RT 2 RW 3 Kec. TANJUNG MEDAN ROKAN HILIR RIAU 28983"
+    },
+    {
+      "id": 166220,
+      "statistic_num": "411214100113",
+      "name": "TPQ PONDOK TAHFIZDUL QURAN AR-RAHMAH",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 14,
+      "province_name": "RIAU",
+      "address": "JL. BANGLAS RT 1 RW 1 Kec. TEBING TINGGI KEPULAUAN MERANTI RIAU 28753"
+    }
+  ]
+}

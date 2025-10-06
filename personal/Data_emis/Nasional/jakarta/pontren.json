@@ -1,0 +1,154 @@
+{
+  "results": [
+    {
+      "id": 119394,
+      "statistic_num": "502331720018",
+      "name": "PONDOK QUR'AN KEBANTENAN",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "JL. KEBANTENAN V NO. 4 RT 4 RW 7 Kel. SEMPER TIMUR Kec. CILINCING KOTA ADM. JAKARTA UTARA DAERAH KHUSUS IBUKOTA JAKARTA 14130"
+    },
+    {
+      "id": 439433,
+      "statistic_num": "510031710001",
+      "name": "Pondok Pesantren Uji Coba",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "Jalan Lapangan Banteng No.3-4 KOTA ADM. JAKARTA PUSAT DAERAH KHUSUS IBUKOTA JAKARTA"
+    },
+    {
+      "id": 423724,
+      "statistic_num": "510031730030",
+      "name": "PONDOK PESANTREN ANNAFSIAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "JL. SEMANAN RAYA NO.76 RT.004/RW.08 KEL. SEMANAN, KEC. KALIDERES RT 4 RW 8 Kel. SEMANAN Kec. KALIDERES KOTA ADM. JAKARTA BARAT DAERAH KHUSUS IBUKOTA JAKARTA 11850"
+    },
+    {
+      "id": 122002,
+      "statistic_num": "510031730032",
+      "name": "PONDOK PESANTREN TERBUKA GRATIS AL-ISYRAQ",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "JL.PEJUANGAN GG.F NO.56, RT10/10 NO.56 Kec. KEBON JERUK KOTA ADM. JAKARTA BARAT DAERAH KHUSUS IBUKOTA JAKARTA"
+    },
+    {
+      "id": 267721,
+      "statistic_num": "510031750007",
+      "name": "PONDOK PESANTREN AL WATHONIYAH PUSAT PUTRA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "Jl. Raya Bekasi KM.17 KP. Baru RT 15 RW 1 Kel. JATINEGARA Kec. CAKUNG KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA 13930"
+    },
+    {
+      "id": 254589,
+      "statistic_num": "510031750010",
+      "name": "Pondok Pesantren Nahdlatul Wathan",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "JL RAYA PENGGILINGAN RT.01/03 RT 1 RW 3 Kel. PENGGILINGAN Kec. CAKUNG KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA 13940"
+    },
+    {
+      "id": 333143,
+      "statistic_num": "510031750028",
+      "name": "Pondok Pesantren Enterpreunership Prof. Dr. H. Agustitin Setyobudi Magister Manajemen",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "JL RAWAJAYA NO.37 Kec. DUREN SAWIT KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA 13460"
+    },
+    {
+      "id": 258668,
+      "statistic_num": "510031750043",
+      "name": "Pondok Pesantren Tahfidz Raudhatul Huffazh Abu Bakar Ash Shiddiq",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "JL. RAWA KUNING PULOGEBANG RT 1 RW 2 Kel. CAKUNG TIMUR Kec. CAKUNG KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA 13910"
+    },
+    {
+      "id": 229479,
+      "statistic_num": "510031750044",
+      "name": "PONDOK PESANTREN AL WATHONIYAH PUSAT PUTRI",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "JL. RAYA BEKASI TIMUR KM.17 PLN KLENDER RT 15 RW 1 Kel. JATINEGARA Kec. CAKUNG KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA 13930"
+    },
+    {
+      "id": 439359,
+      "statistic_num": "510031750059",
+      "name": "PONDOK PESANTREN MAHASISWA DAARUSSHOHABAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": " RT 13 RW 3 KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA"
+    },
+    {
+      "id": 396538,
+      "statistic_num": "510031750060",
+      "name": "PONDOK PESANTREN TAHFIDZ AL-GHURABAA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "JL.Tenggiri raya no.47 RT005/RW010 KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA"
+    },
+    {
+      "id": 119694,
+      "statistic_num": "510031750070",
+      "name": "PONDOK PESANTREN AL MUNAJAT",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "Jl. KH. Muhaimin Kp. Tambun Rengas RT 6 RW 7 Kel. CAKUNG TIMUR Kec. CAKUNG KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA 13910"
+    },
+    {
+      "id": 433812,
+      "statistic_num": "510331750020",
+      "name": "PONDOK PESANTREN BAMADITA RAHMAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": " RT 6 RW 7 KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA 13840"
+    },
+    {
+      "id": 335634,
+      "statistic_num": "510331750048",
+      "name": "PONDOK PESANTREN AL-HAYAH",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "JL. CILIWUNG NO. 81 RT 8 RW 6 Kel. CILILITAN Kec. KRAMATJATI KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA 13640"
+    },
+    {
+      "id": 332293,
+      "statistic_num": "510331750056",
+      "name": "PONDOK PESANTREN FISABILILLAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "PONDOK RANGGON RT 01 RW 03 RT 1 RW 3 Kel. PONDOK RANGGON Kec. CIPAYUNG KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA 13860"
+    }
+  ]
+}

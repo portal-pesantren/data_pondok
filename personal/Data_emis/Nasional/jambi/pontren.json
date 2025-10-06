@@ -1,0 +1,414 @@
+{
+  "results": [
+    {
+      "id": 357841,
+      "statistic_num": "500015710021",
+      "name": "PONDOK PESANTREN TAWAKKAL",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "JL. KOL POL M. TAHER NO. 20 RT. 08 KEL. WIJAYA PURA KEC. JAMBI SELATAN  KOTA JAMBI RT 8 Kel. WIJAYA PURA Kec. JAMBI SELATAN KOTA JAMBI JAMBI 36131"
+    },
+    {
+      "id": 321229,
+      "statistic_num": "500315710019",
+      "name": "PONDOK PESANTREN DARUL ARIFIN JAMBI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "PERUMAHAN NEW CASTLE JLN. LETMUD SARNIEM, SUKA KARYA, KEC. KOTA BARU RT 34 Kel. SUKA KARYA Kec. KOTA BARU KOTA JAMBI JAMBI 36127"
+    },
+    {
+      "id": 370633,
+      "statistic_num": "502315710020",
+      "name": "PONDOK PESANTREN ARRAHMAH",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "JLN.SERMA HUSEIN EFENDI RT 15 KELURAHAN PAAL MERAH KECAMATAN PAAL MERAH RT 15 Kel. PAAL MERAH Kec. PAAL MERAH KOTA JAMBI JAMBI 36139"
+    },
+    {
+      "id": 131441,
+      "statistic_num": "510015010011",
+      "name": "PONDOK PESANTREN MODERN DARUL QIYAM KOTO PETAI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Jalan Raya Koto Petai, Kecamatan Tanah Cogok RT 4 Kel. KOTO PETAI Kec. DANAU KERINCI KERINCI JAMBI 37172"
+    },
+    {
+      "id": 287095,
+      "statistic_num": "510015020126",
+      "name": "PONDOK PESANTREN SYIFA'UL QULUB",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Jl.slamet,RT 12 RW 04, Sumber Agung RT 12 RW 4 Kel. SUMBER AGUNG Kec. MARGO TABIR MERANGIN JAMBI 37353"
+    },
+    {
+      "id": 178420,
+      "statistic_num": "510015030037",
+      "name": "pondok pesantren nurul huda 2",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "DESA BUTANG BARU Kel. BUTANG BARU Kec. MANDIANGIN SAROLANGUN JAMBI 37492"
+    },
+    {
+      "id": 374715,
+      "statistic_num": "510015030039",
+      "name": "PONDOK PESANTREN TAHFIZH AL QUR'AN HIDAYATUL QUR'AN",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "SRI PELAYANG RT. 22 / RW. 0 RT 22 Kel. SAROLANGUN KEMBANG Kec. SAROLANGUN SAROLANGUN JAMBI 37481"
+    },
+    {
+      "id": 381590,
+      "statistic_num": "510015030045",
+      "name": "PONDOK PESANTREN SUNAN GIRI ALBAJURY",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Jl. Poros Dusun Kertaraharja RT 20 Kel. BUKIT BUMI RAYA Kec. SINGKUT SAROLANGUN JAMBI 37482"
+    },
+    {
+      "id": 187655,
+      "statistic_num": "510015030048",
+      "name": "PONDOK PESANTREN SERAMBI MEKKAH AL-AZIZIYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Pelawan Jaya Kec. Pelawan Kab. Sarolangun RT 3 RW 1 Kel. PELAWAN JAYA Kec. PELAWAN SAROLANGUN JAMBI 37482"
+    },
+    {
+      "id": 434478,
+      "statistic_num": "510015040032",
+      "name": "Pondok Pesantren Al Fatah Jambi",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Jl. Jambi - Ma. Bulian RT 11 RW 3 Kel. JEMBATAN MAS Kec. PEMAYUNG BATANGHARI JAMBI 36657"
+    },
+    {
+      "id": 278671,
+      "statistic_num": "510015050028",
+      "name": "PONDOK PESANTREN SAADATULMUTTAQIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "RT.03 DESA BAKUNG KEC.MARO SEBO RT 3 Kel. BAKUNG Kec. MARO SEBO MUARO JAMBI JAMBI 36382"
+    },
+    {
+      "id": 434491,
+      "statistic_num": "510015050052",
+      "name": "Pondok Pesantren Muroqobah Thoreqat Qodiriyah Naqsyabandiyyah Suryalaya Jambi",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Jalan Candi Muaro Jambi RT.09 RT 9 RW 2 Kel. KEDEMANGAN Kec. JAMBI LUAR KOTA MUARO JAMBI JAMBI 36361"
+    },
+    {
+      "id": 207439,
+      "statistic_num": "510015050056",
+      "name": "PONDOK PESANTREN ROBBANIYYIN TALANG BUKIT",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "DESA TALANG BUKIT UNIT 06 RT 06 RT 6 RW 3 Kel. TALANG BUKIT Kec. BAHAR UTARA MUARO JAMBI JAMBI 36365"
+    },
+    {
+      "id": 106584,
+      "statistic_num": "510015050070",
+      "name": "PONDOK PESANTREN TARBIYATUSSHOLATIYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Dusun Pematang Ale RT. 04 RT 4 Kel. NIASO Kec. MARO SEBO MUARO JAMBI JAMBI 36382"
+    },
+    {
+      "id": 434490,
+      "statistic_num": "510015050071",
+      "name": "Pondok Pesantren Mau`izatun Hasanah",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Jl. Kemas Tabro RT. 15 Kel. Sengeti Kel. SENGETI Kec. SEKERNAN MUARO JAMBI JAMBI 36381"
+    },
+    {
+      "id": 368084,
+      "statistic_num": "510015070011",
+      "name": "PONDOK PESANTREN DARUTTAUHID",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "JL. TAMRIN SK. 14 RT. 20 RW. 05 KEL BANDAR JAYA KEC RANTAU RASAU KAB. TANJUNG JABUNG TIMUR RT 20 RW 5 Kel. BANDAR JAYA Kec. RANTAU RASAU TANJUNG JABUNG TIMUR JAMBI 36772"
+    },
+    {
+      "id": 132391,
+      "statistic_num": "510015080017",
+      "name": "PONDOK PESANTREN ASWAJA",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "JL. LINTAS JUJUHAN KM.04, DESA RANTAU PANJANG, KEC. JUJUHAN Kel. RANTAU PANJANG Kec. JUJUHAN BUNGO JAMBI 37257"
+    },
+    {
+      "id": 345154,
+      "statistic_num": "510015080021",
+      "name": "PONDOK PESANTREN DARUL HIKMAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "DESA SEI. TEMBANG, KEC. TANAH SEPENGGAL Kel. SUNGAI TEMBANG Kec. TANAH SEPENGGAL LINTAS BUNGO JAMBI 37263"
+    },
+    {
+      "id": 381107,
+      "statistic_num": "510015080071",
+      "name": "Pondok Pesantren Diniyyah Al - Azhar",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "KECAMATAN RIMBO TENGAH, KABUPATEN BUNGO RT 12 RW 4 Kel. CADIKA Kec. RIMBO TENGAH BUNGO JAMBI 37211"
+    },
+    {
+      "id": 316985,
+      "statistic_num": "510015090008",
+      "name": "PONDOK PESANTREN BAABUSSALAM",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "JALAN LINTAS TEBO - JAMBI KM 39 SIMPANG NIAM RT 11 Kel. MENGUPEH Kec. TENGAH ILIR TEBO JAMBI 37572"
+    },
+    {
+      "id": 395022,
+      "statistic_num": "510015090024",
+      "name": "PONDOK MODERN AL MAKKIYAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "JL. TEBO-JAMBI SIMPANG RAYA DESA RANTAU API RT 4 Kel. RANTAU API Kec. TENGAH ILIR TEBO JAMBI 37572"
+    },
+    {
+      "id": 319752,
+      "statistic_num": "510015090048",
+      "name": "PONDOK PESANTREN INSAN CENDIKIA JAMBI",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "JALAN POROS RT 2 Kel. RANTAU KEMBANG Kec. RIMBO ILIR TEBO JAMBI 37553"
+    },
+    {
+      "id": 230731,
+      "statistic_num": "510015090053",
+      "name": "PONDOK PESANTREN DAARUL HAFIDZ AL-MANSHURIYAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Jl. Simpang Lima RT 1 RW 1 Kel. TEBING TINGGI Kec. TEBO TENGAH TEBO JAMBI 37571"
+    },
+    {
+      "id": 221773,
+      "statistic_num": "510015710022",
+      "name": "PONDOK PESANTREN AL-QUR'AN DAN BAHASA DARUL IHSAN KOTA JAMBI",
+      "jenjang": "Kitab Kuning",
+      "status": "inactive",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Jl. Sri rezeki I No.30 RT. 11 RT 1 Kel. RAWA SARI Kec. ALAM BARAJO KOTA JAMBI JAMBI 36125"
+    },
+    {
+      "id": 388108,
+      "statistic_num": "510015710025",
+      "name": "PONDOK PESANTREN TAHFIZH AL QURAN ZAHRATUL QURAN JAMBI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Jl. Sersan Tadjib No. 19 RT. 04 RT 4 Kel. EKA JAYA Kec. PAAL MERAH KOTA JAMBI JAMBI 36139"
+    },
+    {
+      "id": 198889,
+      "statistic_num": "510015710026",
+      "name": "PONDOK  PESANTREN AL-QURAN BINA INSAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Jl, Aripin Manaf, Lrg. Bina Insan, Rt 10, Kel. Pinang Merah, Kec. Alam Barajo, Kota Jambi, Jambi, 36129 RT 10 Kel. BAGAN PETE Kec. ALAM BARAJO KOTA JAMBI JAMBI 36129"
+    },
+    {
+      "id": 440470,
+      "statistic_num": "510215010021",
+      "name": "Pondok Pesantren Tahfizhul Qur'an Waf'alul Khaira",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Jl. Lintas Sungai Penuh - Padang, RT. 02 RT 2 Kel. PASAR SEMURUP Kec. AIR HANGAT KERINCI JAMBI 37161"
+    },
+    {
+      "id": 430347,
+      "statistic_num": "510215060031",
+      "name": "BALAI PENDIDIKAN PONDOK PESANTREN MODERN AR ROSYID",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Jalan lintas timur Kel. SUBAN Kec. BATANG ASAM TANJUNG JABUNG BARAT JAMBI 36552"
+    },
+    {
+      "id": 455228,
+      "statistic_num": "510215060038",
+      "name": "Pondok Pesantren Soleh Al Mubarok",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "JL. WAHIDIN RT 08 DESA GEMURUH Kel. GEMURUH Kec. TUNGKAL ULU TANJUNG JABUNG BARAT JAMBI 36552"
+    },
+    {
+      "id": 234021,
+      "statistic_num": "510315030031",
+      "name": "PONDOK PESANTREN MODERN MUHAMMADIYAH BOARDING SCHOOL SINGKUT",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "JALAN KH. AHMAD DAHLAN NO.17 RT 10 RW 3 Kel. BUKITTIGO Kec. SINGKUT SAROLANGUN JAMBI 37482"
+    },
+    {
+      "id": 404999,
+      "statistic_num": "510315030035",
+      "name": "PONDOK PESANTREN REHABILITASI NARKOBA AT TAUBAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "DUSUN LIMAU KAPAS, RT 003 DS. PELAWAN JAYA Kec. PELAWAN SAROLANGUN JAMBI"
+    },
+    {
+      "id": 226152,
+      "statistic_num": "510315060017",
+      "name": "YAYASAN PONDOK PESANTREN NURUL YAQIN",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "JL. MATAHARI RT 04 KADUS 1 DESA RAWA MEDANG RT 4 RW 1 Kel. RAWAMEDANG Kec. BATANG ASAM TANJUNG JABUNG BARAT JAMBI 36552"
+    },
+    {
+      "id": 335392,
+      "statistic_num": "510315070010",
+      "name": "PONDOK JARINABI",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "KOMPLEK BUKIT QURAN SABAK, JL. RA. KARTINI, RT 8 RW 3 Kel. RANO Kec. MUARA SABAK BARAT TANJUNG JABUNG TIMUR JAMBI 36761"
+    },
+    {
+      "id": 168630,
+      "statistic_num": "510315070012",
+      "name": "PONDOK PESANTREN TAHFIDZ HIDAYATUL QUR'AN",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "RT. 016/003 SK 10 KELURAHAN BANDAR JAYA RT 16 RW 3 Kel. BANDAR JAYA Kec. RANTAU RASAU TANJUNG JABUNG TIMUR JAMBI 36772"
+    },
+    {
+      "id": 268745,
+      "statistic_num": "510315080012",
+      "name": "PONDOK PESANTREN DARUL BAROKAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Jalan Mentimun Ds. Lingga Kuamang RT 8 RW 3 Kel. LINGGA KUAMANG Kec. PELEPAT ILIR BUNGO JAMBI 37252"
+    },
+    {
+      "id": 255376,
+      "statistic_num": "510315081701",
+      "name": "PONDOK PESANTREN AL-IHSAN",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "DS. BARU PUSAT JALO Kel. BARU PUSAT JALO Kec. MUKO-MUKO BATHIN VII BUNGO JAMBI 37216"
+    },
+    {
+      "id": 364522,
+      "statistic_num": "512015041001",
+      "name": "Pondok Pesantren Modern Darussalam",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "Desa Sengkati Baru RT 7 Kel. KEMBANG PASEBAN Kec. MERSAM BATANGHARI JAMBI 36654"
+    },
+    {
+      "id": 350265,
+      "statistic_num": "512015070008",
+      "name": "Pondok Modern Darussalam Gontor Kampus 10",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "KOMPLEK GONTOR 10, PARIT CULUM 1, MUARA SABAK BARAT, TANJUNG JABUNG TIMUR, JAMBI. RT 12 RW 12 Kel. PARIT CULUM I Kec. MUARA SABAK BARAT TANJUNG JABUNG TIMUR JAMBI 36761"
+    },
+    {
+      "id": 132027,
+      "statistic_num": "512315020070",
+      "name": "PONDOK PESANTREN AL AZIZIAH (AL AZIZIAH ISLAMIC BOARDING SCHOOL)",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "DESA MUARA SIAU DUSUN LADANG PANJANG KECAMATAN MUARA SIAU RT 4 Kel. MUARA SIAU Kec. MUARA SIAU MERANGIN JAMBI 37371"
+    },
+    {
+      "id": 139469,
+      "statistic_num": "512315030036",
+      "name": "PONDOK PESANTREN TAHFIDZUL QUR'AN RIYADHUSSOLIHIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "JL. RAYA PAUH-BUKIT SUBAN KM 25, KOMP. PERKANTORAN PADANG LALANG (EX. ARENA MTQ) DS. JERNIH, KEC. AIR HITAM, KAB. SAROLANGUN, PROV JAMBI KODE POS 37491 RT 3 RW 1 Kel. JERNIH Kec. AIR HITAM SAROLANGUN JAMBI 37491"
+    },
+    {
+      "id": 298284,
+      "statistic_num": "512315060019",
+      "name": "PONDOK PESANTREN AL IKHSAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 15,
+      "province_name": "JAMBI",
+      "address": "JL LINTAS KELAGIAN BARU RT 03 RT 3 RW 3 Kel. KELAGIAN Kec. TEBING TINGGI TANJUNG JABUNG BARAT JAMBI 36552"
+    }
+  ]
+}

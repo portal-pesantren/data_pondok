@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "id": 338340,
+      "statistic_num": "510331750023",
+      "name": "PONDOK PESANTREN AL FAJRU",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "JL. KAPUK ELOK RT 11 RW 3 Kel. BAMBU APUS Kec. CIPAYUNG KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA 13890"
+    },
+    {
+      "id": 216049,
+      "statistic_num": "510331750047",
+      "name": "PONDOK PESANTREN QURROTA A'YUN",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "Jl. Batu Jamrut No. 15 Rt 14 Rw 02 Batu Ampar RT 14 RW 2 Kel. BATU AMPAR Kec. KRAMATJATI KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA 13520"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "id": 393712,
+      "statistic_num": "502314030024",
+      "name": "PONDOK PESANTREN NURUSSALAM",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 14,
+      "province_name": "RIAU",
+      "address": "JL. PADANG PERMAI RT 1 RW 3 Kel. MENTAYAN Kec. BANTAN BENGKALIS RIAU 28754"
+    },
+    {
+      "id": 436381,
+      "statistic_num": "510014010072",
+      "name": "PPS. PONDOK TAHFIDZ SAINS AL-AZHAR ADDAULY",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 14,
+      "province_name": "RIAU",
+      "address": "jln. mts RT 1 RW 1 Kel. TERANTANG Kec. TAMBANG KAMPAR RIAU 28462"
+    },
+    {
+      "id": 99058,
+      "statistic_num": "510014010077",
+      "name": "PONDOK PESANTREN BAITUSSALAM AL ISLAMI",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 14,
+      "province_name": "RIAU",
+      "address": "Jl. Yuzura Perum. Yuzura RT. 012 RW. 002 RT 12 RW 2 Kel. RIMBO PANJANG Kec. TAMBANG KAMPAR RIAU 28462"
+    },
+    {
+      "id": 150389,
+      "statistic_num": "510014070022",
+      "name": "PONDOK PESANTREN DARUL HADITS WADDA'WAH",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 14,
+      "province_name": "RIAU",
+      "address": "TELUK BANO I RT 28 RW 4 Kel. BANGKO KANAN Kec. BANGKO PUSAKO ROKAN HILIR RIAU 28992"
+    },
+    {
+      "id": 184531,
+      "statistic_num": "510014070024",
+      "name": "PONDOK PESANTREN ELL FIRDAUS JUMRAH",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 14,
+      "province_name": "RIAU",
+      "address": "Jalan Maulana, RT 023, RW 001, Sukamakmur RT 23 RW 1 Kel. JUMRAH Kec. RIMBA MELINTANG ROKAN HILIR RIAU 28953"
+    },
+    {
+      "id": 262897,
+      "statistic_num": "512314030025",
+      "name": "PONDOK PESANTREN MADANI",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 14,
+      "province_name": "RIAU",
+      "address": "JL. BATHIN ALAM GG JAWA RT 005/ RW 003 RT 5 RW 3 Kel. SEI ALAM Kec. BENGKALIS BENGKALIS RIAU 28711"
+    },
+    {
+      "id": 303464,
+      "statistic_num": "512314030027",
+      "name": "PONDOK PESANTREN DAARUL MUSTHOFA ALFAQIH",
+      "jenjang": "-",
+      "status": "inactive",
+      "province_id": 14,
+      "province_name": "RIAU",
+      "address": "JL. PUNGUT LIMA RT 07 RW 01 RT 7 RW 1 Kec. PINGGIR BENGKALIS RIAU 28784"
+    }
+  ]
+}

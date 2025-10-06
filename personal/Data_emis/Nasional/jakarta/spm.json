@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "id": 426806,
+      "statistic_num": "222231750005",
+      "name": "SPM WUSTHA PONDOK PESANTREN DAR UMMAHATIL MUKMININ",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "Batu Kinyang III RT 6 RW 4 Kel. BATU AMPAR Kec. KRAMATJATI KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA 13520"
+    },
+    {
+      "id": 427133,
+      "statistic_num": "232231750003",
+      "name": "SPM ULYA PONDOK PESANTREN DAR UMMAHATIL MUKMININ",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 31,
+      "province_name": "DAERAH KHUSUS IBUKOTA JAKARTA",
+      "address": "Batu Kinyang III RT 6 RW 4 Kel. BATU AMPAR Kec. KRAMATJATI KOTA ADM. JAKARTA TIMUR DAERAH KHUSUS IBUKOTA JAKARTA 13520"
+    }
+  ]
+}

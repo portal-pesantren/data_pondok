@@ -1,0 +1,334 @@
+{
+  "results": [
+    {
+      "id": 326978,
+      "statistic_num": "500013060039",
+      "name": "PONDOK PESANTREN PROF. DR. HAMKA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "KUBU GADANG, JORONG KUKUBAN Kel. MANINJAU Kec. TANJUNG RAYA AGAM SUMATERA BARAT 26471"
+    },
+    {
+      "id": 345673,
+      "statistic_num": "500013750006",
+      "name": "PONDOK PESANTREN SALAFI CAHAYA DIATAS CAHAYA",
+      "jenjang": "Kitab Kuning",
+      "status": "inactive",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JL ANGKU BASA NO.6A Kel. PUHUN TEMBOK Kec. MANDIANGIN K. SELAYAN KOTA BUKITTINGGI SUMATERA BARAT 26124"
+    },
+    {
+      "id": 344829,
+      "statistic_num": "500313060037",
+      "name": "PONDOK PESANTREN TAHFIZ AL-QURAN HAJI NUR ABDULLAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JORONG KAMPUNG IV KENAGARIAN KOTO BARU KECAMATAN BASO Kel. KOTO BARU Kec. BASO AGAM SUMATERA BARAT 26192"
+    },
+    {
+      "id": 304068,
+      "statistic_num": "500313070012",
+      "name": "PONDOK PESANTREN AN NAHL",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "KUBANG TUNGKEK, KEN. GUGUAK VIII KOTO, KEC. GUGUAK, KAB. LIMA PULUH KOTA Kel. GUGUAK VIII KOTO Kec. GUGUAK LIMA PULUH KOTA SUMATERA BARAT 26253"
+    },
+    {
+      "id": 258196,
+      "statistic_num": "500313760009",
+      "name": "Pondok Pesantren Bunayya",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JL. RAFLESIA RT 2 RW 3 Kel. KOTO TANGAH Kec. PAYAKUMBUH BARAT KOTA PAYAKUMBUH SUMATERA BARAT 26223"
+    },
+    {
+      "id": 267352,
+      "statistic_num": "500313770007",
+      "name": "PONDOK PESANTREN MADRASAH TARBIYAH ISLAMIYAH (PPMTI) AL JAMILIYAH PARIAMAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JL. SYEKH MUHAMMAD JAMIL KOMPLEK MESJID RAYA Kel. KAMPUNG PERAK Kec. PARIAMAN TENGAH KOTA PARIAMAN SUMATERA BARAT 25513"
+    },
+    {
+      "id": 424274,
+      "statistic_num": "502313030015",
+      "name": "PONDOK PESANTREN AR-RAHMAN",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JORONG LINTAS HARAPAN, NAGARI PALANGKI, Kel. PALANGKI Kec. IV NAGARI SIJUNJUNG SUMATERA BARAT 27561"
+    },
+    {
+      "id": 266598,
+      "statistic_num": "510013010016",
+      "name": "PONDOK PESANTREN AL MA'RUF",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "Pasar Kambang Kambang Barat RT 1 RW 2 Kel. KAMBANG BARAT Kec. LENGAYANG PESISIR SELATAN SUMATERA BARAT 25663"
+    },
+    {
+      "id": 128423,
+      "statistic_num": "510013020013",
+      "name": "Pondok Modern Darussalam Gontor 9",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "Pondok Modern Darussalam Gontor Kampus 9, Bukit Mandi-Mandian, Jorong Talago Laweh, Nagari Sulit Air Kel. SULIT AIR Kec. X KOTO DIATAS SOLOK SUMATERA BARAT 27355"
+    },
+    {
+      "id": 354253,
+      "statistic_num": "510013040020",
+      "name": "PONDOK PESANTREN DAARUL MUWAHHIDIIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "Jl. Padang Panjang - Bukittinggi KM. 4 Koto Tuo Kel. PANYALAIAN Kec. X KOTO TANAH DATAR SUMATERA BARAT 27151"
+    },
+    {
+      "id": 278492,
+      "statistic_num": "510013050035",
+      "name": "PONDOK PESANTREN DINUL MARUF",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "KAMPUNG TANJUNG Kel. KUDU GANTIANG Kec. V KOTO TIMUR PADANG PARIAMAN SUMATERA BARAT 25575"
+    },
+    {
+      "id": 334238,
+      "statistic_num": "510013050063",
+      "name": "Pondok Pesantren Modern Subulussalam",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "LUBUK PANDAN KAMPUNG PANYALAI Kel. LUBUK PANDAN Kec. 2 X 11 ENAM LINGKUANG PADANG PARIAMAN SUMATERA BARAT 25584"
+    },
+    {
+      "id": 101451,
+      "statistic_num": "510013060040",
+      "name": "PONDOK PESANTREN DAARU TAHFIZ",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JLN. CANGKIANG BATU TABA KEC. AMPEK ANGKEK Kel. BATU TABA Kec. AMPEK ANGKEK AGAM SUMATERA BARAT 26190"
+    },
+    {
+      "id": 108980,
+      "statistic_num": "510013060041",
+      "name": "PONDOK PESANTREN TAHFIZH QUR'AN BAITURRAHMAN",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JORONG KALAMPAIAN KENAGARIAN PAKAN SINAYAN Kel. PAKAN SINAYAN Kec. BANUHAMPU AGAM SUMATERA BARAT 26181"
+    },
+    {
+      "id": 184087,
+      "statistic_num": "510013070014",
+      "name": "PONDOK PESANTREN INSAN CENDEKIA HARAU",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "Jorong Lubuak Limpato RT 3 RW 4 Kel. TARANTANG Kec. HARAU LIMA PULUH KOTA SUMATERA BARAT 26271"
+    },
+    {
+      "id": 420487,
+      "statistic_num": "510013070015",
+      "name": "PONDOK PESANTREN AL-QUR'AN AL-ZAMRIYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JORONG BALAI RUPIH Kel. SIMALANGGANG Kec. PAYAKUMBUH LIMA PULUH KOTA SUMATERA BARAT 26251"
+    },
+    {
+      "id": 134504,
+      "statistic_num": "510013080006",
+      "name": "PONDOK PESANTREN SYEKH IBRAHIM KUMPULAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JL. SYEKH IBRAHIM, KOTO TUO KUMPULAN Kel. KOTO KACIAK Kec. BONJOL PASAMAN SUMATERA BARAT 26381"
+    },
+    {
+      "id": 350082,
+      "statistic_num": "510013100017",
+      "name": "PONDOK PESANTREN TERPADU AS-SYAHADATAIN",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JORONG RANAH JAYA Kel. KOTO GADANG Kec. KOTO BESAR DHARMASRAYA SUMATERA BARAT 27685"
+    },
+    {
+      "id": 97339,
+      "statistic_num": "510013100018",
+      "name": "PONDOK PESANTREN TARBIYATUL ATHFAL",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JL. CENDANA NO.326 C KOTO RANAH KOTO BESAR DHARMASRAYA Kel. KOTO RANAH Kec. KOTO BESAR DHARMASRAYA SUMATERA BARAT 27685"
+    },
+    {
+      "id": 343558,
+      "statistic_num": "510013120029",
+      "name": "YAYASAN PONDOK PESANTREN HMN LIMAU SARING",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JORONG LIMAU SARING NAGARI PARIT Kel. PARIT Kec. KOTO BALINGKA PASAMAN BARAT SUMATERA BARAT 26572"
+    },
+    {
+      "id": 211183,
+      "statistic_num": "510013120032",
+      "name": "PONDOK PESANTREN TERPADU CAHAYA MAKKAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JLN. M. NATSIR PASAMAN BARU Kel. LINGKUANG AUA Kec. PASAMAN PASAMAN BARAT SUMATERA BARAT 26566"
+    },
+    {
+      "id": 405517,
+      "statistic_num": "510013120033",
+      "name": "PONDOK PESANTREN MODERN AL-HIKMAH SUMBARI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JL. H. MUNZIR PADANG RAJO AMPEK KOTO BARAT Kel. KINALI Kec. KINALI PASAMAN BARAT SUMATERA BARAT 26567"
+    },
+    {
+      "id": 204316,
+      "statistic_num": "510013760007",
+      "name": "PONDOK PESANTREN TERPADU INSAN CENDEKIA",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JL. RA KARTINI, PADANG KADUDUK, KELURAHAN TIGO KOTO DIATE Kel. TIGO KOTO DIATE Kec. PAYAKUMBUH UTARA KOTA PAYAKUMBUH SUMATERA BARAT 26218"
+    },
+    {
+      "id": 128817,
+      "statistic_num": "510013770008",
+      "name": "PONDOK PESANTREN AL-MUGHNY KOTA PARIAMAN",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "Jl. Syekh Abdul Arief, Desa Pauh Barat Kel. PAUH BARAT Kec. PARIAMAN TENGAH KOTA PARIAMAN SUMATERA BARAT 25512"
+    },
+    {
+      "id": 378668,
+      "statistic_num": "510313050034",
+      "name": "PONDOK PESANTREN TAHFIZHUL QURAN DARUL IKHLAS TARTIILAA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "Jl. Syekh Burhanuddin, Korong Pasar Ulakan, Kel. ULAKAN Kec. ULAKAN TAPAKIH PADANG PARIAMAN SUMATERA BARAT 25572"
+    },
+    {
+      "id": 308489,
+      "statistic_num": "510313120004",
+      "name": "PONDOK PESANTREN SALAFIYAH BAITUR RAFKI AS SADIYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "Jalan Labuah Tagak-Talao Jorong Tabek Sirah Nagari Talu Kec.Talamau Kel. TALU Kec. TALAMAU PASAMAN BARAT SUMATERA BARAT 26561"
+    },
+    {
+      "id": 290000,
+      "statistic_num": "510313710002",
+      "name": "PONDOK PESANTREN SALAFIYAH TARBIYAH ISLAMIYAH BATANG KABUNG",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JL. TARBIYAH BATANG KABUNG RT 2 RW 2 Kel. BATANG KABUNG GANTING Kec. KOTO TANGAH KOTA PADANG SUMATERA BARAT 25172"
+    },
+    {
+      "id": 88258,
+      "statistic_num": "510313710016",
+      "name": "PONDOK PESANTREN DAR EL-IMAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JL. LORI RT 3 RW 3 Kel. LUBUK MINTURUN Kec. KOTO TANGAH KOTA PADANG SUMATERA BARAT 25175"
+    },
+    {
+      "id": 100391,
+      "statistic_num": "512013020018",
+      "name": "PONDOK PESANTREN DARUL ILMI",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JL. CHINANGKIEK JORONG KUBANG GAJAH NAGARI SINGKARAK Kel. SINGKARAK Kec. X KOTO SINGKARAK SOLOK SUMATERA BARAT 27356"
+    },
+    {
+      "id": 280918,
+      "statistic_num": "512013710010",
+      "name": "PONDOK PESANTREN TARBIYAH ISLAMIYAH PERTI",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JL. BANDAR PURUS NO. 65 PADANG RT 3 RW 3 Kec. PADANG BARAT KOTA PADANG SUMATERA BARAT 25112"
+    },
+    {
+      "id": 191491,
+      "statistic_num": "512130807005",
+      "name": "PONDOK PESANTREN TERPADU DARUL ULUM MUDIK TAMPANG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JALAN MUDIK TAMPANG KENAGARIAN TARUANG-TARUANG KECAMATAN RAO KABUPATEN PASAMAN Kel. TARUANG TARUANG Kec. RAO PASAMAN SUMATERA BARAT 26355"
+    },
+    {
+      "id": 149988,
+      "statistic_num": "512313030014",
+      "name": "PONDOK PESANTREN AS-SALAM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "MUARO LINGGE, JORONG SIBISIR, NAGARI TIMBULUN, KECAMATAN TANJUNG GADANG, KABUPATEN SIJUNJUNG, PROVINSI SUMATERA BARAT Kel. TIMBULUN Kec. TANJUNG GADANG SIJUNJUNG SUMATERA BARAT 27571"
+    },
+    {
+      "id": 348499,
+      "statistic_num": "512313100014",
+      "name": "PONDOK PESANTREN SALAFIYAH AL-MADINATUL MUNAWWAROH DHARMASRAYA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "Jln Perumahan Lawai, Nagari Sitiung Kel. SITIUNG Kec. SITIUNG DHARMASRAYA SUMATERA BARAT 27678"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "id": 256860,
+      "statistic_num": "311213110032",
+      "name": "PONDOK AL-QUR''AN MIFTAHUL ULUM",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "SUNGAI SIRAH Kec. SUNGAI PAGU SOLOK SELATAN SUMATERA BARAT"
+    },
+    {
+      "id": 124269,
+      "statistic_num": "311213110033",
+      "name": "PONDOK AL-QUR''AN AZZAIRAH",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "KAMPUNG NAN LOMO Kec. SUNGAI PAGU SOLOK SELATAN SUMATERA BARAT"
+    },
+    {
+      "id": 318000,
+      "statistic_num": "311213110034",
+      "name": "PONDOK ALQUR.AN JIRATILLAH",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "SUNGAI DURIAN Kel. BOMAS Kec. SUNGAI PAGU SOLOK SELATAN SUMATERA BARAT 27774"
+    },
+    {
+      "id": 161465,
+      "statistic_num": "311213110089",
+      "name": "PONDOK AL-QUR''AN BAITUL UMMAH",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "PINANG AWAN Kel. PAUH DUO NAN BATIGO Kec. PAUH DUO SOLOK SELATAN SUMATERA BARAT 27776"
+    },
+    {
+      "id": 231181,
+      "statistic_num": "311213110090",
+      "name": "PONDOK AL-QUR''AN FASTABIKUL KHAIRAT",
+      "jenjang": "Ula",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "UJUNG JALAN Kel. LUAK KAPAU ALAM PAUH DUO Kec. PAUH DUO SOLOK SELATAN SUMATERA BARAT 27776"
+    }
+  ]
+}

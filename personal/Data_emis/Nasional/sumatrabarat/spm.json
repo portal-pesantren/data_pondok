@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "id": 427821,
+      "statistic_num": "222213020001",
+      "name": "SPM WUSTHA PONDOK PESANTREN MODERN DARUSSALAM KOTO ANAU",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "Jorong Pasar Kel. KOTO GADANG KOTO ANAU Kec. LEMBANG JAYA SOLOK SUMATERA BARAT 27384"
+    },
+    {
+      "id": 449670,
+      "statistic_num": "222213060002",
+      "name": "SPM WUSTHA SPM WUSTHA PONDOK PESANTREN MODERN DINIYYAH PASIA",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "JORONG CIBUAK AMEH PASIA Kel. PASIA Kec. AMPEK ANGKEK AGAM SUMATERA BARAT 26190"
+    },
+    {
+      "id": 428242,
+      "statistic_num": "232213020002",
+      "name": "SPM ULYA PONDOK PESANTREN MODERN DARUSSALAM KOTO ANAU",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "Jorong Pasar Kel. KOTO GADANG KOTO ANAU Kec. LEMBANG JAYA SOLOK SUMATERA BARAT 27384"
+    },
+    {
+      "id": 449669,
+      "statistic_num": "232213060001",
+      "name": "SPM ULYA PONDOK PESANTREN MODERN DINIYYAH PASIA",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 13,
+      "province_name": "SUMATERA BARAT",
+      "address": "CIBUAK AMEH AGAM SUMATERA BARAT 26191"
+    }
+  ]
+}
