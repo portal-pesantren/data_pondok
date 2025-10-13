@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "id": 440266,
+      "statistic_num": "411261129029",
+      "name": "Yayasan Pondok Santri Sehati al-Mubarak",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "Parit H Muksin2 RT 3 RW 9 Kec. TERENTANG KUBU RAYA KALIMANTAN BARAT 00000"
+    },
+    {
+      "id": 440964,
+      "statistic_num": "411261710064",
+      "name": "PONDOK ABDURRAHMAN",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "Jl. 28 Oktober, Gg Kurnia Dalam RT 3 RW 31 Kel. SIANTAN HULU Kec. PONTIANAK UTARA KOTA PONTIANAK KALIMANTAN BARAT 78241"
+    }
+  ]
+}

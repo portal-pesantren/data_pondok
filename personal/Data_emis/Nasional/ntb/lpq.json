@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "id": 294989,
+      "statistic_num": "411252031430",
+      "name": "TPQ PONDOK RADEN",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "PEMOYAK DUSUN MAMPE DESA WAKAN KEC. JEROWARU LOMBOK TIMUR NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 290317,
+      "statistic_num": "411252040647",
+      "name": "PONDOK AL-QUR''AN",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "KEBAYAN KEL. BRANG BIJI RT. 001 RW. 012 Kec. SUMBAWA SUMBAWA NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 404815,
+      "statistic_num": "411252040873",
+      "name": "PONDOK AL - QURAN KEBAYAN",
+      "jenjang": "TPQ",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Kebayan Kelurahan Brang Biji RT 1 RW 12 Kec. SUMBAWA SUMBAWA NUSA TENGGARA BARAT 00000"
+    }
+  ]
+}

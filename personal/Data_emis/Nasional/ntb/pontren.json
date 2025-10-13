@@ -1,0 +1,908 @@
+{
+  "version": 1,
+  "message": "",
+  "success": true,
+  "errors": null,
+  "metadata": {
+    "pagination": {
+      "per_page": 10,
+      "total": 89,
+      "current_page": 1,
+      "last_page": 9,
+      "next_page_url": "https://api-emis.kemenag.go.id/v1/institutions/pontren/search-all-data?institution_group_id=1&search_type=institution&q=pondok&per_page=10&recaptcha=0cAFcWeA7mICNdiEVUrKsZvQ6_42qAmcOQ0cxCnYQfULLdwKdqEpKX8GMdZYTGSOyyCzX-okLBXVLQ6GcUymt8GgpXT6cQ-gXpPZtniGaviW06stjdNCywNavyoJE7FYG0ZIZpsS-sCY4uKQRVDAZuE7asHAXBUVc4WOlnxK3J0rJ-Mm1klkfIy378zRg3sVRD5ddu5XLQATd90VO5zri8w-jDEZG8Dq1DA66Sl11gp2qGcWTI1goMFweb66K1o8iNYUbmo6Ybsr2krM2pWclpgriSjxQEGmQ6QsXrsq1QD75du1L-iyUbVTGT0lnYQA2nfmslbscwNXvT2mZmoDjdpHTDsrVU55MSzTdbgf_fJsygd2YRirF5Fo2VyOtZj6i3cME4J-A3zyBqfEXNtGSwXqFZZEBj7L9qgrbDOcU3S6iGHx23XBUt3DyAv6RTm3VKxBO7EAH8dCj12X6jfKKCx5jltKTfnAGtZR9JdjWMTpDcWNFYAStCG_94UKyzGhIHVzsnbcjX4FKmW9p-tWSvrE_1cmvidLbDrmjZZiLpvCi8lP34mMPxO4Eo2VK-6-chFZtJDbieX-w9OiLpYYVJmpdk9itN6q6Q4_Bza7b6NF80Y9NBNuaZpcZd7o7aylyRprcu-uby-z8ZdAp0luZQ0Yk_OtKnOwZevDCxJHuE0dEBLfde2mazt5rzRvlf9qxOUi_WYbEGKRiiXori5BGeLd61JtFGBq7ShM3gCEbuKJxvXuI1zBa1q9JwzoBynG79ex45jfIfvqkuRPHwDVFRaRHvJhP6roC2yu_iDqQJFW82cse0QKoERuLVXVHAn3vIc-gvXYSmyhHk-E7lZDevVVuiZoCtgSv_8g&province_id=52&page=2",
+      "prev_page_url": null
+    }
+  },
+  "results": [
+    {
+      "id": 102157,
+      "statistic_num": "500352010103",
+      "name": "PONDOK PESANTREN SMP LENTERAHATI ISLAMIC BOARDING SCHOOL",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jl. Ireng Jaya, Desa Jatisela - Kec. Gunung Sari - Kab. Lombok Barat - NTB Kel. JATISELA Kec. GUNUNGSARI LOMBOK BARAT NUSA TENGGARA BARAT 83351"
+    },
+    {
+      "id": 271878,
+      "statistic_num": "500352020242",
+      "name": "PONDOK PESANTREN ABUL BAROKAT WANNAFAHAT NW",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DESA BUNKATE KECAMATAN  JONGGAT Kec. JONGGAT LOMBOK TENGAH NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 245494,
+      "statistic_num": "500352030199",
+      "name": "PONDOK PESANTREN ANAS BIN MALIK LOMBOK",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "BEBIDAS RT 4 RW 3 Kel. BEBIDAS Kec. WANASABA LOMBOK TIMUR NUSA TENGGARA BARAT 83653"
+    },
+    {
+      "id": 174216,
+      "statistic_num": "500352030224",
+      "name": "YAYASAN PONDOK PESANTREN \" MIFTAHUL ABROR \" NW PEJERUK",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JlnRaya Pendidikan Mahsar Mawazir PejerukM200 RT 1 RW 1 Kec. JEROWARU LOMBOK TIMUR NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 388971,
+      "statistic_num": "500352040018",
+      "name": "PONDOK PESANTREN AL-MAJIDIYAH NW SUMBAWA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jalan Lintas Sumbawa - Moyo KM 07 Kel. MOYO Kec. MOYO HILIR SUMBAWA NUSA TENGGARA BARAT 84381"
+    },
+    {
+      "id": 335959,
+      "statistic_num": "500352080028",
+      "name": "PONDOK PESANTREN MINHAJUSH SHOHABAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JL. TODO KM 1, DUSUN KARANG LENDANG RT 1 RW 1 Kel. BENTEK Kec. GANGGA LOMBOK UTARA NUSA TENGGARA BARAT 83353"
+    },
+    {
+      "id": 116190,
+      "statistic_num": "500352080034",
+      "name": "PONDOK PESANTREN DARUL MUTTAQIN DASAN TERENG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DUSUN DASAN TERENG RT 3 RW 8 Kel. GUMANTAR Kec. KAYANGAN LOMBOK UTARA NUSA TENGGARA BARAT 83353"
+    },
+    {
+      "id": 173012,
+      "statistic_num": "502352010143",
+      "name": "PONDOK PESANTREN ISHLAAH AL-UMMAH BATU MULIK",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jalan Telaga Emas Nomor 02 Dusun Batu Mulik Desa Gapuk Kecamatan Gerung Kec. GERUNG LOMBOK BARAT NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 283232,
+      "statistic_num": "502352020245",
+      "name": "PONDOK PESANTREN AN-NURU ALAN NURI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "PENGEMBUR DESA PENGEMBUR KECAMATAN PUJUT Kec. PUJUT LOMBOK TENGAH NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 166074,
+      "statistic_num": "502352020258",
+      "name": "PONDOK PESANTREN BAROKATUL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Tamping Kec. JONGGAT LOMBOK TENGAH NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 410881,
+      "statistic_num": "502352020268",
+      "name": "YAYASAN PENDIDIKAN PONDOK PESANTREN AL ISHLAHUL MUTTAQIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "ALUNG,DESA MEKAR DAMAI,KEC. PRAYA Kec. PRAYA LOMBOK TENGAH NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 224204,
+      "statistic_num": "502352030217",
+      "name": "PONDOK PESANTREN AL-MUBAROK NW SEMBALUN TIMBA GADING",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Dasan Tengak Desa Sembalun Timba Gading Kec. Sembalun RT 1 RW 2 Kec. SEMBALUN LOMBOK TIMUR NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 428493,
+      "statistic_num": "502352030219",
+      "name": "YAYASAN PONDOK PESANTREN NURUL AZHAR",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "sukadana terara Kel. SUKADANA Kec. TERARA LOMBOK TIMUR NUSA TENGGARA BARAT 83663"
+    },
+    {
+      "id": 215422,
+      "statistic_num": "502352060046",
+      "name": "Pondok Pesantren Al Iman",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JLN. LINTAS TENTE-PARADO RT 13 RW 1 Kel. SIMPASAI Kec. MONTA BIMA NUSA TENGGARA BARAT 84172"
+    },
+    {
+      "id": 324719,
+      "statistic_num": "502352060104",
+      "name": "PONDOK PESANTREN AL-KARAMAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JL. OMPU KARA DUSUN OI LANCO DESA KARUMBU KEC. LANGGUDU KAB. BIMA RT 2 RW 1 Kel. KARUMBU Kec. LANGGUDU BIMA NUSA TENGGARA BARAT 84181"
+    },
+    {
+      "id": 372262,
+      "statistic_num": "502352080025",
+      "name": "YAYASAN PONDOK PESANTREN SYIFA'UNNUFUS NW SAMBIK ELEN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DUSUN SAMBIK ELEN 1 DESA SAMBIK ELEN RT 2 RW 2 Kel. SAMBIK ELEN Kec. BAYAN LOMBOK UTARA NUSA TENGGARA BARAT 83354"
+    },
+    {
+      "id": 423180,
+      "statistic_num": "502352080031",
+      "name": "PONDOK PESANTREN AL-FATIH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DUSUN GONDANG TIMUR RT 2 RW 1 Kec. GANGGA LOMBOK UTARA NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 371658,
+      "statistic_num": "510052010028",
+      "name": "Pondok Pesantren Al Amin Gersik",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jl. TGH Abdul Karim Gersik Desa Gelogor RT 2 Kec. KEDIRI LOMBOK BARAT NUSA TENGGARA BARAT 83362"
+    },
+    {
+      "id": 88757,
+      "statistic_num": "510052010145",
+      "name": "YAYASAN PONDOK PESANTREN TAHFIDZUL QURAN SAIFUDDIN JAFAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Desa gontoran Kecamatan Lingsar Kec. LINGSAR LOMBOK BARAT NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 147685,
+      "statistic_num": "510052010148",
+      "name": "PONDOK PESANTREN FAIDHUL HIKAM NAHDLATUL WATHAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Dusun Perengge Luah Kel. KURIPAN UTARA Kec. KURIPAN LOMBOK BARAT NUSA TENGGARA BARAT 83362"
+    },
+    {
+      "id": 420989,
+      "statistic_num": "510052010151",
+      "name": "YAYASAN PONDOK PESANTREN AL-MIFTAHUL KHAIRAT",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Medain Barat Desa Badrain RT 5 Kel. BADRAIN Kec. NARMADA LOMBOK BARAT NUSA TENGGARA BARAT 83371"
+    },
+    {
+      "id": 215136,
+      "statistic_num": "510052010156",
+      "name": "PONDOK PESANTREN TAHFIZHUL QUR'AN KHADIJAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jl. Bumi Raya Perumahan BHP LOMBOK BARAT NUSA TENGGARA BARAT 83361"
+    },
+    {
+      "id": 369676,
+      "statistic_num": "510052020038",
+      "name": "PENDIDIKAN PONDOK PESANTREN DAN SOSIAL ATTOHIRIYAH ALFADILIYAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jln.Raya Praya Mantang Km-7 Bodak Kec. PRAYA LOMBOK TENGAH NUSA TENGGARA BARAT 83511"
+    },
+    {
+      "id": 202943,
+      "statistic_num": "510052020137",
+      "name": "PONDOK PESANTREN AL-IRSYAD AL-ISLAMIYAH GENTANG",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JL. GUNUNG TELE DUSUN GENTANG Kec. PUJUT LOMBOK TENGAH NUSA TENGGARA BARAT 83573"
+    },
+    {
+      "id": 359211,
+      "statistic_num": "510052020180",
+      "name": "Yayasan Pondok Pesantren Raudhatul Hikam NW (",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Banyu Urip Kec. PRAYA BARAT LOMBOK TENGAH NUSA TENGGARA BARAT 83572"
+    },
+    {
+      "id": 330282,
+      "statistic_num": "510052020252",
+      "name": "PONDOK PESANTREN NURUL IHSAN NW TILAWAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "TILAWAH, DUSUN GUNUNG PETUNG Kec. BATUKLIANG LOMBOK TENGAH NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 321425,
+      "statistic_num": "510052020280",
+      "name": "PONDOK PESANTREN AL-BUKHARI LOMBOK",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "LINGKUNGAN PANCOR RT 3 RW 2 Kel. SEMAYAN Kec. PRAYA LOMBOK TENGAH NUSA TENGGARA BARAT 83512"
+    },
+    {
+      "id": 412260,
+      "statistic_num": "510052020282",
+      "name": "YAYASAN PONDOK PESANTREN HUBBUL JIRON NW PRINGGARATA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "PRINGGARATA BARAT Kec. PRINGGARATA LOMBOK TENGAH NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 165801,
+      "statistic_num": "510052020283",
+      "name": "YAYASAN PONDOK PESANTREN SYARIF IMAMUZZAHIDIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DUSUN KLANJUH Kec. BATUKLIANG LOMBOK TENGAH NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 310698,
+      "statistic_num": "510052020285",
+      "name": "PONDOK PESANTREN AL-PANDANY",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "PEPANDAN DESA TANAK RARANG KEC. PRAYA BARAT Kel. TANAK RARANG Kec. PRAYA BARAT LOMBOK TENGAH NUSA TENGGARA BARAT 83572"
+    },
+    {
+      "id": 164776,
+      "statistic_num": "510052020286",
+      "name": "PONDOK PESANTREN AL-MA'ARIF NU ATQIA SINAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DUSUN SINAH DESA PENGEMBUR KECAMATAN PUJUT Kel. PENGEMBUR Kec. PUJUT LOMBOK TENGAH NUSA TENGGARA BARAT 83573"
+    },
+    {
+      "id": 264309,
+      "statistic_num": "510052020288",
+      "name": "YAYASAN PONDOK PESANTREN WARASATUL ANBIYA'",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JALAN.TGH MAKMUN 01 DESA SISIK Kec. PRINGGARATA LOMBOK TENGAH NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 325560,
+      "statistic_num": "510052020289",
+      "name": "PONDOK PESANTREN NURUL MADINAH NW REPOK ASMARI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "REPOK ASMARI, DUSUN MONGGAS I, DESA MONGGAS Kel. MONGGAS Kec. KOPANG LOMBOK TENGAH NUSA TENGGARA BARAT 83553"
+    },
+    {
+      "id": 232698,
+      "statistic_num": "510052020290",
+      "name": "PONDOK PESANTREN SALAFIYAH AL-AZHARIYAH DARUL MUHIBBIN NW",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JALAN TGH. LOPAN NO.38 MISPALAH Kec. PRAYA LOMBOK TENGAH NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 160307,
+      "statistic_num": "510052020294",
+      "name": "YAYASAN PONDOK PESANTREN AL-MA'ARIF NURUL HUDA DANGAH PANDAN INDAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Dangah pandan indah Kel. PANDAN INDAH Kec. PRAYA BARAT DAYA LOMBOK TENGAH NUSA TENGGARA BARAT 83571"
+    },
+    {
+      "id": 205037,
+      "statistic_num": "510052020295",
+      "name": "PONDOK PESANTREN WAL-YATALATTOF",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Mujur RT 1 RW 1 Kel. MUJUR Kec. PRAYA TIMUR LOMBOK TENGAH NUSA TENGGARA BARAT 83581"
+    },
+    {
+      "id": 151486,
+      "statistic_num": "510052020298",
+      "name": "PONDOK PESANTREN RIYADUL MUKHLISIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jalan Guru Halimah Desa Sukaraja Kel. SUKARAJA Kec. PRAYA TIMUR LOMBOK TENGAH NUSA TENGGARA BARAT 83581"
+    },
+    {
+      "id": 436411,
+      "statistic_num": "510052030226",
+      "name": "PONDOK PESANTREN SYAIKH IBRAHIM MUHAMMAD AL-BATTHAWI NW KERONGKONG",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JL. GANG GANANG RT.01 BONGKEMALIK LOMBOK TIMUR NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 116280,
+      "statistic_num": "510052030227",
+      "name": "PONDOK PESANTREN  MA'ARIF JAM'IYATUL ISLAMIYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Dasan Baru Utara Kec. SURALAGA LOMBOK TIMUR NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 316453,
+      "statistic_num": "510052030228",
+      "name": "PONDOK PESANTREN MUSLIHAN NURI AL-HASANY AL-BARRU",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DASAN BARU SELATAN RT 15 Kec. SURALAGA LOMBOK TIMUR NUSA TENGGARA BARAT 83652"
+    },
+    {
+      "id": 228302,
+      "statistic_num": "510052030229",
+      "name": "PONDOK PESANTREN ITTIHADUL UMMAH AL-AKBAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jln. Wirangbaya Lenek Kel. LENEK Kec. LENEK LOMBOK TIMUR NUSA TENGGARA BARAT 83653"
+    },
+    {
+      "id": 177320,
+      "statistic_num": "510052030230",
+      "name": "YAYASAN PONDOK PESANTREN ARROBBANI WANASABA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DUSUN KARANG ASEM DESA WANASABA DAYA Kel. WANASABA DAYA Kec. WANASABA LOMBOK TIMUR NUSA TENGGARA BARAT 83653"
+    },
+    {
+      "id": 379422,
+      "statistic_num": "510052030231",
+      "name": "PONDOK PESANTREN MAFAZA NW MENAK",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DASAN MENAK DESA KALIJAGA SELATAN KEC. AIKMEL RT 3 Kec. AIKMEL LOMBOK TIMUR NUSA TENGGARA BARAT 83653"
+    },
+    {
+      "id": 123383,
+      "statistic_num": "510052030232",
+      "name": "PONDOK PESANTREN NAHDLATUL WATHAN PANGSOR GUNUNG",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jl.Pariwisata Gunung Rinjani No 1 Sembalun Bumbung RT 1 RW 1 Kel. SEMBALUN BUMBUNG Kec. SEMBALUN LOMBOK TIMUR NUSA TENGGARA BARAT 83656"
+    },
+    {
+      "id": 417285,
+      "statistic_num": "510052030233",
+      "name": "PONDOK PESANTREN SA'ADATUL ISTIQOMAH NW BEBURUNG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DUSUN BEBURUNG DESA MADAYIN Kel. MADAYIN Kec. SAMBELIA LOMBOK TIMUR NUSA TENGGARA BARAT 83656"
+    },
+    {
+      "id": 380300,
+      "statistic_num": "510052030234",
+      "name": "PONDOK PESANTREN AL-ANSHOR NW PUNCAK JERINGO",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DUSUN PESIRINGAN DESA PUNCAK JERINGO RT 1 Kel. PUNCAK JERINGO Kec. SUWELA LOMBOK TIMUR NUSA TENGGARA BARAT 83654"
+    },
+    {
+      "id": 238457,
+      "statistic_num": "510052030236",
+      "name": "PONDOK PESANTREN TARBIYATUSSIBYAN AL-MANNAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JALAN SORDANG KORLEKO DESA LENEK LAUK RT 1 Kel. LENEK LAUK Kec. LENEK LOMBOK TIMUR NUSA TENGGARA BARAT 83653"
+    },
+    {
+      "id": 173907,
+      "statistic_num": "510052030240",
+      "name": "YAYASAN PONDOK TAHFIZ BAQIYATUSSALAF",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jln. Raya Santri, Kampung Montor Sugia, Desa Toya Kec. Aikmel, Kab. Lombok Timur-NTB RT 1 RW 1 Kel. TOYA Kec. AIKMEL LOMBOK TIMUR NUSA TENGGARA BARAT 83653"
+    },
+    {
+      "id": 403452,
+      "statistic_num": "510052030241",
+      "name": "PONDOK PESANTREN AL BAROKAT NW JERAEN SEPIT",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jeraen Dusun Kebun Jeruk Kec. KERUAK LOMBOK TIMUR NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 95509,
+      "statistic_num": "510052040017",
+      "name": "PONDOK PESANTREN ROHMATAN LIL-ALAMIN  ALAS",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DUSUN PABRIK DESA GONTAR BARU RT 2 RW 3 Kel. GONTAR BARU Kec. ALAS BARAT SUMBAWA NUSA TENGGARA BARAT 84353"
+    },
+    {
+      "id": 194734,
+      "statistic_num": "510052060049",
+      "name": "PONDOK PESANTREN DARURRAIHAN SONAO BIMA",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jl. Lintas Pantura Dusun Sonao Desa Punti Kec. Soromandi Kabupaten Bima RT 3 RW 4 Kel. PUNTI Kec. SOROMANDI BIMA NUSA TENGGARA BARAT 84162"
+    },
+    {
+      "id": 216526,
+      "statistic_num": "510052060102",
+      "name": "PONDOK MODERN BAITURRAHMAN",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "inactive",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "SONDOSIA BOLO RT 1 RW 1 BIMA NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 99951,
+      "statistic_num": "510052070009",
+      "name": "PONDOK PESANTREN SUNAN KALIMATI",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jl.Lasap No.10 Lingk.Menala Kel.Menala RT 1 RW 1 Kel. MENALA Kec. TALIWANG SUMBAWA BARAT NUSA TENGGARA BARAT 84455"
+    },
+    {
+      "id": 254050,
+      "statistic_num": "510052080035",
+      "name": "PONDOK PESANTREN SALAFIYAH SYAFI'IYAH AL-MUTTAQIY NW",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Dusun Santong Timur Desa Santong RT 3 RW 1 Kel. SANTONG Kec. KAYANGAN LOMBOK UTARA NUSA TENGGARA BARAT 83353"
+    },
+    {
+      "id": 237202,
+      "statistic_num": "510052710026",
+      "name": "PONDOK PESANTREN NURUL ISLAM SEKARBELA",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JLN. SWASEMBADA IX KEKALIK RT 6 RW 172 Kel. KARANG PULE Kec. SEKARBELA KOTA MATARAM NUSA TENGGARA BARAT 83116"
+    },
+    {
+      "id": 398244,
+      "statistic_num": "510052710027",
+      "name": "PONDOK PESANTREN BUKIT QUR'AN NUSANTARA",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JLN. GILI AIR I BLOK A1 NO. 5 RT 3 Kec. AMPENAN KOTA MATARAM NUSA TENGGARA BARAT 83118"
+    },
+    {
+      "id": 368278,
+      "statistic_num": "510052710031",
+      "name": "PONDOK PESANTREN NUR 'AISYAH SULAIMANIYAH LOMBOK",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JL. MERDEKA RAYA GG DARUSSALAM NO. 7 Kec. SEKARBELA KOTA MATARAM NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 262301,
+      "statistic_num": "510052710032",
+      "name": "YAYASAN PONDOK PESANTREN TAHFIDZUL QUR'AN DARUL WAFA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jalan Lestari Gang Cendana II Ampenan Mataram RT 3 RW 2 Kec. AMPENAN KOTA MATARAM NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 184894,
+      "statistic_num": "510052710033",
+      "name": "PONDOK PESANTREN TAHFIDZ RIYADLUL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jl. Aneka 2 No. 14 Lingkungan Muhajirin RT 4 Kel. DASAN AGUNG Kec. SELAPRANG KOTA MATARAM NUSA TENGGARA BARAT 83125"
+    },
+    {
+      "id": 443000,
+      "statistic_num": "510252030271",
+      "name": "Pondok Pesantren Darul Mujahidin Nw Majidi",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "RT 27, Lingkungan Majidi, Kelurahan Majidi, Kecamatan Selong, Kabupaten Lombok Timur. RT 27 Kel. MAJIDI Kec. SELONG LOMBOK TIMUR NUSA TENGGARA BARAT 83619"
+    },
+    {
+      "id": 442996,
+      "statistic_num": "510252040020",
+      "name": "Pondok Pesantren Almubarok",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "jl.diponegoro no.40, RT/01 RW/011 Kel.Bugis SUMBAWA NUSA TENGGARA BARAT 84313"
+    },
+    {
+      "id": 442997,
+      "statistic_num": "510252080038",
+      "name": "Pondok Moderen Internasional Nahdlatul Tujjar",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jl. Sesait-batu jompang,No. 1, 01, Lokok Ara LOMBOK UTARA NUSA TENGGARA BARAT 83356"
+    },
+    {
+      "id": 351733,
+      "statistic_num": "510352010103",
+      "name": "PONDOK PESANTREN DARUSSALAM TANAK BEAK",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jl. Resani No.99 Tanak Beak Barat Kec. Narmada Kab. Lombok Barat Kel. TANAK BEAK Kec. NARMADA LOMBOK BARAT NUSA TENGGARA BARAT 83371"
+    },
+    {
+      "id": 356375,
+      "statistic_num": "510352010105",
+      "name": "PONDOK PESANTREN AL-MA'ARIF ASY-SYAFI'I QAMARUL HUDA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Karang Taliwang Desa Dasan Tereng Kec. Narmada Kab. Lombok Barat Kec. NARMADA LOMBOK BARAT NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 366832,
+      "statistic_num": "510352010142",
+      "name": "PONDOK PESANTREN SYAIKH ZAINUDDIN ATSANI NW",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jln. Dusun Dasan Utama Desa Sesela Kec. Gunungsari Lombok Barat NTB Kel. SESELE Kec. GUNUNGSARI LOMBOK BARAT NUSA TENGGARA BARAT 83351"
+    },
+    {
+      "id": 335032,
+      "statistic_num": "510352020233",
+      "name": "PONDOK PESANTREN RIYADLUL 'ULUM MENTOKAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DUSUN MENTOKAN DESA DAREK KEC. PRAYA BARAT DAYA KAB. LOMBOK TENGAH PROV. NUSA TENGGARA BARAT Kec. PRAYA BARAT DAYA LOMBOK TENGAH NUSA TENGGARA BARAT 83571"
+    },
+    {
+      "id": 394736,
+      "statistic_num": "510352020235",
+      "name": "PONDOK PESANTREN IRHAMNA BIL QUR`AN NW",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JLN. PRAYA - MANTANG KM 07 - DUSUN AIKMUAL LAUQ - DESA AIKMUAL - KECAMATAN PRAYA - KABUPATEN LOMBOK TENGAH - NTB RT 3 Kel. AIK MUAL Kec. PRAYA LOMBOK TENGAH NUSA TENGGARA BARAT 83511"
+    },
+    {
+      "id": 421953,
+      "statistic_num": "510352020248",
+      "name": "PONDOK PESANTREN SIRAJUL HUDA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JL. BATU PENUMPU DUSUN REPOK SINTUNG Kec. PRINGGARATA LOMBOK TENGAH NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 277131,
+      "statistic_num": "510352020254",
+      "name": "PONDOK PESANTREN ATTUHFATUL MONGGASIYYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "MERTAK NAO DESA MONGGAS KEC.KOPANG Kel. MONGGAS Kec. KOPANG LOMBOK TENGAH NUSA TENGGARA BARAT 83553"
+    },
+    {
+      "id": 129248,
+      "statistic_num": "510352020256",
+      "name": "YAYASAN PONDOK PESANTREN SIRAJUL HUDA PAOK DANDAK",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DESA DURIAN JANAPRIA LOMBOK TENGAH RT 1 RW 1 Kec. JANAPRIA LOMBOK TENGAH NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 396532,
+      "statistic_num": "510352020259",
+      "name": "PONDOK PESANTREN DARUL HAMIDIY NW IWAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DUSUN IWAN DESA DARMAJI KECAMATAN KOPANG Kel. DARMAJI Kec. KOPANG LOMBOK TENGAH NUSA TENGGARA BARAT 83553"
+    },
+    {
+      "id": 393272,
+      "statistic_num": "510352020264",
+      "name": "PONDOK PESANTREN DARUT THAYYIBIN NW",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JALAN LINTAS BENDUNGAN PENGGA NO 3 DESA BATUJAI KECAMATAN PERAYA BARAT KABUPATEN LOMBOK TENGAH RT 1 RW 1 Kel. BATUJAI Kec. PRAYA BARAT LOMBOK TENGAH NUSA TENGGARA BARAT 83572"
+    },
+    {
+      "id": 122974,
+      "statistic_num": "510352020267",
+      "name": "PONDOK PESANTREN DARUL HIKMAH AZZIKRI NW PRINGGARATA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "PRINGGARATA BARAT UTARA Kel. PRINGARATA Kec. PRINGGARATA LOMBOK TENGAH NUSA TENGGARA BARAT 83562"
+    },
+    {
+      "id": 245979,
+      "statistic_num": "510352020274",
+      "name": "YAYASAN PONDOK PESANTREN AL - HASANIYAH NW TUNDUNG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "TUNDUNG DESA MANTANG KECAMATAN BATUKLIANG RT 1 RW 16 Kel. MANTANG Kec. BATUKLIANG LOMBOK TENGAH NUSA TENGGARA BARAT 83552"
+    },
+    {
+      "id": 172222,
+      "statistic_num": "510352030195",
+      "name": "YAYASAN PONDOK PESANTREN HASAN AL-MASSYATH NW GUNUNG SESANG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JL. LALU MUHAMMAD ALI GUNUNG SESANG Kel. LANDO Kec. TERARA LOMBOK TIMUR NUSA TENGGARA BARAT 83663"
+    },
+    {
+      "id": 112009,
+      "statistic_num": "510352030196",
+      "name": "YAYASAN PONDOK PESANTREN DAARUNNIYAH ASSA'IDA NW PANCOR MANIS",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JALAN RAYA GELANG DUSUN PANCOR MANIS Kel. DASAN LEKONG Kec. SUKAMULIA LOMBOK TIMUR NUSA TENGGARA BARAT 83652"
+    },
+    {
+      "id": 397888,
+      "statistic_num": "510352030209",
+      "name": "PONDOK PESANTREN TAHFIZ TAHZIBUL AKHLAK NW",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "BAMPAK DESA BAGEKPAPAN KECAMATAN PRINGGABAYA RT 1 RW 1 Kel. BAGIK PAPAN Kec. PRINGGABAYA LOMBOK TIMUR NUSA TENGGARA BARAT 83654"
+    },
+    {
+      "id": 423803,
+      "statistic_num": "510352080027",
+      "name": "PONDOK PESANTREN AS-SA'IDIYAH PENJALIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DUSUN PENJALIN RT 1 RW 1 Kel. SIGAR PENJALIN Kec. TANJUNG LOMBOK UTARA NUSA TENGGARA BARAT 83352"
+    },
+    {
+      "id": 411604,
+      "statistic_num": "510352080030",
+      "name": "PONDOK PESANTREN MAMBA'UL BAYAN NW",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "MEKAR SARI DESA MUMBUL SARI KEC. BAYAN RT 1 Kel. MUMBUL SARI Kec. BAYAN LOMBOK UTARA NUSA TENGGARA BARAT 83354"
+    },
+    {
+      "id": 238987,
+      "statistic_num": "510352080033",
+      "name": "PONDOK PESANTREN SYAIKH ZAINUDDIN NW LOMBOK UTARA",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DUSUN TANAK SONG Kel. JENGGALA Kec. TANJUNG LOMBOK UTARA NUSA TENGGARA BARAT 83352"
+    },
+    {
+      "id": 324677,
+      "statistic_num": "512352010139",
+      "name": "PONDOK PESANTREN IMAM AL BUKHARY",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JALAN TGH ABDUSSHAMAD DASAN TAPEN RT 3 RW 2 Kel. DASAN TAPEN Kec. GERUNG LOMBOK BARAT NUSA TENGGARA BARAT 83363"
+    },
+    {
+      "id": 421454,
+      "statistic_num": "512352020260",
+      "name": "YAYASAN PONDOK PESANTREN SYAMSUL HUDA PERESAK",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "PERESAK DESA SEPAKEK RT 1 RW 1 Kel. SEPAKEK Kec. PRINGGARATA LOMBOK TENGAH NUSA TENGGARA BARAT 83562"
+    },
+    {
+      "id": 160715,
+      "statistic_num": "512352020262",
+      "name": "YAYASAN PONDOK PESANTREN AL-FATHIYAH YASIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Dasan Baru Jabon Selatan Kel. PRINGARATA Kec. PRINGGARATA LOMBOK TENGAH NUSA TENGGARA BARAT 83562"
+    },
+    {
+      "id": 280003,
+      "statistic_num": "512352020273",
+      "name": "YAYASAN PONDOK PESANTREN DARUL ATQIA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DUSUN EMBUNG DUDUK, JL. GURU YUSUF, RT. 06 RT 6 RW 1 Kel. LABULIA Kec. JONGGAT LOMBOK TENGAH NUSA TENGGARA BARAT 83561"
+    },
+    {
+      "id": 312592,
+      "statistic_num": "512352020275",
+      "name": "PONDOK PESANTREN AT-TIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "PESANGGARAHAN, BATU KELIANG, LOMBOK TENGAH Kec. BATUKLIANG LOMBOK TENGAH NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 239598,
+      "statistic_num": "512352020279",
+      "name": "YAYASAN PONDOK PESANTREN DAARUL MUSTHOFA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "KELURAHAN GERUNUNG KECAMATAN PRAYA Kec. PRAYA LOMBOK TENGAH NUSA TENGGARA BARAT"
+    },
+    {
+      "id": 99439,
+      "statistic_num": "512352030207",
+      "name": "PONDOK PESANTREN MANARUL QUR'AN SUKAREMA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "JL.JURUSAN SORDANG -KOARLEKO DESA SUKAREMA RT 2 Kec. AIKMEL LOMBOK TIMUR NUSA TENGGARA BARAT 83653"
+    },
+    {
+      "id": 122029,
+      "statistic_num": "512352030208",
+      "name": "YAYASAN PONDOK PESANTREN MIFTAHUL KHAIRAT NW",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "MUHAJIRIN BATU BAWI Kec. JEROWARU LOMBOK TIMUR NUSA TENGGARA BARAT 83672"
+    },
+    {
+      "id": 202381,
+      "statistic_num": "512352080032",
+      "name": "PONDOK PESANTREN ISHLAHUL UMMAH NW",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "DUSUN PAOK REMPEK RT 2 Kel. GENGGELANG Kec. GANGGA LOMBOK UTARA NUSA TENGGARA BARAT 83353"
+    }
+  ]
+}

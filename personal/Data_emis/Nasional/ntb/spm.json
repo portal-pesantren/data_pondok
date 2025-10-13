@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "id": 427659,
+      "statistic_num": "222252080001",
+      "name": "SPM WUSTHA PONDOK PESANTREN NURUL BAYAN",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jl. Raya Tanjung-Bayan Km. 40 Dusun Telaga Bagek RT 4 Kel. ANYAR Kec. BAYAN LOMBOK UTARA NUSA TENGGARA BARAT 83354"
+    },
+    {
+      "id": 426904,
+      "statistic_num": "222252080003",
+      "name": "SPM WUSTHA PONDOK PESANTREN AL-HIKMAH PEMENANG",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jalan Raya Pemenang-Senggigi Kel. PEMENANG BARAT Kec. PEMENANG LOMBOK UTARA NUSA TENGGARA BARAT 83352"
+    },
+    {
+      "id": 427596,
+      "statistic_num": "232252080002",
+      "name": "SPM ULYA PONDOK PESANTREN NURUL BAYAN",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jl. Tanjung - Bayan KM. 40 Telaga Bagek Desa Anyar RT 1 Kel. ANYAR Kec. BAYAN LOMBOK UTARA NUSA TENGGARA BARAT 83354"
+    },
+    {
+      "id": 428584,
+      "statistic_num": "232252080004",
+      "name": "SPM ULYA PONDOK PESANTREN AL-HIKMAH PEMENANG",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jalan Raya Pemenang-Senggigi, desa pemenang barat Kel. PEMENANG BARAT Kec. PEMENANG LOMBOK UTARA NUSA TENGGARA BARAT 83352"
+    }
+  ]
+}

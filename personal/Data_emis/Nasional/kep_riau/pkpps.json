@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "id": 279863,
+      "statistic_num": "510021040008",
+      "name": "Pondok Pesantren Halimatussa`diyah",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "Jln. Pemandian Air Panas RT 1 RW 1 Kel. BERINDAT Kec. SINGKEP PESISIR LINGGA KEPULAUAN RIAU 29871"
+    },
+    {
+      "id": 428158,
+      "statistic_num": "510021710086",
+      "name": "PONDOK PESANTREN AGRO NURUL ISLAM",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "Tanjung Banun RT 001 RW 005 RT 1 RW 5 Kel. SEMBULANG Kec. GALANG KOTA BATAM KEPULAUAN RIAU 29481"
+    },
+    {
+      "id": 349010,
+      "statistic_num": "510021720005",
+      "name": "PONDOK PESANTREN IBNU UTSMAN",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "Sungai Ladi RT.002 RW.003 RT 2 RW 3 Kel. KAMPUNG BUGIS Kec. TANJUNG PINANG KOTA KOTA TANJUNG PINANG KEPULAUAN RIAU 29115"
+    },
+    {
+      "id": 99266,
+      "statistic_num": "510321710029",
+      "name": "PONDOK PESANTREN AL ITISHOM",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "JL.HANG LEKIU NO.2 RT 2 RW 12 Kel. SAMBAU Kec. NONGSA KOTA BATAM KEPULAUAN RIAU 29465"
+    },
+    {
+      "id": 163452,
+      "statistic_num": "510321710035",
+      "name": "Pondok Pesantren Darussalam Al Gontory",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "Kampung Tua Setengar RT 1 RW 3 Kel. TANJUNG PIAYU Kec. SEI BEDUK KOTA BATAM KEPULAUAN RIAU 29437"
+    },
+    {
+      "id": 261373,
+      "statistic_num": "510321710045",
+      "name": "Pondok Pesantren Salafiyah Utsman bin Affan",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "KOMPLEK RUKO USINDO KAPLING LAMA RT 1 RW 1 Kel. SAGULUNG KOTA Kec. SAGULUNG KOTA BATAM KEPULAUAN RIAU 29439"
+    },
+    {
+      "id": 272947,
+      "statistic_num": "510321710047",
+      "name": "Pondok Pesantren Miftahul Huda",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "JL. DAPUR ENAM SEI BULUH RT 2 RW 5 Kel. SEMBULANG Kec. GALANG KOTA BATAM KEPULAUAN RIAU 29481"
+    }
+  ]
+}

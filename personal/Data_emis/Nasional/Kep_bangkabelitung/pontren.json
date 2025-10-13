@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "id": 132441,
+      "statistic_num": "510019010017",
+      "name": "PONDOK PESANTREN NURUL HUDA AS-SYARIFI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 19,
+      "province_name": "KEPULAUAN BANGKA BELITUNG",
+      "address": "JL.BINTANG LINGKUNGAN RAMBAK KEL.JELITIK RT 3 Kel. JELITIK Kec. SUNGAILIAT BANGKA KEPULAUAN BANGKA BELITUNG 33211"
+    },
+    {
+      "id": 205501,
+      "statistic_num": "510019040010",
+      "name": "Pondok Pesantren Tahfizh Hidayatullah Bangka Belitung",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 19,
+      "province_name": "KEPULAUAN BANGKA BELITUNG",
+      "address": "Jl. Pesantren Hidayatullah RT.004 RW. 002 Desa Teru Kecamatan Simpang Katis, Kab RT 1 RW 4 Kel. TERU Kec. SIMPANG KATIS BANGKA TENGAH KEPULAUAN BANGKA BELITUNG 33674"
+    },
+    {
+      "id": 175333,
+      "statistic_num": "510019040014",
+      "name": "PONDOK PESANTREN TERPADU SAHABAT QUR'AN",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 19,
+      "province_name": "KEPULAUAN BANGKA BELITUNG",
+      "address": "Jalan Merdeka By pass RT 21 RW 1 Kel. PADANG MULIA Kec. KOBA BANGKA TENGAH KEPULAUAN BANGKA BELITUNG 33681"
+    },
+    {
+      "id": 431772,
+      "statistic_num": "510019040019",
+      "name": "PONDOK PESANTREN TAHFIZH HIDAYATULLAH BANGKA BELITUNG",
+      "jenjang": "Kitab Kuning",
+      "status": "inactive",
+      "province_id": 19,
+      "province_name": "KEPULAUAN BANGKA BELITUNG",
+      "address": "Jl. Pesantren Desa Teru Kec Simpang Katis RT 4 RW 1 Kec. SIMPANG KATIS BANGKA TENGAH KEPULAUAN BANGKA BELITUNG"
+    },
+    {
+      "id": 424123,
+      "statistic_num": "510019050008",
+      "name": "PONDOK PESANTREN UWAIS AL QORNI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 19,
+      "province_name": "KEPULAUAN BANGKA BELITUNG",
+      "address": "Jln.Senawar Air Ger Tempilang RT 12 RW 6 Kel. TEMPILANG Kec. TEMPILANG BANGKA BARAT KEPULAUAN BANGKA BELITUNG 33365"
+    }
+  ]
+}

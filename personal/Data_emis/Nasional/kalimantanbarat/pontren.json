@@ -1,0 +1,144 @@
+{
+  "results": [
+    {
+      "id": 242603,
+      "statistic_num": "502361040022",
+      "name": "PONDOK PESANTREN AL-GHUFRON",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "JL. GATOT SUBROTO RT 8 RW 2 Kel. PAYA KUMANG Kec. DELTA PAWAN KETAPANG KALIMANTAN BARAT 78813"
+    },
+    {
+      "id": 415489,
+      "statistic_num": "510061020085",
+      "name": "PONDOK PESANTREN AL QUR'AN DARUL QOMAR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "Jl. Daeng Menambon RT.03 RW.01 RT 3 RW 1 Kel. KUALA SECAPAH Kec. MEMPAWAH HILIR MEMPAWAH KALIMANTAN BARAT 78914"
+    },
+    {
+      "id": 88995,
+      "statistic_num": "510061040029",
+      "name": "PONDOK PESANTREN MURATTILUL QUR'AN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "Komplek Gerbang Mutiara Blok. H RT 1 RW 1 Kel. KAUMAN Kec. BENUA KAYONG KETAPANG KALIMANTAN BARAT 78821"
+    },
+    {
+      "id": 337963,
+      "statistic_num": "510061090010",
+      "name": "PONDOK PESANTREN SYAIKH ZAINUDDIN NW MELAWI",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "JLN. KKLK DESA TANJUNG TENGANG RT 6 RW 3 Kel. TANJUNG TENGANG Kec. NANGA PINOH MELAWI KALIMANTAN BARAT 79672"
+    },
+    {
+      "id": 388561,
+      "statistic_num": "510061120085",
+      "name": "PONDOK PESANTREN SALAFY NURUL HUDA 2",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "JL. KH. IMAM UBAIDILLAH RT 61 RW 18 Kel. PUNGUR KECIL Kec. SUNGAI KAKAP KUBU RAYA KALIMANTAN BARAT 78381"
+    },
+    {
+      "id": 296999,
+      "statistic_num": "510061120086",
+      "name": "PONDOK PESANTREN SYIROJUL MUNIR AL MUBAROK MADUSARI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "Parit Tenaga Baru RT 3 RW 2 Kel. MADU SARI Kec. SUNGAI RAYA KUBU RAYA KALIMANTAN BARAT 78391"
+    },
+    {
+      "id": 284060,
+      "statistic_num": "510061120093",
+      "name": "PONDOK PESANTREN AL-IKHSAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "Jln Raya Desa Kapur Dsn Bunut Jaya RT 1 RW 1 Kel. MADU SARI Kec. SUNGAI RAYA KUBU RAYA KALIMANTAN BARAT 78391"
+    },
+    {
+      "id": 304313,
+      "statistic_num": "510061120096",
+      "name": "PONDOK PESANTREN SALAFY NURUL HUDA III",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "Jl. Parit Kongsi Dusun Saga RT 5 RW 4 Kel. SUNGAI ENAU Kec. KUALA MANDOR B KUBU RAYA KALIMANTAN BARAT 78355"
+    },
+    {
+      "id": 344611,
+      "statistic_num": "510061120097",
+      "name": "PONDOK TAHFIDZ MILLENIAL ASHQAF DAN MARYAM COLLEGE",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "Jalan Sungai Raya Dalam RT 005 RW 003 RT 5 RW 3 Kel. SUNGAI RAYA Kec. SUNGAI RAYA KUBU RAYA KALIMANTAN BARAT 78391"
+    },
+    {
+      "id": 355591,
+      "statistic_num": "510061120173",
+      "name": "PONDOK PESANTREN MAMBAUL ULUM",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "DUSUN SUI JAWA RT 3 RW 1 Kel. KOREK Kec. SUNGAI AMBAWANG KUBU RAYA KALIMANTAN BARAT 78393"
+    },
+    {
+      "id": 131311,
+      "statistic_num": "510061710035",
+      "name": "LEMBAGA PONDOK PENSANTREN MA'ARIF HUSNUL YAQIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "JL Parwasal Gg. Melati II Siantan Tengah RT 3 RW 24 Kec. PONTIANAK UTARA KOTA PONTIANAK KALIMANTAN BARAT"
+    },
+    {
+      "id": 97700,
+      "statistic_num": "510061720018",
+      "name": "PONDOK PESANTREN IBNU TAIMIYAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "JALAN PENDIDIKAN NO.66 TELUK KARANG RT 40 RW 7 Kel. SEDAU Kec. SINGKAWANG SELATAN KOTA SINGKAWANG KALIMANTAN BARAT 79163"
+    },
+    {
+      "id": 138845,
+      "statistic_num": "510361120069",
+      "name": "PONDOK PESANTREN BAITUL MUBAROK",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "PARIT SERONG RT. 037, RW. 010 DESA PAL IX KECAMATAN SUNGAI KAKAP, KABUPATEN KUBU RAYA, PROVINSI KALIMANTAN BARAT. Kec. SUNGAI KAKAP KUBU RAYA KALIMANTAN BARAT"
+    },
+    {
+      "id": 359188,
+      "statistic_num": "510361120083",
+      "name": "PONDOK PESANTREN BAITUL MUBAROK",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "PARIT SERONG, DESA PAL SEMBILAN, KEC. SUNGAI KAKAP RT 37 RW 10 Kel. SUNGAI KAKAP Kec. SUNGAI KAKAP KUBU RAYA KALIMANTAN BARAT 78381"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "message": "",
+  "success": true,
+  "errors": null,
+  "metadata": {
+    "pagination": {
+      "per_page": 10,
+      "total": 13,
+      "current_page": 1,
+      "last_page": 2,
+      "next_page_url": "https://api-emis.kemenag.go.id/v1/institutions/pontren/search-all-data?institution_group_id=1&search_type=institution&q=pondok&per_page=10&recaptcha=0cAFcWeA7VzjtHbCTtIcSrk0wBQck2ddZg-ECwPh1gPmTyoP92JoMDulWQ0DQ0KPeDMJF9PehTyuaaMBfaqopWBwf_7HGYvWXkMrufr4heu_sB8DScp1rpz4_1WPt0VpCtwKVJ0Fp39AaiLHtiqzMZWXn3-TPDP2wVkPXwepwwpcHf77qvfdYeXfWbNG9KqtAaDetqltjg0S-9nh74075MQafMQQzXPlPg-uc6eflHMfHigPMEPgmNCCU6lZL0cu-KKxWZ5H6DJDJddP29PqNOpuqpaiKO9iUCMFXPWpfxZMxfMxkF0DCuu2pAYEt1GXl4bdb3Ho7Ww-rf3QYPb86ZV_B2QaYjDpqoj7px4i0hiHB8YmJ5mIvmJnGMMqKi-0Fwu6kSwfdOmRm0-QhSyqcAIgfV4F330SWFOt4bSFRqYeKYtFHrV0ClLIBEE_MKKuTvbl3nr-9-zgjYL8dlX_DVPLOHgfoaJ9r2b4hyfP1SZNJbrKz9Mc-_nD51Er11BHo-pzQrZZOomT8nvI3CvXBsoYVs6O_IZuerXfCNN9RHU3lzOqD4re7Q69FUg_NwZWptRJO6zriZOVtqnQdw9_D58zXVBpcTY0aptRxEL4Q_oWJ93efGCis1n7kz-KopZlIyF5VbN6rHf5rEz7vSCFYkYNeJRzU3XeHDRwGV3nwemMrXzoeibMM8ciwHTLaUiTvKidifOFA1xXgLGVpPl3YG942IlsvSnjHK2CqZLpPag70zWbYg1PGavhKS0KIVWtRNQNTpuMotS5WOHIU-ERca0cK6IgumIeDxR0FlTWHkF77LKcQwP1DGM4tJxcZ7x5aFhx_ZpLzWr_Ws&province_id=17&page=2",
+      "prev_page_url": null
+    }
+  },
+  "results": [
+    {
+      "id": 160086,
+      "statistic_num": "510017020005",
+      "name": "PONDOK PESANTREN TAHFIDZ AL-QUR'AN IMAM ASY-SYAFI'I",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 17,
+      "province_name": "BENGKULU",
+      "address": "Desa Bandung Marga RT 3 RW 4 Kel. BANDUNG MARGA Kec. BERMANI ULU RAYA REJANG LEBONG BENGKULU 39151"
+    },
+    {
+      "id": 112720,
+      "statistic_num": "510017020011",
+      "name": "PONDOK PESANTREN DARUL MA'ARIF NAHDLATUL ULAMA REJANG LEBONG",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 17,
+      "province_name": "BENGKULU",
+      "address": "JL. IRIGASI DUSUN I, DESA TANJUNG BERINGIN Kel. TANJUNG BERINGIN Kec. CURUP UTARA REJANG LEBONG BENGKULU 39125"
+    },
+    {
+      "id": 95957,
+      "statistic_num": "510017050005",
+      "name": "PONDOK PESANTREN AHSANU 'AMALA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 17,
+      "province_name": "BENGKULU",
+      "address": "Jl. Bengkulu - Tais KM 32, Kelurahan Sukaraja RT 6 RW 1 Kel. SUKARAJA Kec. SUKARAJA SELUMA BENGKULU 38877"
+    },
+    {
+      "id": 335886,
+      "statistic_num": "510017060014",
+      "name": "PONDOK PESANTREN AL FATH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 17,
+      "province_name": "BENGKULU",
+      "address": "DESA AIR BULUH, KECAMATAN IPUH, KABUPATEN MUKOMUKO, BENGKULU Kel. AIR BULUH Kec. IPUH MUKO MUKO BENGKULU 38763"
+    },
+    {
+      "id": 149756,
+      "statistic_num": "510017060019",
+      "name": "PONDOK PESANTREN AL-FATAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 17,
+      "province_name": "BENGKULU",
+      "address": "Penarik Kel. PENARIK Kec. PENARIK MUKO MUKO BENGKULU 38768"
+    },
+    {
+      "id": 266136,
+      "statistic_num": "510017070002",
+      "name": "PONDOK PESANTREN BITANG SMILAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 17,
+      "province_name": "BENGKULU",
+      "address": "DESA NANGAI TAYAU KECAMATAN AMEN RT 1 RW 2 Kel. NANGAI TAYAU Kec. AMEN LEBONG BENGKULU 39264"
+    },
+    {
+      "id": 125428,
+      "statistic_num": "510017710015",
+      "name": "PONDOK PESANTREN ABDURRAHMAN AL-FATIH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 17,
+      "province_name": "BENGKULU",
+      "address": "JL.SUMUR DEWA 4, RT. 27, RW. 06 RT 27 RW 6 Kel. SUMUR DEWA Kec. SELEBAR KOTA BENGKULU BENGKULU 38216"
+    },
+    {
+      "id": 308640,
+      "statistic_num": "510017710028",
+      "name": "PONDOK PESANTREN INTERNASIONAL ISLAM TERPADU RABBANI",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 17,
+      "province_name": "BENGKULU",
+      "address": "Jl. Raflesia Regency RT 21 RW 1 Kel. BENTIRING Kec. MUARA BANGKA HULU KOTA BENGKULU BENGKULU 38126"
+    },
+    {
+      "id": 403011,
+      "statistic_num": "510017710029",
+      "name": "PONDOK PESANTREN ROUDLOTUR ROSMANI",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 17,
+      "province_name": "BENGKULU",
+      "address": "Jl.Kramat Teluk Rt.09 Rw.06 Kel. BETUNGAN Kec. SELEBAR KOTA BENGKULU BENGKULU 38214"
+    },
+    {
+      "id": 129933,
+      "statistic_num": "510017710030",
+      "name": "PONDOK PESANTREN AL-QUR'AN RABBANIYYIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 17,
+      "province_name": "BENGKULU",
+      "address": "Jl. Budi Utomo RT.6 RW.02. RT 6 RW 2 Kel. BERINGIN RAYA Kec. MUARA BANGKA HULU KOTA BENGKULU BENGKULU 38121"
+    },
+    {
+      "id": 131173,
+      "statistic_num": "510017710031",
+      "name": "PONDOK PESANTREN AL-QUR'AN AS SYAKUR",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 17,
+      "province_name": "BENGKULU",
+      "address": "Jl. Rinjani 10, RT 10, RW 003, No. 98 RT 10 RW 3 Kel. JEMBATAN KECIL Kec. SINGARAN PATI KOTA BENGKULU BENGKULU 38224"
+    },
+    {
+      "id": 262688,
+      "statistic_num": "510317070001",
+      "name": "Pondok Pesantren Nurul Qur'an",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 17,
+      "province_name": "BENGKULU",
+      "address": "JALAN RAYA TUBEI - DESA SUKAU KAYO - KEC. LEBONG ATAS Kel. SUKAU KAYO Kec. LEBONG ATAS LEBONG BENGKULU 39265"
+    },
+    {
+      "id": 329987,
+      "statistic_num": "512017080001",
+      "name": "PONDOK PESANTREN MODERN DARUSSALAM",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 17,
+      "province_name": "BENGKULU",
+      "address": "JL. MERDEKA KEL. DUSUN KEPAHIANG Kel. DUSUN KEPAHIANG Kec. KEPAHIANG KEPAHIANG BENGKULU 39372"
+    }
+  ]
+}

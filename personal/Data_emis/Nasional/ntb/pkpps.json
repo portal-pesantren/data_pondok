@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "id": 203787,
+      "statistic_num": "510052030240",
+      "name": "PONDOK TAHFIDZ BAQIYATUSSALAF NW",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jln. Raya Santri, Kampung Montor Sugia, Desa Toya, Kec. Aikmel, Kab. Lombok Timur-NTB RT 1 RW 1 Kel. TOYA Kec. AIKMEL LOMBOK TIMUR NUSA TENGGARA BARAT 83653"
+    },
+    {
+      "id": 152695,
+      "statistic_num": "510352020235",
+      "name": "Pondok Pesantren Irhamna Bil Qur’an NW",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 52,
+      "province_name": "NUSA TENGGARA BARAT",
+      "address": "Jln. Praya - Mantang KM 07 Dusun Aikmual Lauq RT 3 Kel. AIK MUAL Kec. PRAYA LOMBOK TENGAH NUSA TENGGARA BARAT 83511"
+    }
+  ]
+}

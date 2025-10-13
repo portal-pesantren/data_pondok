@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "id": 360453,
+      "statistic_num": "222216080003",
+      "name": "SPM WUSTHA KULLIYATUL MU'ALLIMIN AL-ISLAMIYAH PONDOK PESANTREN NURUSSALAM SIDOGEDE",
+      "jenjang": "Wustha",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL. PESANTREN RT 001 RW 002 SIDOGEDE, BELITANG, OGAN KOMERING ULU TIMUR RT 2 RW 1 Kel. SIDO GEDE Kec. BELITANG OGAN KOMERING ULU TIMUR SUMATERA SELATAN 32382"
+    },
+    {
+      "id": 239363,
+      "statistic_num": "232216080004",
+      "name": "SPM ULYA KULLIYATUL MU'ALLIMIN AL-ISLAMIYAH PONDOK PESANTREN NURUSSALAM SIDOGEDE",
+      "jenjang": "Ulya",
+      "status": "active",
+      "province_id": 16,
+      "province_name": "SUMATERA SELATAN",
+      "address": "JL. PESANTREN RT 01 RW 02 SIDOGEDE, BELITANG, OGAN KOMERING ULU TIMUR RT 2 RW 1 Kel. SIDO GEDE Kec. BELITANG OGAN KOMERING ULU TIMUR SUMATERA SELATAN 32382"
+    }
+  ]
+}

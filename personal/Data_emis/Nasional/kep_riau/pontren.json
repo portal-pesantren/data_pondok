@@ -1,0 +1,304 @@
+{
+  "results": [
+    {
+      "id": 95621,
+      "statistic_num": "500021010010",
+      "name": "PONDOK PESANTREN SALAFIYAH AL-QUDWAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "JL RAYA TANJUNG PINANG- TANJUNG UBAN KP.PEREH RT 03 RW 03 RT 3 RW 3 Kel. SEBONG PEREH Kec. TELOK SEBONG BINTAN KEPULAUAN RIAU 29152"
+    },
+    {
+      "id": 206671,
+      "statistic_num": "500021010012",
+      "name": "Pondok Pesantren Tahfizhul Qur'an Al- Fitrah",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "Jl. Raya Tj. Uban - Tj. Pinang GG. Kamboja No.km 17, Toapaya Sel., Kec. Toapaya, Kabupaten Bintan, Kepulauan Riau 29151 RT 11 RW 3 Kel. TOAPAYA SELATAN Kec. TOAPAYA BINTAN KEPULAUAN RIAU 29151"
+    },
+    {
+      "id": 232588,
+      "statistic_num": "510021010006",
+      "name": "PONDOK PESANTREN IDRIS",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "JL.WISATA BAHARI KP.JEROPET KEL.KAWAL KEC.GUNUNG KIJANG KAB.BINTAN RT 4 RW 2 Kel. KAWAL Kec. GUNUNG KIJANG BINTAN KEPULAUAN RIAU 29151"
+    },
+    {
+      "id": 343410,
+      "statistic_num": "510021010013",
+      "name": "PONDOK PESANTREN AL FURQON BINTAN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "Jl. H. Paranrenge Pasar Baru Tanjung Uban RT 12 RW 2 Kel. TANJUNG UBAN SELATAN Kec. BINTAN UTARA BINTAN KEPULAUAN RIAU 29152"
+    },
+    {
+      "id": 288791,
+      "statistic_num": "510021040008",
+      "name": "PONDOK PESANTREN HALIMATUSSADIYAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "JL.PEMANDIAN AIR PANAS DESA BERINDAT RT 1 RW 1 Kel. BERINDAT Kec. SINGKEP PESISIR LINGGA KEPULAUAN RIAU 29871"
+    },
+    {
+      "id": 164211,
+      "statistic_num": "510021050004",
+      "name": "PONDOK PESANTREN MODERN KHAIRA UMMAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "JL. SOEKARNO HATTA RT 9 RW 3 Kel. TAREMPA SELATAN Kec. SIANTAN KEPULAUAN ANAMBAS KEPULAUAN RIAU 29791"
+    },
+    {
+      "id": 211387,
+      "statistic_num": "510021050005",
+      "name": "PONDOK PESANTREN AL-HIKMAH AIR ASUK",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "inactive",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "JL. HAJI HASYIM NO. 32 DESA AIR ASUK RT 2 RW 4 Kec. SIANTAN TENGAH KEPULAUAN ANAMBAS KEPULAUAN RIAU 29783"
+    },
+    {
+      "id": 429442,
+      "statistic_num": "510021710004",
+      "name": "PONDOK PESANTREN AN NI'MAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "inactive",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "KAMPUNG TUA DAPUR 12  SAGULUNG RT 2 RW 2 KOTA BATAM KEPULAUAN RIAU"
+    },
+    {
+      "id": 241963,
+      "statistic_num": "510021710012",
+      "name": "Pondok Pesantren Nurul Haq",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "KOMPLEK KHALIFATULLAH JL. BRIGJEN KATAMSO NO 01 BATU AJI RT 1 RW 11 Kel. KIBING Kec. BATU AJI KOTA BATAM KEPULAUAN RIAU 29422"
+    },
+    {
+      "id": 429670,
+      "statistic_num": "510021710048",
+      "name": "PONDOK PESSANTREN DARUL FALAH",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "inactive",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "JL HANG TUAH RT 3 RW 11 Kec. NONGSA KOTA BATAM KEPULAUAN RIAU 29466"
+    },
+    {
+      "id": 431634,
+      "statistic_num": "510021710074",
+      "name": "PONDOK PESANTREN KALIGRAFI NURUL MUSTHOFA",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "inactive",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "PERUM BUKIT SAKINAH, GANG THORIQ IV BLOCK NAMITRA NO. 09 RT 27 RW 2 Kec. BATU AJI KOTA BATAM KEPULAUAN RIAU 29424"
+    },
+    {
+      "id": 206866,
+      "statistic_num": "510021710076",
+      "name": "PONDOK PESANTREN AL-USTMANIYAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "Dapur 12 Pantai RT 3 RW 9 Kel. SUNGAI PELUNGGUT Kec. SAGULUNG KOTA BATAM KEPULAUAN RIAU 29439"
+    },
+    {
+      "id": 171995,
+      "statistic_num": "510021710081",
+      "name": "PONDOK PESANTREN MEDINA UMAH CENDEKIA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "Villa Teluk Angin, Jalan Pantai Dangas RT 2 RW 5 Kel. TANJUNG PINGGIR Kec. SEKUPANG KOTA BATAM KEPULAUAN RIAU 29428"
+    },
+    {
+      "id": 236017,
+      "statistic_num": "510021710082",
+      "name": "PONDOK PESANTREN ULUL ILMI CENDEKIA",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "Jln. Ir. Sutami, RT 02 RW 05 RT 2 RW 5 Kel. TANJUNG PINGGIR Kec. SEKUPANG KOTA BATAM KEPULAUAN RIAU 29428"
+    },
+    {
+      "id": 367937,
+      "statistic_num": "510021710086",
+      "name": "PONDOK PESANTREN AGRO NURUL ISLAM",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "Tanjung Banun RT 001 RW 005 RT 1 RW 5 Kel. SEMBULANG Kec. GALANG KOTA BATAM KEPULAUAN RIAU 29481"
+    },
+    {
+      "id": 270214,
+      "statistic_num": "510021710087",
+      "name": "PONDOK PESANTREN BAITUL QUR'AN BATAM",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "kelurahanTanjung Buntung, Bengkong, Batam RT 2 RW 1 Kel. TANJUNG BUNTUNG Kec. BENGKONG KOTA BATAM KEPULAUAN RIAU 29432"
+    },
+    {
+      "id": 405253,
+      "statistic_num": "510021720005",
+      "name": "PONDOK PESANTREN IBNU UTSMAN TANJUNGPINANG",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "Sungai Ladi RT.02/RW.03 RT 2 RW 3 Kel. KAMPUNG BUGIS Kec. TANJUNG PINANG KOTA KOTA TANJUNG PINANG KEPULAUAN RIAU 29115"
+    },
+    {
+      "id": 393105,
+      "statistic_num": "510021720009",
+      "name": "Pondok Pesantren Raudhatul Qur'an",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "JL. RAYA TANJUNG UBAN NO. 07 KELURAHAN AIR RAJA RT 1 RW 4 Kel. AIR RAJA Kec. TANJUNG PINANG TIMUR KOTA TANJUNG PINANG KEPULAUAN RIAU 29122"
+    },
+    {
+      "id": 436284,
+      "statistic_num": "510221710095",
+      "name": "Pondok Pesantren Mafaaza Islamic Boarding School",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "Jln. Pattimura RT. 01 RW. 01 Telaga Punggur Kabil, Nongsa Kota Batam KOTA BATAM KEPULAUAN RIAU 29467"
+    },
+    {
+      "id": 118512,
+      "statistic_num": "510321020008",
+      "name": "PONDOK PESANTREN SALAFIYAH DARUL TAUFIQ",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "JLN. LETJEND SOEPRAPTO. RT 2 RW 2 Kel. SEI RAYA Kec. MERAL KARIMUN KEPULAUAN RIAU 29664"
+    },
+    {
+      "id": 113691,
+      "statistic_num": "510321040005",
+      "name": "Pondok Pesantren Darul Qalam",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "JALAN RAYA TANAH MERAH SEBANGKA NO. 01 RT 12 RW 4 Kel. SENAYANG Kec. SENAYANG LINGGA KEPULAUAN RIAU 29873"
+    },
+    {
+      "id": 354508,
+      "statistic_num": "510321710035",
+      "name": "PONDOK PESANTREN SALAFIYAH WUSTHA DARUSSALAM AL GONTORY BATAM",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "Kampung Tua Setengar RT 1 RW 3 Kel. TANJUNG PIAYU Kec. SEI BEDUK KOTA BATAM KEPULAUAN RIAU 29437"
+    },
+    {
+      "id": 431194,
+      "statistic_num": "510321710036",
+      "name": "PONDOK PESANTREN WUSTHO AL - QURAN & HADIST YA HUSNAYA",
+      "jenjang": "Kitab Kuning",
+      "status": "inactive",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "JL. NUGROHO YAYASAN YA HUSNAYA SEI TEMIANG RT 6 RW 7 Kec. SEKUPANG KOTA BATAM KEPULAUAN RIAU 29425"
+    },
+    {
+      "id": 345005,
+      "statistic_num": "510321710045",
+      "name": "PONDOK PESANTREN SALAFIYAH WUSTHO UTSMAN BIN AFFAN",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "KOMPLEK RUKO USINDO KAPLING LAMA RT 1 RW 1 Kel. SAGULUNG KOTA Kec. SAGULUNG KOTA BATAM KEPULAUAN RIAU 29439"
+    },
+    {
+      "id": 294735,
+      "statistic_num": "510321710047",
+      "name": "YAYASAN PONDOK PESANTREN MIFTAHUL HUDA",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "JL. DAPUR ENAM SEI BULUH RT 2 RW 5 Kel. SEMBULANG Kec. GALANG KOTA BATAM KEPULAUAN RIAU 29481"
+    },
+    {
+      "id": 111027,
+      "statistic_num": "510321710063",
+      "name": "PONDOK PESANTREN AL-AMIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "BENGKONG INDAH II SWADAYA GANG COLIBRI NO 5 RT 1 RW 6 Kel. SADAI Kec. BENGKONG KOTA BATAM KEPULAUAN RIAU 29432"
+    },
+    {
+      "id": 390567,
+      "statistic_num": "512321010009",
+      "name": "PONDOK PESANTREN IBNU KASIM NAHDLATUL WATHAN BINTAN",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "KAMPUNG BANGUN REJO KM 18 RT 003/RW 002 KELURAHAN GUNUNG LENGKUAS KECAMATAN BINTAN TIMUR RT 3 RW 2 Kel. GUNUNG LENGKUAS Kec. BINTAN TIMUR BINTAN KEPULAUAN RIAU 29151"
+    },
+    {
+      "id": 387718,
+      "statistic_num": "512321010011",
+      "name": "Pondok Pesantren Nabil Al Fathi",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "JALAN NUSANTARA KM.18 ,PERUM MAHKOTA AL AZHAR BINTAN, KELURAHAN SEI.LEKOP, KECAMATAN BINTAN TIMUR RT 2 RW 2 Kec. BINTAN TIMUR BINTAN KEPULAUAN RIAU 29151"
+    },
+    {
+      "id": 197233,
+      "statistic_num": "512321710068",
+      "name": "PONDOK PESANTREN BAHASA NUR SOHIB",
+      "jenjang": "Kitab Kuning Berjenjang",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "SEI ALENG RW/RT 11/01 RT 11 RW 1 Kel. SUNGAI BINTI Kec. SAGULUNG KOTA BATAM KEPULAUAN RIAU 29439"
+    },
+    {
+      "id": 105515,
+      "statistic_num": "512321720004",
+      "name": "PONDOK PESANTREN IBNU ABBAS TANJUNGPINANG",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 21,
+      "province_name": "KEPULAUAN RIAU",
+      "address": "JL. BUKIT ASRI RT 3 RW 14 Kel. BATU IX Kec. TANJUNG PINANG TIMUR KOTA TANJUNG PINANG KEPULAUAN RIAU 29125"
+    }
+  ]
+}

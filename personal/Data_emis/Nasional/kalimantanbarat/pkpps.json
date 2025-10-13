@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "id": 440035,
+      "statistic_num": "510061710027",
+      "name": "PPS PONDOK PESANTREN DAR ULIN NUHA",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "Jalan Gusti Situt Mahmud Gg. Selat Malaka I RT 3 RW 3 Kel. SIANTAN HULU Kec. PONTIANAK UTARA KOTA PONTIANAK KALIMANTAN BARAT 78241"
+    },
+    {
+      "id": 135146,
+      "statistic_num": "510061710033",
+      "name": "PONDOK PESANTREN MAHYAJATUL QURRA'",
+      "jenjang": "-",
+      "status": "active",
+      "province_id": 61,
+      "province_name": "KALIMANTAN BARAT",
+      "address": "Jl. Ujung Pandang 2 Kel. Sui Jawi, Gg. Pesantren RT 1 RW 40 Kel. SUNGAIJAWI Kec. PONTIANAK KOTA KOTA PONTIANAK KALIMANTAN BARAT 78113"
+    }
+  ]
+}

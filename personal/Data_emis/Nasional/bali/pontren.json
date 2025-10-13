@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "id": 115685,
+      "statistic_num": "510051010059",
+      "name": "PONDOK PESANTREN DARUSSA'ADAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 51,
+      "province_name": "BALI",
+      "address": "Jln.Raya Negara - Pengambengan,no 15 RT 1 RW 1 Kel. PENGAMBENGAN Kec. NEGARA JEMBRANA BALI 82218"
+    },
+    {
+      "id": 308203,
+      "statistic_num": "510051010097",
+      "name": "PONDOK PESANTREN SUNAN KUDUS",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 51,
+      "province_name": "BALI",
+      "address": "Jln. Denpasar-Gilimanuk, Km. 74 Kel. YEH SUMBUL Kec. MENDOYO JEMBRANA BALI 82261"
+    },
+    {
+      "id": 247572,
+      "statistic_num": "510051070016",
+      "name": "PONDOK PESANTREN TAHFIDZUL QUR'AN ADDIMAS",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 51,
+      "province_name": "BALI",
+      "address": "BR.DINAS KECICANG ISLAM DESA BUNGAYA KANGIN Kel. BUNGAYA Kec. BEBANDEM KARANGASEM BALI 80861"
+    },
+    {
+      "id": 184795,
+      "statistic_num": "510051070017",
+      "name": "PONDOK PESANTREN RK. ABDUL DJALIL",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 51,
+      "province_name": "BALI",
+      "address": "BANJAR DINAS SAREN JAWA Kel. BUDEKELING Kec. BEBANDEM KARANGASEM BALI 80861"
+    },
+    {
+      "id": 314807,
+      "statistic_num": "510051080022",
+      "name": "PONDOK PESANTREN DARUL QUR’AN WADDA’WAH",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 51,
+      "province_name": "BALI",
+      "address": "JL. KECUBUNG DESA PENGULON Kel. PENGULON Kec. GEROKGAK BULELENG BALI 81155"
+    }
+  ]
+}

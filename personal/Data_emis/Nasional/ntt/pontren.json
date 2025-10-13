@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "id": 384519,
+      "statistic_num": "500053170001",
+      "name": "PONDOK PESANTREN DARUL HIKAM WAIBAKUL",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 53,
+      "province_name": "NUSA TENGGARA TIMUR",
+      "address": "JALAN RAYA TANA MODU DESA TANA MODU RT 4 RW 4 Kel. TANA MODU Kec. KATIKU TANA SELATAN SUMBA TENGAH NUSA TENGGARA TIMUR 87282"
+    },
+    {
+      "id": 353155,
+      "statistic_num": "510053080008",
+      "name": "PONDOK PESANTREN ANNUR CENTRE FLORES",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 53,
+      "province_name": "NUSA TENGGARA TIMUR",
+      "address": "JALAN IMAM BONJOL NDAO, KELURAHAN KOTA RATU, KECAMTAN ENDE UTARA, KABUPATEN ENDE, FLORES, NTT RT 1 RW 2 Kel. KOTA RATU Kec. ENDE UTARA ENDE NUSA TENGGARA TIMUR 86319"
+    },
+    {
+      "id": 409169,
+      "statistic_num": "510053100002",
+      "name": "PONDOK PESANTREN DARUL MUKHLASHIN",
+      "jenjang": "Kitab Kuning",
+      "status": "active",
+      "province_id": 53,
+      "province_name": "NUSA TENGGARA TIMUR",
+      "address": "Wae Buka, RT 01 / RW 01 RT 1 RW 1 Kel. SATAR TACIK Kec. LANGKE REMBONG MANGGARAI NUSA TENGGARA TIMUR 86518"
+    },
+    {
+      "id": 288627,
+      "statistic_num": "510053110002",
+      "name": "PONDOK PESANTREN DARUSSALAM",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 53,
+      "province_name": "NUSA TENGGARA TIMUR",
+      "address": "JALAN PISANG RT 2 RW 4 Kel. WAILIANG Kec. KOTA WAIKABUBAK SUMBA BARAT NUSA TENGGARA TIMUR 87212"
+    },
+    {
+      "id": 278440,
+      "statistic_num": "510053120001",
+      "name": "PONDOK PESANTREN AL-ABROR",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 53,
+      "province_name": "NUSA TENGGARA TIMUR",
+      "address": "JL. MUARA KARYA NO.04 RT 14 RW 7 Kel. KAMALAPUTI Kec. KOTA WAINGAPU SUMBA TIMUR NUSA TENGGARA TIMUR 87111"
+    },
+    {
+      "id": 176412,
+      "statistic_num": "510053180003",
+      "name": "PONDOK PESANTREN KANURU",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 53,
+      "province_name": "NUSA TENGGARA TIMUR",
+      "address": "JL. PANTAI PERO DESA PERO  KONDA KECAMATAN KODI Kel. PERO KONDA Kec. KODI SUMBA BARAT DAYA NUSA TENGGARA TIMUR 87261"
+    },
+    {
+      "id": 267328,
+      "statistic_num": "512353090001",
+      "name": "PONDOK PESANTREN HIDAYATULLAH BAAR",
+      "jenjang": "Kitab Kuning Pondok Pesantren PSP",
+      "status": "active",
+      "province_id": 53,
+      "province_name": "NUSA TENGGARA TIMUR",
+      "address": "JL. TRANS UTARA RIUNG-POTA, MAROTAUK RT 2 RW 1 Kel. SAMBINASI BARAT Kec. RIUNG NGADA NUSA TENGGARA TIMUR 86419"
+    }
+  ]
+}
